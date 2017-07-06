@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>backups &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/backups/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Haz copias de Twitter, Flickr, Google Docs, WordPress&#8230; con LifestreamBackup</title>
+		<link>/microbiablog/herramientas/haz-copias-de-twitter-flickr-google-docs-wordpress-con-lifestreambackup/</link>
+		<pubDate>Fri, 26 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[backups]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/haz-copias-de-twitter-flickr-google-docs-wordpress-con-lifestreambackup/</guid>
+		<description><![CDATA[<p>Hacer backups de nuestros datos debería ser una tarea esencial en el mantenimiento de nuestro PC. De nuestra actividad online sin embargo, la cosa se complica, tenemos las fotos en Flickr, nuestro blog en WordPress y nuestros pensamientos en Twitter… para hacer copia de todos estos datos podemos utilizar LifestreamBackup. Soporta Twitter, Flickr, Photobucket, Google [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/haz-copias-de-twitter-flickr-google-docs-wordpress-con-lifestreambackup/">Haz copias de Twitter, Flickr, Google Docs, WordPress&hellip; con LifestreamBackup</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hacer backups de nuestros datos debería ser una tarea esencial en el mantenimiento de nuestro PC. De nuestra actividad online sin embargo, la cosa se complica, tenemos las fotos en Flickr, nuestro blog en WordPress y nuestros pensamientos en Twitter… para hacer copia de todos estos datos podemos utilizar LifestreamBackup.</p>
+<p>Soporta <strong>Twitter, Flickr, Photobucket, Google Docs, WordPress, Delicious, Basecamp y Zoho</strong>. Eso sí, <a href="http://lifestreambackup.com/" target="_blank">LifestreamBackup</a> <strong>no es gratis</strong>, cuesta $4.95/mes, pero nos facilita la tarea de hacer copias de estos servicios, ya que se conecta a las cuentas que le indiques y hará las copias correspondientes.</p>
+<p>Via <a href="http://bitelia.com/2009/06/haz-backups-de-tu-actividad-social-en-twitter-flickr-google-docs-etc-con-lifestreambackup" target="_blank">Bitelia</a> | <a href="http://lifestreambackup.com/" target="_blank">LifestreamBackup</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/haz-copias-de-twitter-flickr-google-docs-wordpress-con-lifestreambackup/">Haz copias de Twitter, Flickr, Google Docs, WordPress&hellip; con LifestreamBackup</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Trabajo &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/trabajo/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>¿Qué es SCRUM?</title>
+		<link>/microbiablog/paranoias/qu-es-scrum/</link>
+		<comments>/microbiablog/paranoias/qu-es-scrum/#comments</comments>
+		<pubDate>Mon, 06 Oct 2008 17:44:05 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Paranoias]]></category>
+		<category><![CDATA[gestión]]></category>
+		<category><![CDATA[personal]]></category>
+		<category><![CDATA[programacion]]></category>
+		<category><![CDATA[proyectos]]></category>
+		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[Trabajo]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/10/06/qu-es-scrum/</guid>
+		<description><![CDATA[<p>El otro día me preguntaron sobre SCRUM, para los que no lo conozcáis, es una metodología de desarrollo. Si os interesa el tema, existen millones de páginas con información, yo sólo quiero hacer referencia a la historia de las gallinas y los cerdos, que se utiliza para explicar los roles en SCRUM. Cuando desarrollas aplicaciones, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/paranoias/qu-es-scrum/">¿Qué es SCRUM?</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>El otro día me preguntaron sobre SCRUM, para los que no lo conozcáis, es una metodología de desarrollo. Si os interesa el tema, existen millones de páginas con información, yo sólo quiero hacer referencia a la historia de las gallinas y los cerdos, que se utiliza para explicar los roles en SCRUM.</p>
+<p><img style="display: block; float: none; margin-left: auto; margin-right: auto" alt="scrum" src="http://static.flickr.com/3006/2918386287_4c33ed2af6.jpg" border="0" /></p>
+<p>Cuando desarrollas aplicaciones, todo el mundo se permite opinar, mientras que esto sólo genera confusión y ruido la gran parte del tiempo. En Scrum los roles están muy bien diferenciados así como también las interacciones entre ellos, con el fin de hacer todo el proceso lo más ágil posible. En SCRUM, los <em>cerdos</em> son el equipo de desarrollo, el jefe de proyecto, etc en definitiva, los que se mojan y tienen que sacar las cosas adelante, mientras que las <em>gallinas</em> son el cliente, el que está <em>involucrado</em>, pero no <em>comprometido</em> <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Más info: <a href="http://es.wikipedia.org/wiki/Scrum" target="_blank">Scrum en wikipedia</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/paranoias/qu-es-scrum/">¿Qué es SCRUM?</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/paranoias/qu-es-scrum/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

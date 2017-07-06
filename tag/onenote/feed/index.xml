@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>onenote &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/onenote/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>A&#241;ade funcionalidades a OneNote con Powertoys</title>
+		<link>/microbiablog/herramientas/aade-funcionalidades-a-onenote-con-powertoys/</link>
+		<pubDate>Tue, 27 Jan 2009 20:28:19 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[office]]></category>
+		<category><![CDATA[onenote]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/01/27/aade-funcionalidades-a-onenote-con-powertoys/</guid>
+		<description><![CDATA[<p>Si utilizas regularmente OneNote, seguro que muchas veces has echado de menos funcionalidades que no tiene. El equipo de OneNote va desarrollando “Powertoys” que añaden estas funcionalidades en su blog. Aquí tienes un recopilatorio de los powertoys más útiles: Migrar a OneNote: Journal import http://blogs.msdn.com/johnguin/archive/2007/12/21/journal-to-onenote-importer.aspx Text File Importer: http://blogs.msdn.com/johnguin/archive/2007/04/30/customer-feedback-results-in-another-powertoy.aspx Export Outlook Notes to OneNote: http://blogs.msdn.com/descapa/archive/2007/02/14/export-your-outlook-notes-to-onenote.aspx [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/aade-funcionalidades-a-onenote-con-powertoys/">A&#241;ade funcionalidades a OneNote con Powertoys</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Si utilizas regularmente <a title="OneNote" href="http://microbiablog.com/2006/08/30/office-onenote-2007/">OneNote</a>, seguro que muchas veces has echado de menos funcionalidades que no tiene. El equipo de OneNote va desarrollando “Powertoys” que añaden estas funcionalidades en <a href="http://blogs.msdn.com/johnguin/default.aspx" target="_blank">su blog</a>. Aquí tienes un recopilatorio de los powertoys más útiles:</p>
+<ul><strong>Migrar a OneNote:</strong>     </p>
+<li>Journal import <a href="http://blogs.msdn.com/johnguin/archive/2007/12/21/journal-to-onenote-importer.aspx">http://blogs.msdn.com/johnguin/archive/2007/12/21/journal-to-onenote-importer.aspx</a> </li>
+<li>Text File Importer: <a href="http://blogs.msdn.com/johnguin/archive/2007/04/30/customer-feedback-results-in-another-powertoy.aspx">http://blogs.msdn.com/johnguin/archive/2007/04/30/customer-feedback-results-in-another-powertoy.aspx</a> </li>
+<li>Export Outlook Notes to OneNote: <a href="http://blogs.msdn.com/descapa/archive/2007/02/14/export-your-outlook-notes-to-onenote.aspx">http://blogs.msdn.com/descapa/archive/2007/02/14/export-your-outlook-notes-to-onenote.aspx</a> </li>
+<li>Import books from Project Gutenberg: <a href="http://blogs.msdn.com/johnguin/archive/2007/05/31/a-tool-to-import-texts-from-project-gutenberg.aspx">http://blogs.msdn.com/johnguin/archive/2007/05/31/a-tool-to-import-texts-from-project-gutenberg.aspx</a>       </li>
+</ul>
+<p> <span id="more-457"></span>  </p>
+<p><strong>Integración con Outlook:</strong> </p>
+<ul>
+<li>Outlook Email to OneNote: <a href="http://blogs.msdn.com/descapa/archive/2007/02/06/powertoy-outlook-to-onenote-addin.aspx">http://blogs.msdn.com/descapa/archive/2007/02/06/powertoy-outlook-to-onenote-addin.aspx</a> </li>
+<li>Task Request <a href="http://blogs.msdn.com/johnguin/archive/2007/12/11/task-requests-from-onenote-meeting-notes-powertoy.aspx">http://blogs.msdn.com/johnguin/archive/2007/12/11/task-requests-from-onenote-meeting-notes-powertoy.aspx</a> </li>
+<li>Use OneNote instead of Outlook Notes: <a href="https://blogs.msdn.com/johnguin/archive/2007/04/16/4-16.aspx">http://blogs.msdn.com/johnguin/archive/2007/04/16/4-16.aspx</a>
+<p><strong>Trabajando con datos en una página:</strong> </li>
+<li>Audio Fine Tuner <a href="https://blogs.msdn.com/johnguin/archive/2007/12/12/media-fine-tuner-powertoy-for-onenote.aspx">http://blogs.msdn.com/johnguin/archive/2007/12/12/media-fine-tuner-powertoy-for-onenote.aspx</a> </li>
+<li>Table sums <a href="https://blogs.msdn.com/johnguin/archive/2007/12/10/table-sum-powertoy-for-onenote.aspx">http://blogs.msdn.com/johnguin/archive/2007/12/10/table-sum-powertoy-for-onenote.aspx</a> </li>
+<li>Image Rotator <a href="https://blogs.msdn.com/johnguin/archive/2007/12/14/image-rotator-powertoy-for-onenote-2007.aspx">http://blogs.msdn.com/johnguin/archive/2007/12/14/image-rotator-powertoy-for-onenote-2007.aspx</a> </li>
+<li>Printout Manager: <a href="https://blogs.msdn.com/johnguin/archive/2007/09/19/an-addin-to-manage-printouts-to-onenote.aspx">http://blogs.msdn.com/johnguin/archive/2007/09/19/an-addin-to-manage-printouts-to-onenote.aspx</a> </li>
+<li>Word Count: <a href="http://blogs.msdn.com/descapa/archive/2007/02/14/onenote-2007-word-count.aspx">http://blogs.msdn.com/descapa/archive/2007/02/14/onenote-2007-word-count.aspx</a> </li>
+<li>Calendar/Planner Agenda Maker: <a href="http://blogs.msdn.com/johnguin/archive/2008/10/07/a-calendar-planner-powertoy-for-onenote.aspx">http://blogs.msdn.com/johnguin/archive/2008/10/07/a-calendar-planner-powertoy-for-onenote.aspx</a>
+<p><strong>Trabajando con páginas:</strong> </li>
+<li>Make a Page a Subpage: <a href="https://blogs.msdn.com/johnguin/archive/2007/09/07/make-subpage-addin-updated-and-a-lenovo-update.aspx">http://blogs.msdn.com/johnguin/archive/2007/09/07/make-subpage-addin-updated-and-a-lenovo-update.aspx</a> </li>
+<li>Merge Pages: <a href="https://blogs.msdn.com/johnguin/archive/2007/08/16/merge-pages-in-onenote-powertoy.aspx">http://blogs.msdn.com/johnguin/archive/2007/08/16/merge-pages-in-onenote-powertoy.aspx</a> </li>
+<li>Copy to Mobile Device: <a href="https://blogs.msdn.com/johnguin/archive/2007/06/11/making-pages-easier-to-sync-with-a-mobile-device.aspx">http://blogs.msdn.com/johnguin/archive/2007/06/11/making-pages-easier-to-sync-with-a-mobile-device.aspx</a>
+<p><strong>Addins para cuadernos:</strong> </li>
+<li>Privatizer <a href="https://blogs.msdn.com/johnguin/archive/2007/12/15/notebook-cleaner-and-privatizer-powertoy.aspx">http://blogs.msdn.com/johnguin/archive/2007/12/15/notebook-cleaner-and-privatizer-powertoy.aspx</a> </li>
+<li>Template Maker <a href="https://blogs.msdn.com/johnguin/archive/2007/12/13/template-manager-powertoy-for-onenote-2007.aspx">http://blogs.msdn.com/johnguin/archive/2007/12/13/template-manager-powertoy-for-onenote-2007.aspx</a> </li>
+<li>OneNote Favorites: <a href="http://blogs.msdn.com/johnguin/archive/2008/03/03/a-new-onenote-favorites-powertoy.aspx">http://blogs.msdn.com/johnguin/archive/2008/03/03/a-new-onenote-favorites-powertoy.aspx</a> </li>
+<li>Table of Contents: <a href="http://blogs.msdn.com/johnguin/archive/2007/07/12/award-winning-powertoy.aspx">http://blogs.msdn.com/johnguin/archive/2007/07/12/award-winning-powertoy.aspx</a> </li>
+<li>Embedded File Finder: <a href="http://blogs.msdn.com/johnguin/archive/2008/12/22/a-new-powertoy-nee-test-tool-used-to-find-onenote-pages-with-embedded-files.aspx">http://blogs.msdn.com/johnguin/archive/2008/12/22/a-new-powertoy-nee-test-tool-used-to-find-onenote-pages-with-embedded-files.aspx</a>
+<p><strong>Shared source addins:</strong> </li>
+<li>The Shared Source OM: <a href="http://www.codeplex.com/onom">http://www.codeplex.com/onom</a> (Donovan Lange and Jachym Kouba get ALL the credit for this one!) </li>
+<li>CRM for OneNote: <a href="http://msdn2.microsoft.com/en-us/library/bb872378.aspx">http://msdn2.microsoft.com/en-us/library/bb872378.aspx</a> &amp; <a href="http://www.codeplex.com/crmsnap/Release/ProjectReleases.aspx?ReleaseId=7804">http://www.codeplex.com/crmsnap/Release/ProjectReleases.aspx?ReleaseId=7804</a>
+<p><strong>Juegos:</strong> </li>
+<li>Sudoku: <a href="http://blogs.msdn.com/johnguin/archive/2008/06/30/sudoku-addin-for-onenote-beta-is-available.aspx">http://blogs.msdn.com/johnguin/archive/2008/06/30/sudoku-addin-for-onenote-beta-is-available.aspx</a> </li>
+<li>Karaoke: <a title="http://blogs.msdn.com/johnguin/archive/2008/04/24/onenote-as-a-karaoke-machine-no-powertoy-needed.aspx" href="http://blogs.msdn.com/johnguin/archive/2008/04/24/onenote-as-a-karaoke-machine-no-powertoy-needed.aspx">http://blogs.msdn.com/johnguin/archive/2008/04/24/onenote-as-a-karaoke-machine-no-powertoy-needed.aspx</a> </li>
+</ul>
+<p><a href="http://blogs.msdn.com/johnguin/default.aspx" target="_blank">Blog oficial de Onenote</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/aade-funcionalidades-a-onenote-con-powertoys/">A&#241;ade funcionalidades a OneNote con Powertoys</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Escribir un blog no es f&#225;cil&#8230;</title>
+		<link>/microbiablog/paranoias/escribir-blog-no-es-facil/</link>
+		<comments>/microbiablog/paranoias/escribir-blog-no-es-facil/#comments</comments>
+		<pubDate>Fri, 11 Jul 2008 11:06:17 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Paranoias]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[onenote]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/07/11/escribir-blog-no-es-facil/</guid>
+		<description><![CDATA[<p>&#8230; aunque sepas cómo&#8221; Podría ser fácilmente el título de un libro de Allen Carr, pero no, no os preocupeís, no voy a meterme en el oscuro mundo del metablogging (eso de escribir un blog sobre cómo escribir un blog), simplemente es una reflexión que tuve el otro día, después de que varias personas me [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/paranoias/escribir-blog-no-es-facil/">Escribir un blog no es f&#225;cil&#8230;</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a title="saturacion" href="http://www.flickr.com/photos/71581203@N00/2657646539/"><img alt="saturacion" src="http://static.flickr.com/2171/2657646539_f71912daf9.jpg" align="right" border="0"></a>&#8230; aunque sepas cómo&#8221; Podría ser fácilmente el título de un libro de <a href="http://es.wikipedia.org/wiki/Allen_Carr">Allen Carr</a>, pero no, no os preocupeís, no voy a meterme en el oscuro mundo del <em>metablogging </em>(eso de escribir un blog sobre cómo escribir un blog), simplemente es una reflexión que tuve el otro día, después de que varias personas me dijesen que hacía mucho que no escribía en mi blog (como si no me diese cuenta&#8230;). </p>
+<p>Escribir un blog requiere tiempo, organización y conocimiento sobre el tema (aunque es verdad que la mitad del tiempo escribo sobre chorradas) y últimamente tengo pocos momentos en los que estos tres elementos coincidan con la alineación de Saturno y un teclado a mano. Sin embargo, no temáis, mis ideas para posts están ahí, apuntadas en alguna página de mi <a href="http://microbiablog.com/2006/08/30/office-onenote-2007/">onenote</a>, esperando a que tenga tiempo para compartirlas con el mundo.</p>
+<p>Hoy es uno de esos días en los que Saturno parece estar cerca&#8230;</p>
+<p>The post <a rel="nofollow" href="/microbiablog/paranoias/escribir-blog-no-es-facil/">Escribir un blog no es f&#225;cil&#8230;</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/paranoias/escribir-blog-no-es-facil/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>InkSeine, el complemento de OneNote para Tablets</title>
+		<link>/microbiablog/herramientas/inkseine-onenote-tablet/</link>
+		<pubDate>Sat, 10 May 2008 11:36:06 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[inkseine]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[office]]></category>
+		<category><![CDATA[onenote]]></category>
+		<category><![CDATA[tablet pc]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/10/inkseine-onenote-tablet/</guid>
+		<description><![CDATA[<p>Ayer, en un curso sobre OneNote nos mostraron esta nueva aplicación de Microsoft Research pensada para sacarle el máximo partido a los tablets. Llama la atención la función de búsqueda, tan sólo tienes que escribir un nombre o una palabra y te mostrará resultados de internet, emails de esa persona (si es un contacto), historial [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/inkseine-onenote-tablet/">InkSeine, el complemento de OneNote para Tablets</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ayer, en un curso sobre OneNote nos mostraron esta nueva aplicación de Microsoft Research pensada para sacarle el máximo partido a los tablets. Llama la atención la función de búsqueda, tan sólo tienes que escribir un nombre o una palabra y te mostrará resultados de internet, emails de esa persona (si es un contacto), historial de mensajes&#8230; </p>
+<p>Sólo una cosa, este programa es completamente diferente a OneNote, aunque pueden parecer similares. OneNote está lleno de funcionalidades que InkSeine no tiene y al revés. Son complementarios, InkSeine pensado especialmente para sacar partido a las notas de tablets, de forma que si no cuentas con esta funcionalidad, estás mucho mejor con OneNote.</p>
+<p>Nada mejor que este vídeo para que veais de que va. Prometo un post sobre Onenote en algún momento <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:c84c28ca-1818-494b-a63f-487e654806c5" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
+<div id="4855500b-487c-42cd-a84a-8d71990d2c89" style="margin: 0px; padding: 0px; display: inline;">
+<div><a href="http://video.msn.com/video.aspx?vid=04b0b97f-7992-4724-a409-d53d51dcba0b" target="_new"><img src="http://microbiablog.com/wp-content/uploads/2008/05/windowslivewriterinkseineelcomplementodeonenoteparatablet-bd8cvideo6bf413e617a0.jpg" galleryimg="no" onload="var downlevelDiv = document.getElementById('4855500b-487c-42cd-a84a-8d71990d2c89'); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;embed src=\&quot;http://images.video.msn.com/flash/soapbox1_1.swf\&quot; quality=\&quot;high\&quot; width=\&quot;432\&quot; height=\&quot;364\&quot; wmode=\&quot;transparent\&quot; type=\&quot;application/x-shockwave-flash\&quot; pluginspage=\&quot;http://macromedia.com/go/getflashplayer\&quot; flashvars=\&quot;c=v&amp;v=04b0b97f-7992-4724-a409-d53d51dcba0b&amp;from=writer\&quot; &gt;&lt;\/embed&gt;&lt;\/div&gt;&quot;;" alt=""></a></div>
+</div>
+</div>
+<p>Enlace <a href="http://research.microsoft.com/inkseine/index.html" target="_blank">InkSeine</a> | <a href="http://office.microsoft.com/onenote" target="_blank">Onenote</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/inkseine-onenote-tablet/">InkSeine, el complemento de OneNote para Tablets</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

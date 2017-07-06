@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>traduccion &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/traduccion/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Traducir conversaciones de Messenger con TBot</title>
+		<link>/microbiablog/herramientas/traducir-conversaciones-de-messenger-con-tbot/</link>
+		<pubDate>Tue, 09 Jun 2009 16:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[bing]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[traduccion]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/traducir-conversaciones-de-messenger-con-tbot/</guid>
+		<description><![CDATA[<p>TBot es un robot de Messenger que te ayuda a comunicarte en otros idiomas. Simplemente añade Tbot a tus contactos: mtbot@hotmail.com, selecciona el idioma que necesitas y él traducirá al idioma que quieras. Cuando estés hablando con alguien, simplemente añadelo a la conversación y traducirá lo que diga tu amigo. Podeis ver las instrucciones paso [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/traducir-conversaciones-de-messenger-con-tbot/">Traducir conversaciones de Messenger con TBot</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img style="display: inline; margin-left: 0px; margin-right: 0px" align="right" src="http://farm3.static.flickr.com/2208/3610422121_98cf68c2bb_o.jpg" /> TBot es un robot de Messenger que te ayuda a comunicarte en otros idiomas. Simplemente añade Tbot a tus contactos: <a href="mailto:mtbot@hotmail.com"><strong><em>mtbot@hotmail.com</em></strong></a>, selecciona el idioma que necesitas y él traducirá al idioma que quieras. Cuando estés hablando con alguien, simplemente añadelo a la conversación y traducirá lo que diga tu amigo.</p>
+<p>Podeis ver las instrucciones paso a paso y un ejemplo de su funcionamiento en <a href="http://www.makeuseof.com/tag/how-to-auto-translate-foreign-languages-in-msn/" target="_blank">MakeUseOf</a>.</p>
+<p>ATENCIÓN: El Bot se encuentra en fase Alpha y las traducciones no son muy precisas, más bien traduce palabra por palabra, por lo que puede ayudarte a entender por donde va la conversación, pero dependiendo del idioma, puede que te deje un poco perdido. El <a href="http://www.microsofttranslator.com/Default.aspx" target="_blank">traductor de Bing</a> funciona muchísimo mejor.</p>
+<p>Via <a href="http://www.makeuseof.com/tag/how-to-auto-translate-foreign-languages-in-msn/" target="_blank">Make Use Of</a> | <a href="http://wltbot.spaces.live.com/default.aspx?sa=17048896" target="_blank">Blog de TBot</a> | <a href="http://www.microsofttranslator.com/Default.aspx" target="_blank">Traductor de Bing</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/traducir-conversaciones-de-messenger-con-tbot/">Traducir conversaciones de Messenger con TBot</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

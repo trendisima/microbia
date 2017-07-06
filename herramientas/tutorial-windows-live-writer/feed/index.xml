@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Video tutoriales de Live Writer</title>
+	<atom:link href="/microbiablog/herramientas/tutorial-windows-live-writer/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/herramientas/tutorial-windows-live-writer/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Tue, 03 Apr 2012 11:12:15 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>By: Juanan</title>
+		<link>/microbiablog/herramientas/tutorial-windows-live-writer/#comment-1744</link>
+		<dc:creator><![CDATA[Juanan]]></dc:creator>
+		<pubDate>Tue, 20 May 2008 15:20:57 +0000</pubDate>
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/19/tutorial-windows-live-writer/#comment-1744</guid>
+		<description><![CDATA[Muy bueno el post!!!!!
+eres una apasionada de la tecnología!!!!!]]></description>
+		<content:encoded><![CDATA[<p>Muy bueno el post!!!!!<br />
+eres una apasionada de la tecnología!!!!!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

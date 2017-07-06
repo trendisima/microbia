@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>disney &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/disney/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Wall-e</title>
+		<link>/microbiablog/cine-y-tv/wall-e/</link>
+		<comments>/microbiablog/cine-y-tv/wall-e/#comments</comments>
+		<pubDate>Tue, 29 Jul 2008 19:59:18 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Cine y TV]]></category>
+		<category><![CDATA[cine]]></category>
+		<category><![CDATA[disney]]></category>
+		<category><![CDATA[pixar]]></category>
+		<category><![CDATA[wall-e]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/07/29/wall-e/</guid>
+		<description><![CDATA[<p>La semana pasada ví este nuevo peliculón de Pixar. Menos mal que todavía queda talento y creatividad en la industria del cine (ya está bien de remakes, por favor!). No os voy a destripar la peli, porque tenéis que verla, pero me dejó impresionada la capacidad de transmitir emociones y sentimientos de un personaje 3D [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/cine-y-tv/wall-e/">Wall-e</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>La semana pasada ví este nuevo peliculón de Pixar. Menos mal que todavía queda talento y creatividad en la industria del cine (ya está bien de <em>remakes</em>, por favor!). </p>
+<p>No os voy a destripar la peli, porque tenéis que verla, pero me dejó impresionada la capacidad de transmitir emociones y sentimientos de un personaje 3D (ya quisiera más de un actor tener la mitad de expresividad de este robot), sin tener prácticamente diálogo.</p>
+<p align="center"><img alt="wall-e" src="http://static.flickr.com/3038/2714900522_be0250f92f.jpg" border="0"></p>
+<p>Si quereis saber más de la peli, os recomiendo <a href="http://alt1040.com/2008/07/walle-o-la-mejor-pelicula-de-2008/">esta entrada de alt1040</a> donde titulan el post como la mejor película de 2008. La verdad que comparandola con los estrenos que llevamos este año, no lo tiene muy difícil.</p>
+<p>Ya estoy contando los días hasta el estreno de “UP”, la próxima de Pixar, esta vez dirigida por Pete Docter (“Monsters inc”) a mediados del año que viene… de momento tendremos que conformarnos con <a href="http://www.theanimationblog.com/2008/07/26/first-video-of-pixars-up/" target="_blank">este vídeo</a>.</p>
+<p>Sitio <a href="http://disney.go.com/disneypictures/wall-e/" target="_blank">oficial Pixar</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/cine-y-tv/wall-e/">Wall-e</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/cine-y-tv/wall-e/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

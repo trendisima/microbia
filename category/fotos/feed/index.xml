@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fotos &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/category/fotos/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>100 a&#241;os de la Gran V&#237;a</title>
+		<link>/microbiablog/fotos/100-aos-de-la-gran-va/</link>
+		<pubDate>Mon, 05 Apr 2010 21:29:09 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Fotos]]></category>
+		<category><![CDATA[madrid]]></category>
+		<category><![CDATA[snippet]]></category>
+
+		<guid isPermaLink="false">/microbiablog/fotos/100-aos-de-la-gran-va/</guid>
+		<description><![CDATA[<p>&#8211; Foto de Olmo González en Flickr</p>
+<p>The post <a rel="nofollow" href="/microbiablog/fotos/100-aos-de-la-gran-va/">100 a&ntilde;os de la Gran V&iacute;a</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="4135688473_909ecdf2f2[1]" border="0" alt="4135688473_909ecdf2f2[1]" src="/microbiablog/wp-content/uploads/2010/04/4135688473_909ecdf2f21.jpg" width="500" height="290" /> </p>
+<p>&#8211; Foto de <a href="http://www.flickr.com/photos/olmogomo-rotos/4135688473/" target="_blank">Olmo González</a> en Flickr</p>
+<p>The post <a rel="nofollow" href="/microbiablog/fotos/100-aos-de-la-gran-va/">100 a&ntilde;os de la Gran V&iacute;a</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Flickr en el Blog</title>
+		<link>/microbiablog/fotos/flickr-en-el-blog/</link>
+		<pubDate>Sun, 04 Apr 2010 14:03:13 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Fotos]]></category>
+
+		<guid isPermaLink="false">/microbiablog/?p=677</guid>
+		<description><![CDATA[<p>Llevaba un tiempo pensando cómo integrar Flickr en el blog y después de casi dos días peléandome con jQuery, IExplorer y otras librerías varias, estoy más o menos contenta con esta solución. Ahora puedo incrustar las fotos según el tag y quedan más o menos así. Tan sólo hay que pinchar sobre ellas para verlas [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/fotos/flickr-en-el-blog/">Flickr en el Blog</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Llevaba un tiempo pensando cómo integrar Flickr en el blog y después de casi dos días peléandome con jQuery, IExplorer y otras librerías varias, estoy más o menos contenta con esta solución. </p>
+<div class='flickr-mini-gallery' lang=_s rel="user_id=71581203@N00&#038;tags=album, london&#038;min_upload_date=&#038;max_upload_date=&#038;min_taken_date=&#038;max_taken_date=&#038;sort=&#038;bbox=&#038;safe_search=&#038;content_type=&#038;group_id=&#038;lat=&#038;lon=&#038;radius_units=&#038;per_page=10"></div>
+<p>Ahora puedo incrustar las fotos según el tag y quedan más o menos así. Tan sólo hay que pinchar sobre ellas para verlas en grande. Al final ha merecido la pena <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>The post <a rel="nofollow" href="/microbiablog/fotos/flickr-en-el-blog/">Flickr en el Blog</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

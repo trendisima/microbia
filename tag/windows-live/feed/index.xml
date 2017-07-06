@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Windows Live &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/windows-live/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Prot&#233;gete de los virus de Messenger con WLM Safe</title>
+		<link>/microbiablog/herramientas/protgete-de-los-virus-de-messenger-con-wlm-safe/</link>
+		<pubDate>Tue, 16 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[virus]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/protgete-de-los-virus-de-messenger-con-wlm-safe/</guid>
+		<description><![CDATA[<p>Los virus de Messenger son bastante peligrosos, sobretodo porque te llegan en forma de mensaje, invitándote a que veas una foto o te descargues un archivo como si fuera uno de tus contactos, y a veces aceptas casi sin leer. Para ayudar a protegernos contra estos molestos virus está WLM Safe, un plugin de MSN [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/protgete-de-los-virus-de-messenger-con-wlm-safe/">Prot&eacute;gete de los virus de Messenger con WLM Safe</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Los virus de Messenger son bastante peligrosos, sobretodo porque te llegan en forma de mensaje, invitándote a que veas una foto o te descargues un archivo como si fuera uno de tus contactos, y a veces aceptas casi sin leer.</p>
+<p><img style="display: inline; margin-left: 0px; margin-right: 0px" align="right" src="http://farm4.static.flickr.com/3624/3629876269_c8af3911aa_o.jpg" /> Para ayudar a protegernos contra estos molestos virus está WLM Safe, un plugin de MSN Plus que detecta y bloquea los archivos infectados, urls maliciosas, bloquea mensajes de spam, te protege contra ataques de flood que pueden bloquear tu equipo, y te notifica en caso de que alguien este utilizando tu mismo nick o estes chateando con un bot o un usuario inseguro.</p>
+<p>Funciones principales: </p>
+<ul>
+<li>Detecta y bloquea links infectados enviados por los virus a traves de tus ventanas de conversación </li>
+<li>Antiphishing: Detecta y bloquea enlaces de phishing enviados por los virus msn a traves de ventanas de messenger. </li>
+<li>Antispam: Bloquea mensajes de Spam enviados por tus contactos. </li>
+<li>Antiflood: detecta ataques de flood y bloquea a los autores. </li>
+<li>Antifreeze: bloquea mensajes que hacen que versiones antiguas de msn se cuelguen. </li>
+<li>Anticopy: Te notifica si uno de tus contactos de Messenger te copia el nick. </li>
+<li>Antibot: Te notifica si estás chateando con un bot. </li>
+<li>Antihackers: Te notifica si estás chateando con un contacto inseguro. </li>
+</ul>
+<p>Además incluye: </p>
+<ul>
+<li>Registro de amenazas: Opcional, crea un registro de todos los ataques que recibas. </li>
+<li>Sonidos: Opcional. Reproduce sonidos para las notificaciones. </li>
+<li>Actualizaciones automáticas. Opcional. </li>
+</ul>
+<p>Descarga <a href="http://www.wlmsafe.com/?lang=es" target="_blank">WLM Safe</a> | Requiere tener instalado <a href="http://www.msgpluslive.es/" target="_blank">MSN Plus</a></p>
+<p>Visto en <a href="http://www.webadictos.com.mx/2009/06/05/virus-msn-evitalos-con-wlm-safe/" target="_blank">Webadictos</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/protgete-de-los-virus-de-messenger-con-wlm-safe/">Prot&eacute;gete de los virus de Messenger con WLM Safe</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Postea desde tu m&#243;vil con Windows Live Writer</title>
+		<link>/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/</link>
+		<comments>/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/#comments</comments>
+		<pubDate>Wed, 10 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[móviles]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Windows Live]]></category>
+		<category><![CDATA[wl writer]]></category>
+
+		<guid isPermaLink="false">/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/</guid>
+		<description><![CDATA[<p>Como ya os he contado en anteriores posts, Windows Live Writer es una de las mejores aplicaciones para escribir en tu blog, y vengo utilizándolo desde hace años. Ahora puedes utilizarlo también en tu móvil y tu blog WordPress ya que existe una versión para Windows Mobile. Descárgalo gratis aqui &#124; Instrucciones para configurar la [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/">Postea desde tu m&oacute;vil con Windows Live Writer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Como ya os he contado en <a href="/microbiablog/herramientas/tutorial-windows-live-writer/">anteriores posts</a>, Windows Live Writer es una de las mejores aplicaciones para escribir en tu blog, y vengo utilizándolo desde hace años. Ahora puedes utilizarlo también en tu móvil y tu blog WordPress ya que existe una versión para Windows Mobile.</p>
+<p><a href="http://wlw.codeplex.com/" target="_blank">Descárgalo gratis aqui</a> | Instrucciones para <a href="http://www.makeuseof.com/tag/windows-live-writer-for-windows-mobile-is-just-what-i-was-looking-for-windows-mobile/" target="_blank">configurar la cuenta de WordPress</a>.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/">Postea desde tu m&oacute;vil con Windows Live Writer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>A&#241;ade Windows Live Messenger a tu web</title>
+		<link>/microbiablog/herramientas/aade-windows-live-messenger-a-tu-web/</link>
+		<pubDate>Thu, 04 Jun 2009 16:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[útiles]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/04/01/aade-windows-live-messenger-a-tu-web/</guid>
+		<description><![CDATA[<p>Microsoft acaba de lanzar Windows Live Messenger Web Toolkit que te permite añadir cualquier control de Messenger directamente en tu página web. Puedes mostrar tu estado de Messenger, tu imagen o poner una ventana de conversación desde la que tus vistantes pueden enviarte mensajes. Todo super fácil, gracias a esta herramienta, donde seleccionas lo que [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/aade-windows-live-messenger-a-tu-web/">A&ntilde;ade Windows Live Messenger a tu web</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img style="display: inline; margin-left: 0px; margin-right: 0px" align="right" src="http://farm4.static.flickr.com/3648/3400900683_465b0087e3.jpg?v=0" /> Microsoft acaba de lanzar <a href="http://dev.live.com/messenger">Windows Live Messenger Web Toolkit</a> que te permite añadir cualquier control de Messenger directamente en tu página web. Puedes mostrar tu estado de Messenger, tu imagen o poner una ventana de conversación desde la que tus vistantes pueden enviarte mensajes.</p>
+<p>Todo super fácil, gracias a <a href="http://messenger.mslivelabs.com/" target="_blank">esta herramienta</a>, donde seleccionas lo que quieres y te muestra el código que tienes que añadir. Además no importa en qué lenguaje esté tu sitio, el código lo puedes encontrar para: C#, Visual Basic .NET, Java, Perl, PHP, Python o Ruby. También puedes echar un vistazo a los <a href="http://www.viddler.com/explore/anguslogan/videos/1" target="_blank">vídeos</a>.</p>
+<p>Via <a href="http://on10.net/blogs/sarahintampa/Add-Windows-Live-Messenger-to-Your-Website/" target="_blank">Channel 10</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/aade-windows-live-messenger-a-tu-web/">A&ntilde;ade Windows Live Messenger a tu web</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Compartir tus favoritos Windows Live en FriendFeed</title>
+		<link>/microbiablog/internet/compartir-tus-favoritos-windows-live-en-friendfeed/</link>
+		<pubDate>Wed, 11 Feb 2009 16:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[favoritos]]></category>
+		<category><![CDATA[friendfeed]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/02/11/compartir-tus-favoritos-windows-live-en-friendfeed/</guid>
+		<description><![CDATA[<p>Aunque FriendFeed no incluye opción específica de compartir tus favoritos de Windows Live, sí que soporta feeds RSS, de manera que puedes compartir muchas de las cosas que haces en redes sociales. Con la opción RSS, puedes compartir facilmente tus favoritos Windows Live, el servicio de marcadores online que te permite compartir y guardar tus [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/compartir-tus-favoritos-windows-live-en-friendfeed/">Compartir tus favoritos Windows Live en FriendFeed</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Aunque FriendFeed no incluye opción específica de compartir tus favoritos de Windows Live, sí que soporta feeds RSS, de manera que puedes compartir muchas de las cosas que haces en redes sociales. Con la opción RSS, puedes compartir facilmente tus favoritos Windows Live, el servicio de marcadores online que te permite compartir y guardar tus sitios preferidos desde cualquier PC.</p>
+<p><img style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" src="http://farm4.static.flickr.com/3518/3267159372_16a17859e6.jpg?v=0" border="0" /> </p>
+<p><a href="http://jamiethomson.spaces.live.com/Blog/cns%21550F681DAD532637%219267.entry" target="_blank">Jamie Thomson</a> ha publicado las instrucciones paso a paso:</p>
+<ol>
+<li>Hacer públicos tus favoritos, <a href="http://skydrive.live.com/browse.aspx/.SharedFavorites" target="_blank">iniciando sesión</a> con tu cuenta de Windows Live</li>
+<li>Hacer click en Compartido con: “Mi red” para elegir los permisos</li>
+<li>En la página de permisos hacer click en “Modificar permisos”</li>
+<li>Selecciona la opción “Cualquiera (Público), y pulsa el botón de Guardar</li>
+<li>Al guardar los cambios te llevará la a carpeta de los favoritos compartidos, en el menú selecciona “Más” y verás la opción “Fuente RSS”</li>
+<li>Selecciona la URL del RSS y ya podrás utilizarlaen FriendFeed.</li>
+</ol>
+<p>&#160;</p>
+<p>Via <a href="http://on10.net/blogs/sarahintampa/Share-Your-Windows-Live-Favorites-on-FriendFeed/" target="_blank">Channel 10</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/compartir-tus-favoritos-windows-live-en-friendfeed/">Compartir tus favoritos Windows Live en FriendFeed</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Microsoft Photosynth en CSI</title>
+		<link>/microbiablog/internet/microsoft-photosynth-en-csi/</link>
+		<comments>/microbiablog/internet/microsoft-photosynth-en-csi/#comments</comments>
+		<pubDate>Tue, 10 Feb 2009 18:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[photosynth]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/02/10/microsoft-photosynth-en-csi/</guid>
+		<description><![CDATA[<p>En el capítulo de la semana pasada de CSI, el equipo de mi amigo Horatio utilizaba Photosynth para reconstruir la escena del crimen partiendo de las fotos del movil que habían hecho los asistentes a una fiesta. Si os lo perdisteis, aquí teneis el momento: &#160; Photosynth te permite crear panorámicas fácilmente detectando automáticamente los [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/microsoft-photosynth-en-csi/">Microsoft Photosynth en CSI</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>En el capítulo de la semana pasada de CSI, el equipo de mi amigo Horatio utilizaba Photosynth para reconstruir la escena del crimen partiendo de las fotos del movil que habían hecho los asistentes a una fiesta. Si os lo perdisteis, aquí teneis el momento:</p>
+<div class="wlWriterEditableSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:d9ddd868-8fe4-4fc6-9d7c-e9ae6bed0a65" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
+<div id="bec69ccc-f4d8-412b-b33d-3e1bc83d91f4" style="margin: 0px; padding: 0px; display: inline;">
+<div><a href="http://www.youtube.com/watch?v=0suot89qXY4" target="_new"><img src="http://microbiablog.com/wp-content/uploads/2009/02/videoa5d6b52241c8.jpg" style="border-style: none" galleryimg="no" onload="var downlevelDiv = document.getElementById('bec69ccc-f4d8-412b-b33d-3e1bc83d91f4'); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;object width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;param name=\&quot;movie\&quot; value=\&quot;http://www.youtube.com/v/0suot89qXY4&amp;hl=en\&quot;&gt;&lt;\/param&gt;&lt;embed src=\&quot;http://www.youtube.com/v/0suot89qXY4&amp;hl=en\&quot; type=\&quot;application/x-shockwave-flash\&quot; width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;\/embed&gt;&lt;\/object&gt;&lt;\/div&gt;&quot;;" alt=""></a></div>
+</div>
+</div>
+<p>&#160;</p>
+<p>Photosynth te permite crear panorámicas fácilmente detectando automáticamente los puntos en común de una serie de fotos. También se puede utilizar para crear “slideshows”, donde partiendo de un elemento en cómun puedes navegar varias fotos. Por ejemplo este <a href="http://photosynth.net/silverlight/photosynth.aspx?cid=44fbe543-600c-404f-8ceb-8af763ca9b00" target="_blank">Slideshow de la ceremonia de Obama</a>.</p>
+<p>Ver <a href="http://photosynth.net/view.aspx?cid=eb90f6e5-4504-469f-94e6-9a9be6c4fb73" target="_blank">Photosynth de Times Square</a> | Ir al site de <a href="http://photosynth.net/default.aspx" target="_blank">Photosynth</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/microsoft-photosynth-en-csi/">Microsoft Photosynth en CSI</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/internet/microsoft-photosynth-en-csi/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Protege a tus hijos en Internet</title>
+		<link>/microbiablog/internet/protege-a-tus-hijos-en-internet/</link>
+		<comments>/microbiablog/internet/protege-a-tus-hijos-en-internet/#comments</comments>
+		<pubDate>Mon, 09 Feb 2009 18:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[gratis]]></category>
+		<category><![CDATA[niños]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/02/09/protege-a-tus-hijos-en-internet/</guid>
+		<description><![CDATA[<p>Internet es una herramienta imprescindible para los niños, sin embargo dejarles sólos delante del ordenador no es tan buena idea. Windows Live Protección Infantil nos permite controlar lo que hacen los más pequeños en Internet: qué sitios web pueden visitar y cuales no, controlar con quien pueden comunicarse a través de Messenger, correo o blogs [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/protege-a-tus-hijos-en-internet/">Protege a tus hijos en Internet</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Internet es una herramienta imprescindible para los niños, sin embargo dejarles sólos delante del ordenador no es tan buena idea. <strong>Windows Live Protección Infantil</strong> nos permite <strong>controlar</strong> lo que hacen los más pequeños en Internet: qué <strong>sitios web</strong> pueden visitar y cuales no, controlar <strong>con quien pueden comunicarse</strong> a través de Messenger, correo o blogs y controlar sus <strong>búsquedas</strong>. Y además completamente <strong>GRATIS</strong>.</p>
+<p>Estos son los pasos que debes seguir para proteger a tus hijos:</p>
+<p> <span id="more-470"></span>  </p>
+<ol>
+<li><a href="http://www.protegeatushijos.com/" target="_blank">Descargar el software</a> de Protección Infantil </li>
+<li>Agregar las cuentas de tus hijos en el panel de control </li>
+<li>Configurar el nivel de seguridad para cada uno de tus hijos:
+<ol>
+<li>Estricto: sólo webs autorizadas para niños </li>
+<li>Básico: Todas las páginas excepto las clasificadas de contenido adulto y permiso para utilizar Messenger y Hotmail. </li>
+<li>Personalizado: Donde puedes personalizar el nivel que quieres para tus hijos </li>
+</ol>
+</li>
+<li>Administrar sitios web: En cualquiera de los 3 niveles podrás bloquear o permitir sitios web en concreto además de los que vengan por defecto para el nivel elegido. </li>
+<li>Administrar contactos: con quién pueden comunicarse a través de Hotmail y Messenger. Tus hijos podrán pedirte permiso para añadir a sus amigos a través de esta aplicación. </li>
+</ol>
+<p><strong>Window Live Protección Infantil </strong>es muy completo, ya que te permite administrar los sitios web que pueden ver tus hijos así como controlar con quién se comunican a través de Messenger o Hotmail y las búsquedas que realizan. </p>
+<p>El software tiene que estar instalado en el ordenador que quieras proteger, pero puedes administrar los permisos desde cualquier lugar. </p>
+<p>Este programa es completamente <strong>gratuito</strong>, está recomendado por la sociedad española de pediatría y la asociación protegeles, donde se denuncian las páginas web con contenido inadecuado para los niños. </p>
+<p> <embed src="http://images.video.msn.com/flash/soapbox1_1.swf" width="432" height="364" id="einqql5l" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" pluginspage="http://macromedia.com/go/getflashplayer" flashvars="c=v&#038;v=f5cf8139-133b-44d1-9bbe-b8843878fcdf&#038;ifs=true&#038;fr=shared&#038;mkt=es-ES"></embed><noembed><a href="http://video.msn.com/?mkt=es-ES&amp;playlist=videoByUuids:uuids:f5cf8139-133b-44d1-9bbe-b8843878fcdf&amp;showPlaylist=true&amp;from=msnvideo" target="_new" title="Consejos de Seguridad con Mario Picazo">Vídeo: Consejos de Seguridad con Mario Picazo</a></noembed>   </p>
+<p>&#160;</p>
+<p>Visita <a href="http://www.protegeatushijos.com/" target="_blank">Windows Live Protección Infantil</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/protege-a-tus-hijos-en-internet/">Protege a tus hijos en Internet</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/internet/protege-a-tus-hijos-en-internet/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Windows Live Messenger para Symbian s60 v3</title>
+		<link>/microbiablog/moviles/windows-live-messenger-para-symbian-s60-v3/</link>
+		<comments>/microbiablog/moviles/windows-live-messenger-para-symbian-s60-v3/#comments</comments>
+		<pubDate>Sun, 01 Feb 2009 13:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[móviles]]></category>
+		<category><![CDATA[móvil]]></category>
+		<category><![CDATA[nokia e71]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/02/01/windows-live-messenger-para-symbian-s60-v3/</guid>
+		<description><![CDATA[<p>Una de las aplicaciones que uso todo el tiempo es el Messenger y por supuesto no podía faltar en mi móvil. Después de bajarme varias versiones que prometían funcionar en mi nokia e71, finalmente econtré esta que funciona de maravilla. Esta versión te permite utilizar tu propia imagen y es la oficial de Microsoft. Descargar [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/windows-live-messenger-para-symbian-s60-v3/">Windows Live Messenger para Symbian s60 v3</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Una de las aplicaciones que uso todo el tiempo es el Messenger y por supuesto no podía faltar en mi móvil. Después de bajarme varias versiones que prometían funcionar en mi nokia e71, finalmente econtré esta que funciona de maravilla.</p>
+<p><a href="http://www.megaupload.com/es/?d=CAKQEOJA" target="_blank"><img style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" src="http://farm4.static.flickr.com/3264/3240554861_141d3bf953.jpg?v=0" border="0" /></a> </p>
+<p>Esta versión te permite utilizar tu propia imagen y es la oficial de Microsoft.</p>
+<p>Descargar <a href="http://www.megaupload.com/es/?d=CAKQEOJA" target="_blank">Windows Live Messenger</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/windows-live-messenger-para-symbian-s60-v3/">Windows Live Messenger para Symbian s60 v3</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/moviles/windows-live-messenger-para-symbian-s60-v3/feed/</wfw:commentRss>
+		<slash:comments>119</slash:comments>
+		</item>
+		<item>
+		<title>Msg Plus! para Windows Live Messenger 2009 Beta</title>
+		<link>/microbiablog/internet/msg-plus-para-messenger-2009-beta/</link>
+		<comments>/microbiablog/internet/msg-plus-para-messenger-2009-beta/#comments</comments>
+		<pubDate>Wed, 05 Nov 2008 19:08:11 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/11/05/msg-plus-para-messenger-2009-beta/</guid>
+		<description><![CDATA[<p>Si al instalarte la nueva beta de Messenger 2009 dejó de funcionarte el plugin Msg Plus, ahora ya puedes descargar la versión que funciona con la beta. Las funcionalidades son las mismas que en la versión anterior. Y los plugins y scripts deberían funcionar sin problema, aunque bueno, como es una beta, puede dar fallos [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/msg-plus-para-messenger-2009-beta/">Msg Plus! para Windows Live Messenger 2009 Beta</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img alt="msgplus" src="http://static.flickr.com/3205/3005318077_0310073e63.jpg" align="right" border="0" />Si al instalarte la nueva beta de Messenger 2009 dejó de funcionarte el plugin Msg Plus, ahora ya puedes descargar la versión que funciona con la beta. Las funcionalidades son las mismas que en la versión anterior. Y los plugins y scripts deberían funcionar sin problema, aunque bueno, como es una beta, puede dar fallos de vez en cuando.</p>
+<p>Para instalar Msg Plus tendrás que cerrar WL Messenger.</p>
+<p>Via Bitelia: <a title="Msg Plus! para Windows Live Messenger 9 Beta" href="http://bitelia.com/2008/11/04/msg-plus-para-windows-live-messenger-9-beta/">Msg Plus! para Windows Live Messenger 9 Beta</a> | Descargar <a href="http://www.msgpluslive.es/" target="_blank">Msg Plus Live</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/msg-plus-para-messenger-2009-beta/">Msg Plus! para Windows Live Messenger 2009 Beta</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/internet/msg-plus-para-messenger-2009-beta/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Traduce tus documentos de Office con Windows Live</title>
+		<link>/microbiablog/herramientas/traduce-tus-documentos-de-office-con-windows-live/</link>
+		<pubDate>Mon, 11 Aug 2008 16:35:11 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[office]]></category>
+		<category><![CDATA[útiles]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/08/11/traduce-tus-documentos-de-office-con-windows-live/</guid>
+		<description><![CDATA[<p>Seguro que todos conoceis los servicios online gratuitos de traducción, algunos son bastante decentes, pero a veces es difícil cuando vas a traducir un texto largo. Ahora, con WL Translator, puedes integrar este servicio de traducción dentro de Office, de forma que traducir un doc es de lo más sencillo. Este traductor utiliza la tecnología [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/traduce-tus-documentos-de-office-con-windows-live/">Traduce tus documentos de Office con Windows Live</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img height="489" alt="WL Translator" src="http://static.flickr.com/3209/2754003436_0c19f08a9c.jpg" width="292" align="right" border="0" />Seguro que todos conoceis los servicios online gratuitos de traducción, algunos son bastante decentes, pero a veces es difícil cuando vas a traducir un texto largo. Ahora, con WL Translator, puedes integrar este servicio de traducción dentro de Office, de forma que traducir un doc es de lo más sencillo.</p>
+<p>Este traductor utiliza la tecnología Systran, la misma que hasta hace poco utilizaba Google Translator, con lo que la calidad es bastante decente y similar entre los dos servicios. La integración en Office vendrá como una actualización Microsoft Update, pero podeis utilizarlo desde ya, siguiendo unos pasos que explican detalladamente en <a href="http://blogs.msdn.com/translation/archive/2008/08/06/office-document-translation.aspx" target="_blank">el blog de MSDN</a>.</p>
+<p>Para utilizarlo, en Revisar &gt; Referencia &gt; Opciones &gt; Agregar servicio escribimos:</p>
+<p><code><a href="http://www.windowslivetranslator.com/officetrans/register.asmx">http://www.windowslivetranslator.com/officetrans/register.asmx</a></code></p>
+<p>Seleccionamos “Instalar” y ya podremos usarlo para traducir el documento a varios idiomas.</p>
+<p>Via <a href="http://www.genbeta.com/2008/08/09-truco-usa-windows-live-translator-para-traducir-los-documentos-de-office" target="_blank">Genbeta</a> | Enlace <a href="http://blogs.msdn.com/translation/archive/2008/08/06/office-document-translation.aspx" target="_blank">Blog MSDN</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/traduce-tus-documentos-de-office-con-windows-live/">Traduce tus documentos de Office con Windows Live</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Video tutoriales de Live Writer</title>
+		<link>/microbiablog/herramientas/tutorial-windows-live-writer/</link>
+		<comments>/microbiablog/herramientas/tutorial-windows-live-writer/#comments</comments>
+		<pubDate>Mon, 19 May 2008 18:13:31 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Windows Live]]></category>
+		<category><![CDATA[wl writer]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/19/tutorial-windows-live-writer/</guid>
+		<description><![CDATA[<p>Windows Live Writer es una aplicación de escritorio que te permite publicar posts fácilmente en tu blog. Funciona con los principales servicios de blog: blogger, wordpress, windows live spaces&#8230; y si aún no tienes blog, también puedes crearlo desde Writer. Yo sólo puedo decir que desde que lo utilizo me resulta mucho más fácil y [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/tutorial-windows-live-writer/">Video tutoriales de Live Writer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Windows Live Writer es una aplicación de escritorio que te permite publicar posts fácilmente en tu blog. Funciona con los principales servicios de blog: blogger, wordpress, windows live spaces&#8230; y si aún no tienes blog, también puedes crearlo desde Writer.</p>
+<p>Yo sólo puedo decir que desde que lo utilizo me resulta mucho más fácil y rápido postear. Puedes escribir tus posts offline y publicarlos más tarde, o corregir los posts aunque estén publicados. Permite todas las funcionalidades que puedes hacer normalmente: etiquetas, categorías, videos, mapas, trackbacks&#8230;</p>
+<p>Además hay un montón de plugins con los que puedes añadirle más cosas. Si la administración del nuevo wordpress no te gusta o tu servidor va lento, te recomiendo que pruebes con Writer, soluciona estos problemas y publicar es mucho más cómodo. Además el equipo de WL Writer acaba de publicar <a href="http://windowslivewriter.spaces.live.com/blog/cns!D85741BB5E0BE8AA!1490.entry" target="_blank">4 vídeos</a> en los que explican paso a paso los siguientes temas:</p>
+<ol>
+<li>Getting Started &#8211; Empezar a usarlo.
+<li>Basic Authoring. &#8211; Escribir y publicar posts.
+<li>Pictures, Videos, Maps and Plug-ins. &#8211; Imágenes, vídeos, mapas y plugins.
+<li>Open, Save, Publish and Help. &#8211; Abrir, guardar, publicar y ayuda.</li>
+</ol>
+<p>Actualizado (20/05): Por alguna razón que desconozco, el inline player de msn video estaba dando problemas, así que os pongo el <a href="http://video.msn.com/video.aspx?playlist=videoByUuids:uuids:7c0e2422-abb5-40c7-be67-5d79b1e875e0&amp;showPlaylist=true&amp;from=shared" target="_blank">enlace al vídeo</a>. </p>
+<p>Via <a href="http://bitelia.com/2008/05/19/video-tutoriales-de-windows-live-writer/" target="_blank">Bitelia</a> | <a href="http://windowslivewire.spaces.live.com/Blog/cns!2F7EB29B42641D59!4721.entry" target="_blank">Windows Live Wire</a> | Descarga <a href="http://get.live.com/writer/overview" target="_blank">Windows Live Writer</a></p>
+<p></embed></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/tutorial-windows-live-writer/">Video tutoriales de Live Writer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/tutorial-windows-live-writer/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

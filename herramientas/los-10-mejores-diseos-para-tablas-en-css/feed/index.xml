@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Los 10 mejores dise&#241;os para tablas en CSS</title>
+	<atom:link href="/microbiablog/herramientas/los-10-mejores-diseos-para-tablas-en-css/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/herramientas/los-10-mejores-diseos-para-tablas-en-css/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Tue, 03 Apr 2012 11:12:15 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>By: Carlos</title>
+		<link>/microbiablog/herramientas/los-10-mejores-diseos-para-tablas-en-css/#comment-2315</link>
+		<dc:creator><![CDATA[Carlos]]></dc:creator>
+		<pubDate>Thu, 18 Aug 2011 00:50:10 +0000</pubDate>
+		<guid isPermaLink="false">http://microbiablog.com/2008/08/14/los-10-mejores-diseos-para-tablas-en-css/#comment-2315</guid>
+		<description><![CDATA[me ciento engañado por el titulo, esperaba mas pero igual gracias por el aporte]]></description>
+		<content:encoded><![CDATA[<p>me ciento engañado por el titulo, esperaba mas pero igual gracias por el aporte</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Mant&#233;n tu escritorio ordenado con Magic Folder</title>
+	<atom:link href="/microbiablog/herramientas/magic-folder-widget-escritorio/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/herramientas/magic-folder-widget-escritorio/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Tue, 03 Apr 2012 11:12:15 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>By: microbia</title>
+		<link>/microbiablog/herramientas/magic-folder-widget-escritorio/#comment-1742</link>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+		<pubDate>Wed, 14 May 2008 19:43:59 +0000</pubDate>
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/14/magic-folder-widget-escritorio/#comment-1742</guid>
+		<description><![CDATA[Hola Pep! Me temo que es sólo para vista, pero existe una aplicación (es más un download manager) al que puedes decirle según el archivo en qué carpeta lo debe guardar. &lt;a href rel=&quot;nofollow&quot;&gt;http://www.freedownloadmanager.org/&lt;/a&gt;]]></description>
+		<content:encoded><![CDATA[<p>Hola Pep! Me temo que es sólo para vista, pero existe una aplicación (es más un download manager) al que puedes decirle según el archivo en qué carpeta lo debe guardar. <a href rel="nofollow">http://www.freedownloadmanager.org/</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: pep</title>
+		<link>/microbiablog/herramientas/magic-folder-widget-escritorio/#comment-1741</link>
+		<dc:creator><![CDATA[pep]]></dc:creator>
+		<pubDate>Wed, 14 May 2008 19:02:12 +0000</pubDate>
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/14/magic-folder-widget-escritorio/#comment-1741</guid>
+		<description><![CDATA[Lo hay para XP? sino pues como que no lo va a usar mucha gente, no?
+
+Seguro que alguien se lo ha currado, porque la verdad es que es muy buena idea!]]></description>
+		<content:encoded><![CDATA[<p>Lo hay para XP? sino pues como que no lo va a usar mucha gente, no?</p>
+<p>Seguro que alguien se lo ha currado, porque la verdad es que es muy buena idea!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

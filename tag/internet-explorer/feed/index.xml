@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>internet explorer &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/internet-explorer/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Mano en IE8</title>
+		<link>/microbiablog/herramientas/mano-en-ie8/</link>
+		<comments>/microbiablog/herramientas/mano-en-ie8/#comments</comments>
+		<pubDate>Sat, 21 Mar 2009 18:40:12 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[internet explorer]]></category>
+		<category><![CDATA[minipost]]></category>
+		<category><![CDATA[trucos]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/03/21/mano-en-ie8/</guid>
+		<description><![CDATA[<p>Has instalado el nuevo Internet Explorer 8 y misteriosamente el cursor se ha cambiado a una mano? ¿Donde ha ido a parar la flecha blanca de toda la vida? Si tu cursor se ha cambiado a una mano naranja, es debido a una incompatibilidad con alguno de los plugins que tienes instalados. En mi caso [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/mano-en-ie8/">Mano en IE8</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Has instalado el nuevo Internet Explorer 8 y misteriosamente el cursor se ha cambiado a una mano? ¿Donde ha ido a parar la flecha blanca de toda la vida? Si tu cursor se ha cambiado a una mano naranja, es debido a una incompatibilidad con alguno de los plugins que tienes instalados. En mi caso ha sido con IE 7 Pro (lógicamente) y se activaba la función Drag and Drop todo el tiempo, haciendo la navegación bastante molesta. La solución ha sido desinstalarlo, sólo falta esperar que saquen una nueva versión…</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/mano-en-ie8/">Mano en IE8</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/mano-en-ie8/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Foxmarks para Internet Explorer y Safari</title>
+		<link>/microbiablog/herramientas/foxmarks-para-internet-explorer-y-safari/</link>
+		<pubDate>Mon, 09 Feb 2009 14:37:19 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[gratis]]></category>
+		<category><![CDATA[internet explorer]]></category>
+		<category><![CDATA[útiles]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/02/09/foxmarks-para-internet-explorer-y-safari/</guid>
+		<description><![CDATA[<p>Foxmarks, el famoso add-on de Firefox que sincroniza favoritos y contraseñas, llega ahora también a Internet Explorer y Safari. La aplicación no sólo da soporte para estos dos navegadores, sino que permite sincronizarlos entre ellos. Sin embargo, aunque permite la sincronización de favoritos entre los tres navegadores, la función de contraseñas no es sincronizable. En [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/foxmarks-para-internet-explorer-y-safari/">Foxmarks para Internet Explorer y Safari</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; margin-left: 0px; margin-right: 0px; border-right-width: 0px" src="http://farm4.static.flickr.com/3376/3266836796_5144ac93a4.jpg?v=0" align="right" border="0" /> <a href="http://www.foxmarks.com/" target="_blank">Foxmarks</a>, el famoso add-on de Firefox que sincroniza favoritos y contraseñas, llega ahora también a Internet Explorer y Safari. La aplicación no sólo da soporte para estos dos navegadores, sino que permite sincronizarlos entre ellos.</p>
+<p>Sin embargo, aunque permite la sincronización de favoritos entre los tres navegadores, la función de contraseñas no es sincronizable. En <a href="http://lifehacker.com/5146921/foxmarks-bookmark-syncing-available-for-internet-explorer-safari" target="_blank">Lifehacker explican con una guia paso a paso</a> de cómo funciona la sincronización.</p>
+<p>Via <a href="http://bitelia.com/2009/02/06/foxmarks-anade-soporte-para-internet-explorer-y-safari/" target="_blank">Bitelia</a> | Descargar <a href="http://www.foxmarks.com/" target="_blank">Foxmarks</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/foxmarks-para-internet-explorer-y-safari/">Foxmarks para Internet Explorer y Safari</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>IE7 Pro, mejorando Internet Explorer</title>
+		<link>/microbiablog/herramientas/ie7-pro-mejora-explorer/</link>
+		<comments>/microbiablog/herramientas/ie7-pro-mejora-explorer/#comments</comments>
+		<pubDate>Wed, 11 Jun 2008 12:34:28 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[internet explorer]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[útiles]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/06/11/ie7-pro-mejora-explorer/</guid>
+		<description><![CDATA[<p>IE7 Pro es un add-on para Explorer que completa las funcionalidades que se echan en falta del navegador y lo convierte en una herramienta imprescindible. No hace mucho que han lanzado una nueva versión pero para los que no lo conozcáis, os cuento las funcionalidades que a mí me resultan más prácticas: Captura de pantalla: [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/ie7-pro-mejora-explorer/">IE7 Pro, mejorando Internet Explorer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>IE7 Pro es un add-on para Explorer que completa las funcionalidades que se echan en falta del navegador y lo convierte en una herramienta imprescindible. No hace mucho que han lanzado una nueva versión pero para los que no lo conozcáis, os cuento las funcionalidades que a mí me resultan más prácticas:</p>
+<ul>
+<li><img alt="Ie7 Pro" src="http://static.flickr.com/3088/2569648733_0e50df5284.jpg" align="right" border="0">Captura de pantalla: Con este plugin es muy fácil sacar una imagen de una página. Ya no tienes que andar copiando y pegando en Photoshop, en la imagen incluye toda la página, no sólo el área visible. Además permite meter la captura en el portapapeles de forma que adjuntarlo en un mail o meterlo dentro de un word es mucho más fácil.</li>
+<li>Pestañas: Una de las funcionalidades que más me gustan es que puedes configurarlo para que abra nuevos enlaces como un nuevo tab automáticamente. Y lo mismo cuando haces una búsqueda, no abre los resultados en la página que estabas viendo, sino en una nueva.</li>
+<li>Reabrir última pestaña cerrada: A veces cerramos una pestaña sin querer, con esta funcionalidad la puedes recuperar.</li>
+<li>Session manager: Te permite guardar una sesión de los tabs que tienes abiertos en ese momento para luego volver a utilizarla.</li>
+<li>MiniDM: Gestor de descargas, idéntico al de Firefox.</li>
+<li>Resize window: Muy útil para desarrolladores, te permite cambiar la resolución a 800&#215;600, 1024&#215;768&#8230; de forma que puedes ver el área visible del usuario de forma muy fácil.</li>
+<li>Autoscroll y refresh: No se me ocurren muchas ocasiones en las que quieras utilizar estas dos funcionalidades, pero por si acaso, ahí están.</li>
+</ul>
+<p>En resumen, muy recomendable. Yo desde que lo instalé hace más de un año, ya no puedo prescindir de él. No está a la altura de Firebug, pero algo es algo&#8230;</p>
+<p>Via <a href="http://www.genbeta.com/2008/05/27-ie-7-pro-ahora-con-prefetching-y-manejo-de-sesiones" target="_blank">Genbeta</a> | Descarga en <a href="http://www.ie7pro.com/download.php?language=es" target="_blank">Sitio Oficial</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/ie7-pro-mejora-explorer/">IE7 Pro, mejorando Internet Explorer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/ie7-pro-mejora-explorer/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

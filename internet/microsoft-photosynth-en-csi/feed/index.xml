@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Microsoft Photosynth en CSI</title>
+	<atom:link href="/microbiablog/internet/microsoft-photosynth-en-csi/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/internet/microsoft-photosynth-en-csi/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Tue, 03 Apr 2012 11:12:15 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>By: Microsoft GeoSynth, la respuesta a Google Street View &#124; microbiablog.com</title>
+		<link>/microbiablog/internet/microsoft-photosynth-en-csi/#comment-1846</link>
+		<dc:creator><![CDATA[Microsoft GeoSynth, la respuesta a Google Street View &#124; microbiablog.com]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2009 09:10:31 +0000</pubDate>
+		<guid isPermaLink="false">http://microbiablog.com/2009/02/10/microsoft-photosynth-en-csi/#comment-1846</guid>
+		<description><![CDATA[[...] de PhotoSynth, la próxima apuesta de Microsoft para competir con Google Street View es GeoSynth. Eso sí, con [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] de PhotoSynth, la próxima apuesta de Microsoft para competir con Google Street View es GeoSynth. Eso sí, con [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

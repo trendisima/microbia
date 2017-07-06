@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wl writer &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/wl-writer/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>WordPress 3.0</title>
+		<link>/microbiablog/herramientas/wordpress-3-0/</link>
+		<pubDate>Fri, 02 Apr 2010 10:56:52 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[wl writer]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/wordpress-3-0/</guid>
+		<description><![CDATA[<p>El próximo mes de mayo (si no sufre más retrasos) estará disponible la nueva versión del famoso CMS para blogs WordPress. Esta vez se trata de mejoras no sólo en el interfaz, sino también en el funcionamiento que representan realmente un cambio respecto a versiones anteriores y que va a hacer sombra a otros servicios [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/wordpress-3-0/">WordPress 3.0</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>El próximo mes de mayo (si no sufre más retrasos) estará disponible la nueva versión del famoso CMS para blogs WordPress. Esta vez se trata de mejoras no sólo en el interfaz, sino también en el funcionamiento que representan realmente un cambio respecto a versiones anteriores y que va a hacer sombra a otros servicios como por ejemplo Tumblr.</p>
+<p> <span id="more-676"></span>  </p>
+<p><strong>Todas las novedades</strong></p>
+<ol>
+<li>Adiós al usuario Admin
+<p>Desde la instalación, podrás crear tu propio usuario con la contraseña que quieras, solucionando así problemas de seguridad.</p>
+</li>
+<li>Múltiples blogs – Adiós a WordPress MU
+<p>WordPress y WordPress MU al fin se unen en una sola versión. Para los usuarios con un sólo blog, no les molestará, pero para los que actualmente utilizan MU representa la opción de disponer de los mismos plugins, themes, etc</p>
+</li>
+<li>Tipos de post personalizados
+<p>Ya no estás limitado a los “Posts”, en esta nueva versión puedes definir tus propios tipos de entradas, como por ejemplo: galería de fotos, películas, citas y definir qué campos de administración se van a mostrar para cada tipo, funcionalidad de los permalinks, apariencia en el tema, etc – Aún no está del todo claro lo que vendrá por defecto con la nueva versión, pero abriendo esta posibilidad, crear tus propios tipos de contenido va a ser mucho mas fácil de personalizar. Una utilidad que podría acabar con servicios como Tumblr, podría ser esa, ya que podrías definir entradas tipo: video, foto, cita… y darles distinta apariencia tal y como hace tumblr, sin verte obligado a rellenar campos innecesarios para cada tipo.       </p>
+<p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="4483343275_579956f55c_o[1]" border="0" alt="4483343275_579956f55c_o[1]" src="/microbiablog/wp-content/uploads/2010/04/4483343275_579956f55c_o1.jpg" width="361" height="150" /> </p>
+</li>
+<li>Nuevo diseño de la administración
+<p>La nueva administración no sólo tendrá cambios en el aspecto, colores, etc sino que también separa contenido de conversación en el dashboard, tiene pestañas de múltiple funcionalidad y unifica las opciones Miscelánea y Multimedia.       </p>
+<p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="4483343311_af05248abc_o[1]" border="0" alt="4483343311_af05248abc_o[1]" src="/microbiablog/wp-content/uploads/2010/04/4483343311_af05248abc_o1.jpg" width="361" height="226" /> </p>
+</li>
+<li>Buddypress como un plugin más
+<p>Ya no es necesario instalar WordPress MU (ya que ahora viene integrado) para añadir Comunidad a tu blog a una instalación normal de WordPress.</p>
+</li>
+<li>Menús personalizados&#160;
+<p>Ya puedes definir las secciones que quieres que aparezcan en el menú de sitio de forma fácil.       </p>
+<p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="4483992672_a439b5e428_o[1]" border="0" alt="4483992672_a439b5e428_o[1]" src="/microbiablog/wp-content/uploads/2010/04/4483992672_a439b5e428_o1.jpg" width="361" height="162" /> </p>
+</li>
+<li>Nuevo tema por defecto &#8211; 2010
+<p>El nuevo tema que sustituye a K2, es más amplio, más limpio y tiene varias opciones de personalización como fondo personalizado (otra funcionalidad de WordPress 3.0) y distinta apariencia según tipo de post. Podeis <a href="http://2010dev.wordpress.com/" target="_blank">verlo en funcionamiento aqui</a>.        </p>
+<p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="4483343387_6c91703be2_o[1]" border="0" alt="4483343387_6c91703be2_o[1]" src="/microbiablog/wp-content/uploads/2010/04/4483343387_6c91703be2_o1.jpg" width="361" height="226" /> </p>
+</li>
+<li>Guía de bienvenida&#160;
+<p>Ahora cuando instales WordPress, tendrás una Guía de Bienvenida que ayudará a los usuarios nuevos.</p>
+</li>
+<li>Canonical Plugins&#160;
+<p>¿Algunas vez has instalado un plugin que te gustaba pero el autor ha dejado de dar soporte? Esto es lo que se pretende evitar con Canonical Plugins, ahora estos plugins tendrán soporte de la comunidad, lo que significa que si un programador deja el desarrollo, el plugin no morirá.</p>
+</li>
+</ol>
+<p>Estas son algunas de la funcionalidades, pero hay otras más, como estados en los posts, acortador de URLs, etc Tendremos que esperar un poquito más, pero creo que esta vez valdrá la pena. Mi pregunta es, ¿como se las van a apañar los programas como WL Writer para acompañar a estas mejoras? Esperemos que lo tengan en cuenta.</p>
+<ol>
+</ol>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/wordpress-3-0/">WordPress 3.0</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Postea desde tu m&#243;vil con Windows Live Writer</title>
+		<link>/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/</link>
+		<comments>/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/#comments</comments>
+		<pubDate>Wed, 10 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[móviles]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Windows Live]]></category>
+		<category><![CDATA[wl writer]]></category>
+
+		<guid isPermaLink="false">/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/</guid>
+		<description><![CDATA[<p>Como ya os he contado en anteriores posts, Windows Live Writer es una de las mejores aplicaciones para escribir en tu blog, y vengo utilizándolo desde hace años. Ahora puedes utilizarlo también en tu móvil y tu blog WordPress ya que existe una versión para Windows Mobile. Descárgalo gratis aqui &#124; Instrucciones para configurar la [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/">Postea desde tu m&oacute;vil con Windows Live Writer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Como ya os he contado en <a href="/microbiablog/herramientas/tutorial-windows-live-writer/">anteriores posts</a>, Windows Live Writer es una de las mejores aplicaciones para escribir en tu blog, y vengo utilizándolo desde hace años. Ahora puedes utilizarlo también en tu móvil y tu blog WordPress ya que existe una versión para Windows Mobile.</p>
+<p><a href="http://wlw.codeplex.com/" target="_blank">Descárgalo gratis aqui</a> | Instrucciones para <a href="http://www.makeuseof.com/tag/windows-live-writer-for-windows-mobile-is-just-what-i-was-looking-for-windows-mobile/" target="_blank">configurar la cuenta de WordPress</a>.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/">Postea desde tu m&oacute;vil con Windows Live Writer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Video tutoriales de Live Writer</title>
+		<link>/microbiablog/herramientas/tutorial-windows-live-writer/</link>
+		<comments>/microbiablog/herramientas/tutorial-windows-live-writer/#comments</comments>
+		<pubDate>Mon, 19 May 2008 18:13:31 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Windows Live]]></category>
+		<category><![CDATA[wl writer]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/19/tutorial-windows-live-writer/</guid>
+		<description><![CDATA[<p>Windows Live Writer es una aplicación de escritorio que te permite publicar posts fácilmente en tu blog. Funciona con los principales servicios de blog: blogger, wordpress, windows live spaces&#8230; y si aún no tienes blog, también puedes crearlo desde Writer. Yo sólo puedo decir que desde que lo utilizo me resulta mucho más fácil y [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/tutorial-windows-live-writer/">Video tutoriales de Live Writer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Windows Live Writer es una aplicación de escritorio que te permite publicar posts fácilmente en tu blog. Funciona con los principales servicios de blog: blogger, wordpress, windows live spaces&#8230; y si aún no tienes blog, también puedes crearlo desde Writer.</p>
+<p>Yo sólo puedo decir que desde que lo utilizo me resulta mucho más fácil y rápido postear. Puedes escribir tus posts offline y publicarlos más tarde, o corregir los posts aunque estén publicados. Permite todas las funcionalidades que puedes hacer normalmente: etiquetas, categorías, videos, mapas, trackbacks&#8230;</p>
+<p>Además hay un montón de plugins con los que puedes añadirle más cosas. Si la administración del nuevo wordpress no te gusta o tu servidor va lento, te recomiendo que pruebes con Writer, soluciona estos problemas y publicar es mucho más cómodo. Además el equipo de WL Writer acaba de publicar <a href="http://windowslivewriter.spaces.live.com/blog/cns!D85741BB5E0BE8AA!1490.entry" target="_blank">4 vídeos</a> en los que explican paso a paso los siguientes temas:</p>
+<ol>
+<li>Getting Started &#8211; Empezar a usarlo.
+<li>Basic Authoring. &#8211; Escribir y publicar posts.
+<li>Pictures, Videos, Maps and Plug-ins. &#8211; Imágenes, vídeos, mapas y plugins.
+<li>Open, Save, Publish and Help. &#8211; Abrir, guardar, publicar y ayuda.</li>
+</ol>
+<p>Actualizado (20/05): Por alguna razón que desconozco, el inline player de msn video estaba dando problemas, así que os pongo el <a href="http://video.msn.com/video.aspx?playlist=videoByUuids:uuids:7c0e2422-abb5-40c7-be67-5d79b1e875e0&amp;showPlaylist=true&amp;from=shared" target="_blank">enlace al vídeo</a>. </p>
+<p>Via <a href="http://bitelia.com/2008/05/19/video-tutoriales-de-windows-live-writer/" target="_blank">Bitelia</a> | <a href="http://windowslivewire.spaces.live.com/Blog/cns!2F7EB29B42641D59!4721.entry" target="_blank">Windows Live Wire</a> | Descarga <a href="http://get.live.com/writer/overview" target="_blank">Windows Live Writer</a></p>
+<p></embed></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/tutorial-windows-live-writer/">Video tutoriales de Live Writer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/tutorial-windows-live-writer/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

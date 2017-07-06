@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>powerpoint &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/powerpoint/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>5 reglas para crear una buena presentaci&#243;n</title>
+		<link>/microbiablog/herramientas/5-reglas-para-crear-una-buena-presentacin/</link>
+		<comments>/microbiablog/herramientas/5-reglas-para-crear-una-buena-presentacin/#comments</comments>
+		<pubDate>Wed, 16 Dec 2009 19:19:25 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[office]]></category>
+		<category><![CDATA[office 2010]]></category>
+		<category><![CDATA[powerpoint]]></category>
+		<category><![CDATA[Videos]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/5-reglas-para-crear-una-buena-presentacin/</guid>
+		<description><![CDATA[<p>Este vídeo no sólo te desvela las claves para una buena presentación, sino que además muestra el potencial del nuevo motor de movimiento de Powerpoint 2010. Olvídate de las aburridas cortinillas y como diría el mismisimo Steve Jobs: “ensaya, ensaya, ensaya”. Visto en Istartedsomething.com</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/5-reglas-para-crear-una-buena-presentacin/">5 reglas para crear una buena presentaci&oacute;n</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Este vídeo no sólo te desvela las claves para una buena presentación, sino que además muestra el potencial del nuevo motor de movimiento de Powerpoint 2010.</p>
+<p align="center"><object width="400" height="300"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=8021694&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=8021694&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></embed></object></p>
+<p>Olvídate de las aburridas cortinillas y como diría el mismisimo Steve Jobs: “ensaya, ensaya, ensaya”.</p>
+<p>Visto en <a href="http://www.istartedsomething.com/20091207/powerpoint-2010s-five-rules-sample-presentation/" target="_blank">Istartedsomething.com</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/5-reglas-para-crear-una-buena-presentacin/">5 reglas para crear una buena presentaci&oacute;n</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/5-reglas-para-crear-una-buena-presentacin/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

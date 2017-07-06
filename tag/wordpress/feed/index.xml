@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wordpress &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>WordPress 3.0</title>
+		<link>/microbiablog/herramientas/wordpress-3-0/</link>
+		<pubDate>Fri, 02 Apr 2010 10:56:52 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[wl writer]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/wordpress-3-0/</guid>
+		<description><![CDATA[<p>El próximo mes de mayo (si no sufre más retrasos) estará disponible la nueva versión del famoso CMS para blogs WordPress. Esta vez se trata de mejoras no sólo en el interfaz, sino también en el funcionamiento que representan realmente un cambio respecto a versiones anteriores y que va a hacer sombra a otros servicios [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/wordpress-3-0/">WordPress 3.0</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>El próximo mes de mayo (si no sufre más retrasos) estará disponible la nueva versión del famoso CMS para blogs WordPress. Esta vez se trata de mejoras no sólo en el interfaz, sino también en el funcionamiento que representan realmente un cambio respecto a versiones anteriores y que va a hacer sombra a otros servicios como por ejemplo Tumblr.</p>
+<p> <span id="more-676"></span>  </p>
+<p><strong>Todas las novedades</strong></p>
+<ol>
+<li>Adiós al usuario Admin
+<p>Desde la instalación, podrás crear tu propio usuario con la contraseña que quieras, solucionando así problemas de seguridad.</p>
+</li>
+<li>Múltiples blogs – Adiós a WordPress MU
+<p>WordPress y WordPress MU al fin se unen en una sola versión. Para los usuarios con un sólo blog, no les molestará, pero para los que actualmente utilizan MU representa la opción de disponer de los mismos plugins, themes, etc</p>
+</li>
+<li>Tipos de post personalizados
+<p>Ya no estás limitado a los “Posts”, en esta nueva versión puedes definir tus propios tipos de entradas, como por ejemplo: galería de fotos, películas, citas y definir qué campos de administración se van a mostrar para cada tipo, funcionalidad de los permalinks, apariencia en el tema, etc – Aún no está del todo claro lo que vendrá por defecto con la nueva versión, pero abriendo esta posibilidad, crear tus propios tipos de contenido va a ser mucho mas fácil de personalizar. Una utilidad que podría acabar con servicios como Tumblr, podría ser esa, ya que podrías definir entradas tipo: video, foto, cita… y darles distinta apariencia tal y como hace tumblr, sin verte obligado a rellenar campos innecesarios para cada tipo.       </p>
+<p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="4483343275_579956f55c_o[1]" border="0" alt="4483343275_579956f55c_o[1]" src="/microbiablog/wp-content/uploads/2010/04/4483343275_579956f55c_o1.jpg" width="361" height="150" /> </p>
+</li>
+<li>Nuevo diseño de la administración
+<p>La nueva administración no sólo tendrá cambios en el aspecto, colores, etc sino que también separa contenido de conversación en el dashboard, tiene pestañas de múltiple funcionalidad y unifica las opciones Miscelánea y Multimedia.       </p>
+<p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="4483343311_af05248abc_o[1]" border="0" alt="4483343311_af05248abc_o[1]" src="/microbiablog/wp-content/uploads/2010/04/4483343311_af05248abc_o1.jpg" width="361" height="226" /> </p>
+</li>
+<li>Buddypress como un plugin más
+<p>Ya no es necesario instalar WordPress MU (ya que ahora viene integrado) para añadir Comunidad a tu blog a una instalación normal de WordPress.</p>
+</li>
+<li>Menús personalizados&#160;
+<p>Ya puedes definir las secciones que quieres que aparezcan en el menú de sitio de forma fácil.       </p>
+<p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="4483992672_a439b5e428_o[1]" border="0" alt="4483992672_a439b5e428_o[1]" src="/microbiablog/wp-content/uploads/2010/04/4483992672_a439b5e428_o1.jpg" width="361" height="162" /> </p>
+</li>
+<li>Nuevo tema por defecto &#8211; 2010
+<p>El nuevo tema que sustituye a K2, es más amplio, más limpio y tiene varias opciones de personalización como fondo personalizado (otra funcionalidad de WordPress 3.0) y distinta apariencia según tipo de post. Podeis <a href="http://2010dev.wordpress.com/" target="_blank">verlo en funcionamiento aqui</a>.        </p>
+<p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="4483343387_6c91703be2_o[1]" border="0" alt="4483343387_6c91703be2_o[1]" src="/microbiablog/wp-content/uploads/2010/04/4483343387_6c91703be2_o1.jpg" width="361" height="226" /> </p>
+</li>
+<li>Guía de bienvenida&#160;
+<p>Ahora cuando instales WordPress, tendrás una Guía de Bienvenida que ayudará a los usuarios nuevos.</p>
+</li>
+<li>Canonical Plugins&#160;
+<p>¿Algunas vez has instalado un plugin que te gustaba pero el autor ha dejado de dar soporte? Esto es lo que se pretende evitar con Canonical Plugins, ahora estos plugins tendrán soporte de la comunidad, lo que significa que si un programador deja el desarrollo, el plugin no morirá.</p>
+</li>
+</ol>
+<p>Estas son algunas de la funcionalidades, pero hay otras más, como estados en los posts, acortador de URLs, etc Tendremos que esperar un poquito más, pero creo que esta vez valdrá la pena. Mi pregunta es, ¿como se las van a apañar los programas como WL Writer para acompañar a estas mejoras? Esperemos que lo tengan en cuenta.</p>
+<ol>
+</ol>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/wordpress-3-0/">WordPress 3.0</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Problema Apache / XAMPP con puerto 80 en Windows 7</title>
+		<link>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/</link>
+		<comments>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comments</comments>
+		<pubDate>Tue, 06 Oct 2009 18:52:31 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[trucos]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/</guid>
+		<description><![CDATA[<p>Tengo un XAMPP en un disco duro externo que he estado utilizando sin ningún problema, hasta que de pronto, ha dejado de funcionar. Por alguna razón el Apache se niega a arrancar y comprobando los puertos, veo que el puerto 80 está ocupado por SYSTEM. Buscando una solución encuentro que los posibles problemas pueden ser: [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/">Problema Apache / XAMPP con puerto 80 en Windows 7</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>T<img style="border-bottom: 0px; border-left: 0px; display: inline; margin-left: 0px; border-top: 0px; margin-right: 0px; border-right: 0px" title="3987293183_cb82da1cb3_o[1]" src="/microbiablog/wp-content/uploads/2009/10/3987293183_cb82da1cb3_o1.jpg" border="0" alt="3987293183_cb82da1cb3_o[1]" width="301" height="283" align="right" />engo un XAMPP en un disco duro externo que he estado utilizando sin ningún problema, hasta que de pronto, ha dejado de funcionar.</p>
+<p>Por alguna razón el Apache se niega a arrancar y comprobando los puertos, veo que el <strong>puerto 80 está ocupado por SYSTEM</strong>.</p>
+<p>Buscando una solución encuentro que los <strong>posibles problemas</strong> pueden ser:<span id="more-612"></span></p>
+<ul>
+<li><strong>IIS está funcionando</strong> en mi PC. &#8211; No es mi caso, ni siquiera está instalado.</li>
+<li><strong>Skype</strong> da este problema &#8211; Sin embargo, en mi pc no hay ni rastro de Skype, incluso he cerrado Messenger, Communicator y todo lo que se me ocurre. He reiniciado y sin ejecutar nada, el puerto ya está ocupado.</li>
+</ul>
+<p>De repente caigo en la cuenta de que tengo este problema desde que he cambiado <strong>Windows 7</strong>. Con Vista no me había pasado. Así que sigo buscando y finalmente encuentro <a href="http://www.cameroncooke.com/2009/01/25/windows-7-uses-port-80-and-makes-it-impossible-to-install-apache-solution/" target="_blank">este post</a> que me da una pista. Eso sí, aún tardé un rato en conseguir deshacerme del proceso.</p>
+<p>Para ello tienes que:</p>
+<ul>
+<li>Ir al <strong>Administrador de tareas</strong> de Windows (task manager), encontrar el servicio con la descripción “<strong>BrandCache</strong>”</li>
+</ul>
+<p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="3987292589_477981406f_o[1]" src="/microbiablog/wp-content/uploads/2009/10/3987292589_477981406f_o1.gif" border="0" alt="3987292589_477981406f_o[1]" width="330" height="283" /></p>
+<ul>
+<li>Si Botón derecho &gt; stop service no te deja detener el servicio, haz click en el botón “<strong>Servicios</strong>” de abajo a la derecha</li>
+<li>En la lista de servicios busca por nombre “BrandCache” y botón derecho (ahora sí debe dejarte) <strong>stop/detener servicio</strong></li>
+</ul>
+<p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="3987293021_1fdd68def8_o[1]" src="/microbiablog/wp-content/uploads/2009/10/3987293021_1fdd68def8_o1.gif" border="0" alt="3987293021_1fdd68def8_o[1]" width="484" height="232" /></p>
+<p>Ahora sí puedes ir al panel de control y ejecutar Apache sin problemas.</p>
+<p><strong>Otra solución</strong> es <a href="http://blog.wolffmyren.com/2008/07/30/making-xampp-apache-work-with-iis-on-windows-xpvista/" target="_blank">cambiar el puerto</a> en el que funciona el Apache, aunque en mi caso no me servía, ya que utilizo WordPress Mu, que no permite utilizar el puerto en la URL, o sea que nada de localhost:85 ni nada por el estilo.</p>
+<p>Y este ha sido mi briconsejo de hoy. Espero que os evite algunos dolores de cabeza. <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/">Problema Apache / XAMPP con puerto 80 en Windows 7</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/feed/</wfw:commentRss>
+		<slash:comments>24</slash:comments>
+		</item>
+		<item>
+		<title>Problema con la funci&#243;n posts_nav_link de WordPress</title>
+		<link>/microbiablog/herramientas/problema-con-la-funcin-posts_nav_link-de-wordpress/</link>
+		<comments>/microbiablog/herramientas/problema-con-la-funcin-posts_nav_link-de-wordpress/#comments</comments>
+		<pubDate>Sun, 26 Jul 2009 11:16:29 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[programacion]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-con-la-funcin-posts_nav_link-de-wordpress/</guid>
+		<description><![CDATA[<p>Hasta ahora estaba utilizando la función posts_nav_link para poner los enlaces a “Posts Anteriores” y “Posts Recientes”  y utilizando el siguiente código para añadirle los estilos: &#60;div class=&#8221;postnav&#8221;&#62; &#60;?php posts_nav_link('','','&#60;span class="previous"&#62;Posts Anteriores&#60;/span&#62;') ?&#62; &#60;?php posts_nav_link('','&#60;span class="next"&#62;Posts nuevos&#60;/span&#62;','') ?&#62; &#60;/div&#62; Sin embargo, después de la última actualización de WordPress, en la que han cambiado esta función, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/problema-con-la-funcin-posts_nav_link-de-wordpress/">Problema con la funci&oacute;n posts_nav_link de WordPress</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hasta ahora estaba utilizando la función posts_nav_link para poner los enlaces a “Posts Anteriores” y “Posts Recientes”  y utilizando el siguiente código para añadirle los estilos:</p>
+<p><span id="more-579"></span>&lt;div class=&#8221;postnav&#8221;&gt;</p>
+<pre><code>&lt;?php posts_nav_link('','','&lt;span class="previous"&gt;Posts Anteriores&lt;/span&gt;') ?&gt;
+&lt;?php posts_nav_link('','&lt;span class="next"&gt;Posts nuevos&lt;/span&gt;','') ?&gt;
+&lt;/div&gt;
+</code></pre>
+<p>Sin embargo, después de la última actualización de WordPress, en la que han cambiado esta función, mostraba los enlaces duplicados y se veía además el texto en inglés. Por suerte, encontré la solución en los <a href="http://wordpress.org/support/topic/283092" target="_blank">foros de WordPress</a> y lo he solucionado con el siguiente código:</p>
+<pre><code>&lt;?php
+	$the_last_page = $wp_query-&gt;max_num_pages;
+	$loaded_page = intval($paged);
+?&gt;
+&lt;?php if ( $the_last_page == $loaded_page) { ?&gt;
+	&lt;a href="&lt;?php previous_posts(); ?&gt;#anchor" class="previous" style="margin-left:40px;"&gt;Posts Recientes&lt;/a&gt;
+&lt;?php } elseif ($loaded_page == 0) { ?&gt;
+	&lt;a href="&lt;?php next_posts(); ?&gt;#anchor" class="next"&gt;Posts Anteriores&lt;/a&gt;
+&lt;?php } else { ?&gt;
+	&lt;a href="&lt;?php previous_posts(); ?&gt;#anchor" class="previous" style="margin-left:40px;"&gt;Posts Recientes&lt;/a&gt;  &lt;a href="&lt;?php next_posts(); ?&gt;#anchor" class="next"&gt;Posts Anteriores&lt;/a&gt;
+&lt;?php } ?&gt;</code></pre>
+<p>Son casi el doble de líneas de código pero de momento funciona. Esperemos que no se fastidie con la próxima versión&#8230;</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/problema-con-la-funcin-posts_nav_link-de-wordpress/">Problema con la funci&oacute;n posts_nav_link de WordPress</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/problema-con-la-funcin-posts_nav_link-de-wordpress/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>A&#241;adir funcionalidades de WordPress sin plugins</title>
+		<link>/microbiablog/herramientas/aadir-funcionalidades-de-wordpress-sin-plugins/</link>
+		<pubDate>Mon, 15 Jun 2009 16:30:19 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[programacion]]></category>
+		<category><![CDATA[trucos]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/aadir-funcionalidades-de-wordpress-sin-plugins/</guid>
+		<description><![CDATA[<p>Añadir plugins a WordPress es muy fácil, pero hay un montón de cosas que podemos hacer añadiendo directamente el código en las páginas en vez de instalar miles de plugins que a veces no sabemos cómo están hechos. En InstantShift publican un artículo con el código correspondiente para cada una de estas cosas: Lista de [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/aadir-funcionalidades-de-wordpress-sin-plugins/">A&ntilde;adir funcionalidades de WordPress sin plugins</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Añadir plugins a WordPress es muy fácil, pero hay un montón de cosas que podemos hacer <strong>añadiendo directamente el código</strong> en las páginas en vez de instalar miles de plugins que a veces no sabemos cómo están hechos. En <a href="http://www.instantshift.com/2009/06/15/22-mixed-quality-wordpress-hacks/" target="_blank">InstantShift</a> publican un artículo con el código correspondiente para cada una de estas cosas:</p>
+<ol>
+<li><img style="display: inline; margin-left: 0px; margin-right: 0px" align="right" src="http://farm4.static.flickr.com/3305/3629579070_5b4c31d915_o.jpg" width="240" height="188" /> Lista de próximos posts: Para anunciar los posts que tienes programados pero aún no están publicados. </li>
+<li>Lista de posts más populares: Muestra los posts más comentados </li>
+<li>Posts relacionados </li>
+<li>Muestra los últimos comentarios </li>
+<li>Posts más comentados en cierto periodo de tiempo </li>
+<li>Cómo separar comentarios de trackbacks
+<div id='extendedEntryBreak' name='extendedEntryBreak'></div>
+</li>
+<li>Obtén automáticamente un thumbnail de la primera imagen del post </li>
+<li>Obtener las imágenes del post </li>
+<li>Muestra una cabecera aleatoria </li>
+<li>Cómo crear una galería </li>
+<li>Cómo añadir un botón de imprimir </li>
+<li>Cómo añadir un botón “enviar a Facebook” </li>
+<li>Cómo añadir un botón “enviar a Twitter” </li>
+<li>Cómo enviar automáticamente nuevos posts a delicious </li>
+<li>Cómo resaltar los comentarios del autor del blog </li>
+<li>Añade información sobre el autor en cada post </li>
+<li>Lista todos los autores del blog </li>
+<li>Cómo mostrar el número de suscriptores a tu feed de Feedburner </li>
+<li>Cómo controlar cuándo tus posts se publican en el RSS </li>
+<li>Cómo excluir categorías del RSS </li>
+<li>Cómo crear feeds RSS personalizados </li>
+<li>Cómo añadir un link a “Suscribir a este feed” después de cada post </li>
+</ol>
+<p>Post completo en <a href="http://www.instantshift.com/2009/06/15/22-mixed-quality-wordpress-hacks/" target="_blank">InstantShift</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/aadir-funcionalidades-de-wordpress-sin-plugins/">A&ntilde;adir funcionalidades de WordPress sin plugins</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>WordPress 2.8 (Baker) ya disponible</title>
+		<link>/microbiablog/herramientas/wordpress-28-baker-ya-disponible/</link>
+		<pubDate>Thu, 11 Jun 2009 09:35:20 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/wordpress-28-baker-ya-disponible/</guid>
+		<description><![CDATA[<p>Ya puedes descargar la nueva versión estable de WordPress. La mayoría de mejoras han sido para la parte de la administración: Busca y explora themes directamente desde la administración. Información detallada sobre los plugins Código coloreado por sintaxis (que facilita la visualización y edición del código) Información detallada sobre las funciones propias de WordPress (codex). [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/wordpress-28-baker-ya-disponible/">WordPress 2.8 (Baker) ya disponible</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ya puedes descargar la <a href="http://wordpress.org/download/" target="_blank">nueva versión</a> estable de WordPress. La mayoría de mejoras han sido para la parte de la administración:</p>
+<ul>
+<li>Busca y explora themes directamente desde la administración. </li>
+<li>Información detallada sobre los plugins </li>
+<li>Código coloreado por sintaxis (que facilita la visualización y edición del código) </li>
+<li>Información detallada sobre las funciones propias de WordPress (codex). </li>
+<li>Organiza los <em>widgets</em> del panel de control hasta en 4 columnas. </li>
+<li>Configura el número de elementos que quieres ver en la admin. </li>
+<li>Soporte para zonas horarias y soporte para cambio de hora automático. </li>
+<li>Soporte para IIS 7.0 URL Mod Rewrite </li>
+<li>Mejorado rendimiento de la administración, más rápido gracias funcionalidades JS. </li>
+</ul>
+<p> No os perdais el vídeo, donde podreis ver estas mejoras en funcionamiento:   </p>
+<div align="center"><embed src="http://v.wordpress.com/Pu3T4X8l" type="application/x-shockwave-flash" width="480" height="270" allowscriptaccess="always" allowfullscreen="true"></embed></div>
+<p>Visto en <a href="http://mashable.com/2009/06/10/wordpress-baker/" target="_blank">Mashable</a> | Descarga <a href="http://wordpress.org/download/" target="_blank">WordPress 2.8</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/wordpress-28-baker-ya-disponible/">WordPress 2.8 (Baker) ya disponible</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>140+ themes de WordPress</title>
+		<link>/microbiablog/herramientas/140-themes-de-wordpress/</link>
+		<pubDate>Thu, 11 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[recursos]]></category>
+		<category><![CDATA[themes]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/140-themes-de-wordpress/</guid>
+		<description><![CDATA[<p>Si estás buscando un nuevo diseño para tu blog (WordPress), no te pierdas esta selección de más de 140 temas de todos los tipos: personales, revista o tienda… Merece la pena echar un vistazo, seguro que encuentras el tuyo… Visto en Instant Shift</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/140-themes-de-wordpress/">140+ themes de WordPress</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img style="display: inline; margin-left: 0px; margin-right: 0px" align="right" src="http://farm4.static.flickr.com/3564/3615284514_5e655aef5b_o.jpg" /> Si estás buscando un nuevo diseño para tu blog (WordPress), no te pierdas <a href="http://www.instantshift.com/2009/02/22/140-brilliant-free-wordpress-themes-around/" target="_blank">esta selección de más de 140 temas</a> de todos los tipos: personales, revista o tienda… Merece la pena echar un vistazo, seguro que encuentras el tuyo…</p>
+<p>Visto en <a href="http://www.instantshift.com/2009/02/22/140-brilliant-free-wordpress-themes-around/" target="_blank">Instant Shift</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/140-themes-de-wordpress/">140+ themes de WordPress</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>WordPress TV</title>
+		<link>/microbiablog/internet/wordpress-tv/</link>
+		<pubDate>Sat, 17 Jan 2009 19:52:44 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[recursos]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/01/17/wordpress-tv/</guid>
+		<description><![CDATA[<p>Hoy Automattic, la empresa creadora de WordPress ha lanzado un nuevo site, WordPress.TV, donde puedes encontrar recursos de ayuda para el software de blogs. De momento casi todo son vídeos que explican las funcionalidades básicas, pero poco a poco se incluirán tambien otros materiales como presentaciones, conferencias, etc relacionadas con wordpress. WordPress TV</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/wordpress-tv/">WordPress TV</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hoy Automattic, la empresa creadora de WordPress ha lanzado un nuevo site, <a href="http://wordpress.tv/" target="_blank">WordPress.TV</a>, donde puedes encontrar recursos de ayuda para el software de blogs. De momento casi todo son vídeos que explican las funcionalidades básicas, pero poco a poco se incluirán tambien otros materiales como presentaciones, conferencias, etc relacionadas con wordpress.</p>
+<p><a href="http://wordpress.tv/" target="_blank">WordPress TV</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/wordpress-tv/">WordPress TV</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Los mejores plugins de WordPress</title>
+		<link>/microbiablog/internet/los-mejores-plugins-de-wordpress/</link>
+		<pubDate>Thu, 06 Nov 2008 19:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[plugins]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/11/06/los-mejores-plugins-de-wordpress/</guid>
+		<description><![CDATA[<p>WordPress es una de las mejores plataformas para Bloggers, pero es aún mejor cuando encuestras ese plugin que hace justamente lo que andabas buscando. Y como a veces encontrar el plugin justo es como buscar una aguja en un pajar, en 1stwebdesigner publican dos posts con los mejores plugins que existen: 130 WordPress Plugins You [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/los-mejores-plugins-de-wordpress/">Los mejores plugins de WordPress</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img alt="wordpress_plugins" src="http://static.flickr.com/3203/3006154210_7f078cd56c.jpg" align="right" border="0" />WordPress es una de las mejores plataformas para Bloggers, pero es aún mejor cuando encuestras ese plugin que hace justamente lo que andabas buscando. Y como a veces encontrar el plugin justo es como buscar una aguja en un pajar, en <a href="http://www.1stwebdesigner.com/" target="_blank">1stwebdesigner</a> publican dos posts con los mejores plugins que existen: <a href="http://www.1stwebdesigner.com/resources/130-wordpress-plugins-you-could-ever-need-the-best-of-part-1/">130 WordPress Plugins You Could Ever Need: The Best Of : Part 1</a> y <a href="http://www.1stwebdesigner.com/resources/130-wordpress-plugins-you-could-ever-need-the-best-of-part-2/">130 WordPress Plugins You Could Ever Need: The Best Of: Part 2</a></p>
+<p>Via <a href="http://www.cosassencillas.com/2008/11/04/los-mejores-130-plugins-de-wordpress-que-puedes-necesitar/" target="_blank">Cosas Sencillas</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/los-mejores-plugins-de-wordpress/">Los mejores plugins de WordPress</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Tu blog a vista de pájaro</title>
+		<link>/microbiablog/herramientas/tu-blog-a-vista-de-pajaro/</link>
+		<pubDate>Thu, 10 Apr 2008 08:38:56 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[mapas]]></category>
+		<category><![CDATA[Windows Live]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/04/10/tu-blog-a-vista-de-pajaro/</guid>
+		<description><![CDATA[<p>Ahora ya puedes meter mapas de Live Earth en tu blog (wordpress) de forma sencilla y rápida gracias a este plugin. Además el plugin es compatible con Windows Live Writer de forma que cuando insertas un mapa, el plugin convierte el mapa estático en uno dinámico de Live Earth sin tener que hacer nada en [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/tu-blog-a-vista-de-pajaro/">Tu blog a vista de pájaro</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ahora ya puedes meter mapas de Live Earth en tu blog (wordpress) de forma sencilla y rápida gracias a este plugin.</p>
+<p>Además el plugin es compatible con Windows Live Writer de forma que cuando insertas un mapa, el plugin convierte el mapa estático en uno dinámico de Live Earth sin tener que hacer nada en Writer.</p>
+<p>Instalación:</p>
+<ol>
+<li>Descarga el plugin correspondiente a tu versión de wordpress:
+<ul>
+<li><a href="http://www.vivelive.com/wordpress/wp_livemaps_2_5.zip">WP-LiveMaps para wordpress v.2.5</a></li>
+<li><a href="http://www.vivelive.com/wordpress/wp_livemaps_2_11_2_3.zip">WP-LiveMaps para wordpress v.2.11/2.3</a></li>
+</ul>
+</li>
+<li>Descomprime el plugin en tu carpeta: /wp-content/plugins</li>
+<li>Activar el plugin en la administración del blog.</li>
+<li>Configura las opciones del plugin</li>
+<li>Verás que en en editor de posts te sale un nuevo botón y sólo tienes que seguir las indicaciones.</li>
+</ol>
+<p>Para mi gusto, sólo le falta que se puedan seleccionar colecciones que ya existen, pero seguro que poco a poco van añadiendo funcionalidades.</p>
+<p>Via <a target="_blank" href="http://vivewindowslive.spaces.live.com/Blog/cns!F5F71FDC0E6BC7DD!780.entry">vivelive.com</a> | <a target="_blank" href="http://www.vivelive.com/wordpress/">Descarga el plugin</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/tu-blog-a-vista-de-pajaro/">Tu blog a vista de pájaro</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>WPhone, postea a WordPress desde tu móvil</title>
+		<link>/microbiablog/herramientas/wphone-postea-a-wordpress-desde-tu-movil/</link>
+		<pubDate>Tue, 27 Nov 2007 19:23:39 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/?p=185</guid>
+		<description><![CDATA[<p>Wphone es un plug in para wordpress que te permite administrar tu blog directamente desde el móvil. Se presenta en dos versiones: Una con para móviles con soporte de CSS y Javascript (como Iphone, iPod Touch) Otra para el resto de móviles que sólo necesita HTML. Tan sólo hay que descargar e instalar el plug in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/wphone-postea-a-wordpress-desde-tu-movil/">WPhone, postea a WordPress desde tu móvil</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Wphone es un plug in para wordpress que te permite administrar tu blog directamente desde el móvil. Se presenta en dos versiones:</p>
+<ul>
+<li>Una con para móviles con soporte de CSS y Javascript (como Iphone, iPod Touch)</li>
+<li>Otra para el resto de móviles que sólo necesita HTML.</li>
+</ul>
+<p>Tan sólo hay que descargar e instalar el plug in en nuestro servidor wordpress como cualquier otro. Al acceder a la administración desde el móvil, introducir nuestro usuario y password y chequear la casilla &#8220;Use mobile admin interface&#8221;.</p>
+<p><img border="0" width="450" src="http://farm3.static.flickr.com/2206/2068617797_7b99e94e75.jpg?v=0" height="200" /></p>
+<p>Entonces veremos una interfaz optimizada del dashboard para el movil.</p>
+<p>Via <a target="_blank" href="http://bitelia.com/2007/11/26/wphone-un-plugin-para-administrar-wordpress-desde-el-movil/">bitelia</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/wphone-postea-a-wordpress-desde-tu-movil/">WPhone, postea a WordPress desde tu móvil</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ereader &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/ereader/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Plastic Logic, otro eReader</title>
+		<link>/microbiablog/tecnologia/plastic-logic-otro-ereader/</link>
+		<comments>/microbiablog/tecnologia/plastic-logic-otro-ereader/#comments</comments>
+		<pubDate>Mon, 15 Sep 2008 18:42:36 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Tecnología]]></category>
+		<category><![CDATA[ereader]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[tablet]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/09/15/plastic-logic-otro-ereader/</guid>
+		<description><![CDATA[<p>Justo cuando no sabía si comprarme el Sony o el iLiad, sale este otro eReader de Plastic Loogic, tamaño A4 y también touch. Eso sí, no sale a la venta hasta el año que viene. Alguien sabe el precio? Tendré que ir ahorrando&#8230; &#160;</p>
+<p>The post <a rel="nofollow" href="/microbiablog/tecnologia/plastic-logic-otro-ereader/">Plastic Logic, otro eReader</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Justo cuando no sabía si comprarme el <a href="http://microbiablog.com/2008/09/01/una-de-ereaders-kindles-y-tablets/">Sony o el iLiad</a>, sale este otro eReader de Plastic Loogic, tamaño A4 y también <em>touch</em>. Eso sí, no sale a la venta hasta el año que viene. Alguien sabe el precio? Tendré que ir ahorrando&#8230;</p>
+<p>&nbsp;</p>
+<p><embed name="flashObj" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" src="http://services.brightcove.com/services/viewer/federated_f8/980795693" width="486" height="412" type="application/x-shockwave-flash" swliveconnect="true" seamlesstabbing="false" base="http://admin.brightcove.com/" flashvars="videoId=1778578839&amp;playerId=980795693&amp;viewerSecureGatewayURL=https://console.brightcove.com/services/amfgateway&amp;servicesURL=http://services.brightcove.com/services&amp;cdnURL=http://admin.brightcove.com&amp;domain=embed&amp;autoStart=false&amp;" bgcolor="#FFFFFF"></embed></p>
+<p>The post <a rel="nofollow" href="/microbiablog/tecnologia/plastic-logic-otro-ereader/">Plastic Logic, otro eReader</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/tecnologia/plastic-logic-otro-ereader/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

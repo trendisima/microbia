@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>productividad &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/productividad/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>WorldTimeBuddy: Distintas zonas horarias de un vistazo</title>
+		<link>/microbiablog/herramientas/worldtimebuddy-distintas-zonas-horarias-de-un-vistazo/</link>
+		<pubDate>Thu, 16 Aug 2012 11:27:43 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[útiles]]></category>
+
+		<guid isPermaLink="false">/microbiablog/?p=770</guid>
+		<description><![CDATA[<p>Outlook tiene la funcionalidad de mostrar dos zonas horarias para hacer más fácil convocar reuniones. Lo malo es que sólo puedes tener dos, y a veces las reuniones son con asistentes de varios usos horarios. En esta caso, la web WorldTimeBuddy es muy útil, ya que puedes añadir tantas ciudades/horarios como quieras y de un [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/worldtimebuddy-distintas-zonas-horarias-de-un-vistazo/">WorldTimeBuddy: Distintas zonas horarias de un vistazo</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Outlook tiene la funcionalidad de mostrar dos zonas horarias para hacer más fácil convocar reuniones. Lo malo es que sólo puedes tener dos, y a veces las reuniones son con asistentes de varios usos horarios.</p>
+<p>En esta caso, la web <a href="http://www.worldtimebuddy.com/" target="_blank">WorldTimeBuddy</a> es muy útil, ya que puedes añadir tantas ciudades/horarios como quieras y de un vistazo ver la hora en cada uno de ellos. Sería muy útil tener esta funcionalidad en outlook, pero mientras tanto, es útil para saber de qué hora estamos hablando.</p>
+<p><img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/microbiablog/wp-content/uploads/2012/08/image.png" width="594" height="367" /></p>
+<p>Sitio: <a href="http://www.worldtimebuddy.com/" target="_blank">WorldTimeBuddy</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/worldtimebuddy-distintas-zonas-horarias-de-un-vistazo/">WorldTimeBuddy: Distintas zonas horarias de un vistazo</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

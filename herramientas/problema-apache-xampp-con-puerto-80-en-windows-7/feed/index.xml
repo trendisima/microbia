@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Problema Apache / XAMPP con puerto 80 en Windows 7</title>
+	<atom:link href="/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Tue, 03 Apr 2012 11:12:15 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>By: YeaYea</title>
+		<link>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2378</link>
+		<dc:creator><![CDATA[YeaYea]]></dc:creator>
+		<pubDate>Thu, 22 Mar 2012 08:37:13 +0000</pubDate>
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2378</guid>
+		<description><![CDATA[hola mi problema es cuando quiero ingresar a la pestaña &quot;ESTATUS&quot; del panel izquierdo en la direccion localhost, me bota de windows al pantallazo azul...alguien tiene una idea de lo que pueda ser??? el XAMPP lo tengo en c:/ XAMPP, en win7 64 bits. Gracias por su ayuda]]></description>
+		<content:encoded><![CDATA[<p>hola mi problema es cuando quiero ingresar a la pestaña &#8220;ESTATUS&#8221; del panel izquierdo en la direccion localhost, me bota de windows al pantallazo azul&#8230;alguien tiene una idea de lo que pueda ser??? el XAMPP lo tengo en c:/ XAMPP, en win7 64 bits. Gracias por su ayuda</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: jose</title>
+		<link>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2374</link>
+		<dc:creator><![CDATA[jose]]></dc:creator>
+		<pubDate>Tue, 14 Feb 2012 16:37:17 +0000</pubDate>
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2374</guid>
+		<description><![CDATA[hola amigos el problema que tengo es el siquiente mi xampp me funciona bien pero  cuando quiero i ngresar a mi localhost ingreso mi username  y contraseña y no la reconoce. si me pueden apoyar porfavor .
+phpMyAdmin 
+El servidor MySQL no autorizó su ingreso
+eso es lo que dice]]></description>
+		<content:encoded><![CDATA[<p>hola amigos el problema que tengo es el siquiente mi xampp me funciona bien pero  cuando quiero i ngresar a mi localhost ingreso mi username  y contraseña y no la reconoce. si me pueden apoyar porfavor .<br />
+phpMyAdmin<br />
+El servidor MySQL no autorizó su ingreso<br />
+eso es lo que dice</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Fer</title>
+		<link>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2369</link>
+		<dc:creator><![CDATA[Fer]]></dc:creator>
+		<pubDate>Tue, 24 Jan 2012 20:07:01 +0000</pubDate>
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2369</guid>
+		<description><![CDATA[Muchas gracias ojalá personas como tú sigan realizando este tipo de notas que para todos los que no tenemos mucha idea nos ayudan demasiado... tremendo aporte]]></description>
+		<content:encoded><![CDATA[<p>Muchas gracias ojalá personas como tú sigan realizando este tipo de notas que para todos los que no tenemos mucha idea nos ayudan demasiado&#8230; tremendo aporte</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: NexusFireMan</title>
+		<link>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2312</link>
+		<dc:creator><![CDATA[NexusFireMan]]></dc:creator>
+		<pubDate>Tue, 09 Aug 2011 18:30:22 +0000</pubDate>
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2312</guid>
+		<description><![CDATA[Hola a todos,
+
+Yo el problema que tengo es que no me arranca el servicio de MySQL.
+
+A alguien mas le pasa?
+
+Que solución puede haber?]]></description>
+		<content:encoded><![CDATA[<p>Hola a todos,</p>
+<p>Yo el problema que tengo es que no me arranca el servicio de MySQL.</p>
+<p>A alguien mas le pasa?</p>
+<p>Que solución puede haber?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Clos132</title>
+		<link>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2311</link>
+		<dc:creator><![CDATA[Clos132]]></dc:creator>
+		<pubDate>Mon, 01 Aug 2011 05:33:12 +0000</pubDate>
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2311</guid>
+		<description><![CDATA[ahh y escaneando el puerto me dice q es un proceso Micrososft-HTTPAPI/2.0]]></description>
+		<content:encoded><![CDATA[<p>ahh y escaneando el puerto me dice q es un proceso Micrososft-HTTPAPI/2.0</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Clos132</title>
+		<link>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2310</link>
+		<dc:creator><![CDATA[Clos132]]></dc:creator>
+		<pubDate>Mon, 01 Aug 2011 05:29:59 +0000</pubDate>
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2310</guid>
+		<description><![CDATA[ayudenme pls!
+tengo instalado el wampserver pero dichoso puerto 80 esta ocupado por un proceso llamado &quot;system&quot;.. ya busq el servicio BrandCache y no la tengo ejecutando.. no tengo skype.. no tengo el IIS activado... noc q hacer pls ayudenme...]]></description>
+		<content:encoded><![CDATA[<p>ayudenme pls!<br />
+tengo instalado el wampserver pero dichoso puerto 80 esta ocupado por un proceso llamado &#8220;system&#8221;.. ya busq el servicio BrandCache y no la tengo ejecutando.. no tengo skype.. no tengo el IIS activado&#8230; noc q hacer pls ayudenme&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Alvaro</title>
+		<link>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2244</link>
+		<dc:creator><![CDATA[Alvaro]]></dc:creator>
+		<pubDate>Wed, 19 Jan 2011 05:59:53 +0000</pubDate>
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2244</guid>
+		<description><![CDATA[@&lt;a href=&quot;#comment-2103&quot; rel=&quot;nofollow&quot;&gt;Dexter&lt;/a&gt;: Muchisimas gracias hombre!! He buscado por más de 4 horas una solución hasta que me encuentro con tu post. Para mi la solución fue tal como la describiste, poner el apache como servicio desde el menú de xampp, reiniciar y listo, todo trabajando perfecto. Saludos.]]></description>
+		<content:encoded><![CDATA[<p>@<a href="#comment-2103" rel="nofollow">Dexter</a>: Muchisimas gracias hombre!! He buscado por más de 4 horas una solución hasta que me encuentro con tu post. Para mi la solución fue tal como la describiste, poner el apache como servicio desde el menú de xampp, reiniciar y listo, todo trabajando perfecto. Saludos.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jmbs</title>
+		<link>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2240</link>
+		<dc:creator><![CDATA[Jmbs]]></dc:creator>
+		<pubDate>Tue, 11 Jan 2011 12:58:11 +0000</pubDate>
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2240</guid>
+		<description><![CDATA[@&lt;a href=&quot;#comment-2103&quot; rel=&quot;nofollow&quot;&gt;Dexter&lt;/a&gt;: Gracias Man Ese Era El Problema Hize Eso Reinicie El Pc Y Abri El Panel De Xammp Y Listo Esta El Apache En Runing.. Gracias]]></description>
+		<content:encoded><![CDATA[<p>@<a href="#comment-2103" rel="nofollow">Dexter</a>: Gracias Man Ese Era El Problema Hize Eso Reinicie El Pc Y Abri El Panel De Xammp Y Listo Esta El Apache En Runing.. Gracias</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: cogollo</title>
+		<link>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2232</link>
+		<dc:creator><![CDATA[cogollo]]></dc:creator>
+		<pubDate>Wed, 29 Dec 2010 22:05:39 +0000</pubDate>
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2232</guid>
+		<description><![CDATA[:3]]></description>
+		<content:encoded><![CDATA[<p>:3</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Andres Misiak</title>
+		<link>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2222</link>
+		<dc:creator><![CDATA[Andres Misiak]]></dc:creator>
+		<pubDate>Sat, 27 Nov 2010 13:42:52 +0000</pubDate>
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comment-2222</guid>
+		<description><![CDATA[Mi problema fue el Skype. Estoy desde ayer configurando servicios sin que funcione y después de leer este informe, cerré el Skype y listo. Nunca se me hubiese ocurrido. Muchas gracias.]]></description>
+		<content:encoded><![CDATA[<p>Mi problema fue el Skype. Estoy desde ayer configurando servicios sin que funcione y después de leer este informe, cerré el Skype y listo. Nunca se me hubiese ocurrido. Muchas gracias.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

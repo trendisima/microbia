@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>el juego de ender &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/el-juego-de-ender/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>El juego de Ender, el 8 de noviembre en cines</title>
+		<link>/microbiablog/cine-y-tv/el-juego-de-ender-el-8-de-noviembre-en-cines/</link>
+		<pubDate>Wed, 30 Oct 2013 16:18:05 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Cine y TV]]></category>
+		<category><![CDATA[cine]]></category>
+		<category><![CDATA[el juego de ender]]></category>
+		<category><![CDATA[estrenos]]></category>
+		<category><![CDATA[snippet]]></category>
+
+		<guid isPermaLink="false">/microbiablog/?p=813</guid>
+		<description><![CDATA[<p>El libro que consiguió engancharme a la lectura, llega por fin al cine tras casi 7 años de rumores sobre directores y protagonistas. Tendré que ir a ver qué han hecho. Más info, trailers y spoilers.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/cine-y-tv/el-juego-de-ender-el-8-de-noviembre-en-cines/">El juego de Ender, el 8 de noviembre en cines</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>El libro que consiguió engancharme a la lectura, llega por fin al cine tras casi 7 años de rumores sobre directores y protagonistas. Tendré que ir a ver qué han hecho.</p>
+<p><img title="ender_poster" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="ender_poster" src="/microbiablog/wp-content/uploads/2013/10/ender_poster1.jpg" width="600" height="889" /></p>
+<p><a href="http://www.elseptimoarte.net/peliculas/enders-game-5704.html" target="_blank">Más info, trailers y spoilers</a>.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/cine-y-tv/el-juego-de-ender-el-8-de-noviembre-en-cines/">El juego de Ender, el 8 de noviembre en cines</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

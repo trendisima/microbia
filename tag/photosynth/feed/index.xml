@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>photosynth &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/photosynth/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Microsoft GeoSynth, la respuesta a Google Street View</title>
+		<link>/microbiablog/internet/microsoft-geosynth-la-respuesta-a-google-street-view/</link>
+		<pubDate>Tue, 24 Mar 2009 09:10:25 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[geosynth]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[photosynth]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/03/24/microsoft-geosynth-la-respuesta-a-google-street-view/</guid>
+		<description><![CDATA[<p>Después de PhotoSynth, la próxima apuesta de Microsoft para competir con Google Street View es GeoSynth. Eso sí, con una diferencia. Mientras que Google ha hecho las fotos de los sitios él mismo utilizando coches para pasear sus cámaras, Microsoft utilizará fotografías que tomen los usuarios con sus teléfonos móviles con GPS. De esta forma [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/microsoft-geosynth-la-respuesta-a-google-street-view/">Microsoft GeoSynth, la respuesta a Google Street View</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Después de <a href="http://microbiablog.com/2009/02/10/microsoft-photosynth-en-csi/">PhotoSynth</a>, la próxima apuesta de Microsoft para competir con Google Street View es GeoSynth. Eso sí, con una diferencia. Mientras que Google ha hecho las fotos de los sitios él mismo utilizando coches para pasear sus cámaras, Microsoft utilizará fotografías que tomen los usuarios con sus teléfonos móviles con GPS. De esta forma las fotos que vaya subiendo la gente se unirán gracias a la tecnología de PhotoSynth y podrán integrarse con Virtual Earth (el Google Maps de Microsoft).</p>
+<p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" border="0" src="http://farm4.static.flickr.com/3428/3379308009_79d3902779.jpg?v=0" /> </p>
+<p>¿Cuál creeis que será el resultado? Por una parte, haciendo que la gente participe, la compañía reduce costes, por otra, quizá las fotos sean de dudosa calidad, habrá más o menos cobertura y las imágenes estarán más actualizadas???</p>
+<p>Tendremos que esperar a saber hasta finales de año, cuando Microsoft GeoSynth verá la luz.</p>
+<p>Via <a href="http://www.xataka.com/gps/microsoft-geosynth-para-competir-con-google-street-view" target="_blank">Xataka</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/microsoft-geosynth-la-respuesta-a-google-street-view/">Microsoft GeoSynth, la respuesta a Google Street View</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Microsoft Photosynth en CSI</title>
+		<link>/microbiablog/internet/microsoft-photosynth-en-csi/</link>
+		<comments>/microbiablog/internet/microsoft-photosynth-en-csi/#comments</comments>
+		<pubDate>Tue, 10 Feb 2009 18:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[photosynth]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/02/10/microsoft-photosynth-en-csi/</guid>
+		<description><![CDATA[<p>En el capítulo de la semana pasada de CSI, el equipo de mi amigo Horatio utilizaba Photosynth para reconstruir la escena del crimen partiendo de las fotos del movil que habían hecho los asistentes a una fiesta. Si os lo perdisteis, aquí teneis el momento: &#160; Photosynth te permite crear panorámicas fácilmente detectando automáticamente los [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/microsoft-photosynth-en-csi/">Microsoft Photosynth en CSI</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>En el capítulo de la semana pasada de CSI, el equipo de mi amigo Horatio utilizaba Photosynth para reconstruir la escena del crimen partiendo de las fotos del movil que habían hecho los asistentes a una fiesta. Si os lo perdisteis, aquí teneis el momento:</p>
+<div class="wlWriterEditableSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:d9ddd868-8fe4-4fc6-9d7c-e9ae6bed0a65" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
+<div id="bec69ccc-f4d8-412b-b33d-3e1bc83d91f4" style="margin: 0px; padding: 0px; display: inline;">
+<div><a href="http://www.youtube.com/watch?v=0suot89qXY4" target="_new"><img src="http://microbiablog.com/wp-content/uploads/2009/02/videoa5d6b52241c8.jpg" style="border-style: none" galleryimg="no" onload="var downlevelDiv = document.getElementById('bec69ccc-f4d8-412b-b33d-3e1bc83d91f4'); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;object width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;param name=\&quot;movie\&quot; value=\&quot;http://www.youtube.com/v/0suot89qXY4&amp;hl=en\&quot;&gt;&lt;\/param&gt;&lt;embed src=\&quot;http://www.youtube.com/v/0suot89qXY4&amp;hl=en\&quot; type=\&quot;application/x-shockwave-flash\&quot; width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;\/embed&gt;&lt;\/object&gt;&lt;\/div&gt;&quot;;" alt=""></a></div>
+</div>
+</div>
+<p>&#160;</p>
+<p>Photosynth te permite crear panorámicas fácilmente detectando automáticamente los puntos en común de una serie de fotos. También se puede utilizar para crear “slideshows”, donde partiendo de un elemento en cómun puedes navegar varias fotos. Por ejemplo este <a href="http://photosynth.net/silverlight/photosynth.aspx?cid=44fbe543-600c-404f-8ceb-8af763ca9b00" target="_blank">Slideshow de la ceremonia de Obama</a>.</p>
+<p>Ver <a href="http://photosynth.net/view.aspx?cid=eb90f6e5-4504-469f-94e6-9a9be6c4fb73" target="_blank">Photosynth de Times Square</a> | Ir al site de <a href="http://photosynth.net/default.aspx" target="_blank">Photosynth</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/microsoft-photosynth-en-csi/">Microsoft Photosynth en CSI</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/internet/microsoft-photosynth-en-csi/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

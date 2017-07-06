@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>inkseine &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/inkseine/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>InkSeine, el complemento de OneNote para Tablets</title>
+		<link>/microbiablog/herramientas/inkseine-onenote-tablet/</link>
+		<pubDate>Sat, 10 May 2008 11:36:06 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[inkseine]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[office]]></category>
+		<category><![CDATA[onenote]]></category>
+		<category><![CDATA[tablet pc]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/10/inkseine-onenote-tablet/</guid>
+		<description><![CDATA[<p>Ayer, en un curso sobre OneNote nos mostraron esta nueva aplicación de Microsoft Research pensada para sacarle el máximo partido a los tablets. Llama la atención la función de búsqueda, tan sólo tienes que escribir un nombre o una palabra y te mostrará resultados de internet, emails de esa persona (si es un contacto), historial [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/inkseine-onenote-tablet/">InkSeine, el complemento de OneNote para Tablets</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ayer, en un curso sobre OneNote nos mostraron esta nueva aplicación de Microsoft Research pensada para sacarle el máximo partido a los tablets. Llama la atención la función de búsqueda, tan sólo tienes que escribir un nombre o una palabra y te mostrará resultados de internet, emails de esa persona (si es un contacto), historial de mensajes&#8230; </p>
+<p>Sólo una cosa, este programa es completamente diferente a OneNote, aunque pueden parecer similares. OneNote está lleno de funcionalidades que InkSeine no tiene y al revés. Son complementarios, InkSeine pensado especialmente para sacar partido a las notas de tablets, de forma que si no cuentas con esta funcionalidad, estás mucho mejor con OneNote.</p>
+<p>Nada mejor que este vídeo para que veais de que va. Prometo un post sobre Onenote en algún momento <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:c84c28ca-1818-494b-a63f-487e654806c5" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
+<div id="4855500b-487c-42cd-a84a-8d71990d2c89" style="margin: 0px; padding: 0px; display: inline;">
+<div><a href="http://video.msn.com/video.aspx?vid=04b0b97f-7992-4724-a409-d53d51dcba0b" target="_new"><img src="http://microbiablog.com/wp-content/uploads/2008/05/windowslivewriterinkseineelcomplementodeonenoteparatablet-bd8cvideo6bf413e617a0.jpg" galleryimg="no" onload="var downlevelDiv = document.getElementById('4855500b-487c-42cd-a84a-8d71990d2c89'); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;embed src=\&quot;http://images.video.msn.com/flash/soapbox1_1.swf\&quot; quality=\&quot;high\&quot; width=\&quot;432\&quot; height=\&quot;364\&quot; wmode=\&quot;transparent\&quot; type=\&quot;application/x-shockwave-flash\&quot; pluginspage=\&quot;http://macromedia.com/go/getflashplayer\&quot; flashvars=\&quot;c=v&amp;v=04b0b97f-7992-4724-a409-d53d51dcba0b&amp;from=writer\&quot; &gt;&lt;\/embed&gt;&lt;\/div&gt;&quot;;" alt=""></a></div>
+</div>
+</div>
+<p>Enlace <a href="http://research.microsoft.com/inkseine/index.html" target="_blank">InkSeine</a> | <a href="http://office.microsoft.com/onenote" target="_blank">Onenote</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/inkseine-onenote-tablet/">InkSeine, el complemento de OneNote para Tablets</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

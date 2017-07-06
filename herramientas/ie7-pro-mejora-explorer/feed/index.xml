@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: IE7 Pro, mejorando Internet Explorer</title>
+	<atom:link href="/microbiablog/herramientas/ie7-pro-mejora-explorer/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/herramientas/ie7-pro-mejora-explorer/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Tue, 03 Apr 2012 11:12:15 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>By: Santi</title>
+		<link>/microbiablog/herramientas/ie7-pro-mejora-explorer/#comment-1746</link>
+		<dc:creator><![CDATA[Santi]]></dc:creator>
+		<pubDate>Wed, 11 Jun 2008 13:44:41 +0000</pubDate>
+		<guid isPermaLink="false">http://microbiablog.com/2008/06/11/ie7-pro-mejora-explorer/#comment-1746</guid>
+		<description><![CDATA[Pues tu lo has dicho, de lo que no está a la altura es del sistema de Plug-ins de Firefox.
+Pasa del IE y usa un navegador de verdad!
+
+El firefox tiene mil y un plug-ins y funcionan de maravilla, no sólo estos poquitos que cuentas tu aqui...]]></description>
+		<content:encoded><![CDATA[<p>Pues tu lo has dicho, de lo que no está a la altura es del sistema de Plug-ins de Firefox.<br />
+Pasa del IE y usa un navegador de verdad!</p>
+<p>El firefox tiene mil y un plug-ins y funcionan de maravilla, no sólo estos poquitos que cuentas tu aqui&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Heroes</title>
+	<atom:link href="/microbiablog/cine-y-tv/heroes/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/cine-y-tv/heroes/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Tue, 03 Apr 2012 11:12:15 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>By: Mama</title>
+		<link>/microbiablog/cine-y-tv/heroes/#comment-112</link>
+		<dc:creator><![CDATA[Mama]]></dc:creator>
+		<pubDate>Tue, 16 Jan 2007 18:48:14 +0000</pubDate>
+		<guid isPermaLink="false">http://microbiablog.com/?p=89#comment-112</guid>
+		<description><![CDATA[Como me gusta verte feliz, y hasta en el dibujo estas contenta,
+Cuidame bien a Smartito, no se venga para el sol , jajaja
+Que esta muy bien tu blog y que tienes un monton de visitas, por eso yo no iba a ser menos, muakkkssssssssss]]></description>
+		<content:encoded><![CDATA[<p>Como me gusta verte feliz, y hasta en el dibujo estas contenta,<br />
+Cuidame bien a Smartito, no se venga para el sol , jajaja<br />
+Que esta muy bien tu blog y que tienes un monton de visitas, por eso yo no iba a ser menos, muakkkssssssssss</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

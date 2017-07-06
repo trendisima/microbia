@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>diy &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/diy/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Limpiar ventilador de Dell Latitude D620</title>
+		<link>/microbiablog/herramientas/limpiar-ventilador-de-dell-latitude-d620/</link>
+		<comments>/microbiablog/herramientas/limpiar-ventilador-de-dell-latitude-d620/#comments</comments>
+		<pubDate>Sat, 06 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[portátiles]]></category>
+		<category><![CDATA[útiles]]></category>
+
+		<guid isPermaLink="false">/microbiablog/2009/06/06/limpiar-ventilador-de-dell-latitude-d620/</guid>
+		<description><![CDATA[<p>Últimamente mi portátil me está dando bastante guerra, se calienta tanto que casi no puedo apoyar las manos al escribir y sufre los típicos achaques de la edad. Después de 2 años y medio, la vida de la batería se ha reducido de dos largas horas a escasos 20 minutos y a pesar de varios [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/limpiar-ventilador-de-dell-latitude-d620/">Limpiar ventilador de Dell Latitude D620</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Últimamente mi portátil me está dando bastante guerra, se calienta tanto que casi no puedo apoyar las manos al escribir y sufre los típicos achaques de la edad. Después de 2 años y medio, la vida de la batería se ha reducido de dos largas horas a escasos 20 minutos y a pesar de varios formateos, el tiempo de arranque es cada vez mayor. Todo esto se agrava cuando llega el verano y las altas temperaturas, así que este <a href="http://lifehacker.com/5275892/clean-your-laptop-to-keep-it-running-smooth-and-cool" target="_blank">post en Lifechacker</a> me animó a abrir mi portátil y deshacerme del polvo que ha estado acumulando durante este tiempo, a ver si la cosa mejoraba un poco.</p>
+<p>Las instrucciones no eran válidas para mi Dell, así que buscando por ahí, al final lo encontré. Eso sí, estas instrucciones sólo sirven si no necesitas desmontar el ventilador.</p>
+<p><strong></strong></p>
+<p> <span id="more-515"></span>  </p>
+<p><strong>Materiales necesarios:</strong> Un destornillador plano y uno de estrella pequeños y un bote de aire comprimido (la opción de usar bastoncillos para quitar el polvo, era inviable en mi Dell, ya que las aspas del ventilador son tan estrechas que no cabía.</p>
+<p>Lo primero es <strong>quitar la solapa de plástico</strong> en la parte superior del teclado. Para ello:</p>
+<p>Abre la tapa del portátil del todo, hasta que la pantalla quede a 180 grados, totalmente plano junto con el teclado.</p>
+<p>Introduce el destornillador plano en la muesca de la pieza de plástico y empezarán a saltar los puntos.</p>
+<p>Si empujas esta solapa ligeramente hacia tí (parte inferior del teclado) saldrá más facilmente.</p>
+<p><img style="display: block; float: none; margin-left: auto; margin-right: auto" src="http://farm4.static.flickr.com/3561/3597709216_2ac87f06d6_o.jpg" /> </p>
+<p>Cuando hayas retirado esta solapa por completo, quedarán a la vista los <strong>tornillos del teclado</strong>.</p>
+<p>Desatornilla los 3 puntos, levanta el teclado un poco y empújalo hacia fuera (lejos de tí) para que se “desencaje” de las muescas que tiene en la parte inferior.</p>
+<p>Una vez esté suelto, con cuidado (ya que va unido a la placa base con una tira), vuelcalo hacia tí y tendrás a la vista el interior del portátil.</p>
+<p><img style="display: block; float: none; margin-left: auto; margin-right: auto" src="http://farm3.static.flickr.com/2481/3597709274_d0dd152810_o.jpg" /> </p>
+<p><img style="display: inline; margin-left: 0px; margin-right: 0px" align="right" src="http://farm3.static.flickr.com/2432/3597709172_80098e2526_o.jpg" /> En la parte superior izquierda encontrarás el ventilador, dale con el aire (verás estaba blanquecino y se queda completamente negro).</p>
+<p>Yo aproveché para darle un poco de aire por todas partes, sobretodo hacia las ranuras de ventilación y también limpiar el teclado.</p>
+<p>Un ves terminado solo te queda atornillar y listo.</p>
+<p>&#160;</p>
+<p>Después de la operación, mi portátil se calienta menos y además el ventilador hace menos ruido. Sin embargo el problema de calentamiento es algo bastante común en los Dell, y por eso lo utilizo en verano con una base con dos ventiladores adicionales, lo cual mejora notablemente su rendimiento.</p>
+<p><a href="http://www.solano.edu/tech_learn_resources/techtips/d620/parts.htm" target="_blank">Cambiar otras partes del Dell D620</a> | <a href="http://www.instructables.com/id/Cleaning-Your-Laptop-Cooling-System/" target="_blank">Limpieza paso a paso para otros modelos</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/limpiar-ventilador-de-dell-latitude-d620/">Limpiar ventilador de Dell Latitude D620</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/limpiar-ventilador-de-dell-latitude-d620/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

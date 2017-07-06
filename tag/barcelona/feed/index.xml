@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>barcelona &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/barcelona/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Barcelona en contra de un videojuego</title>
+		<link>/microbiablog/videojuegos/barcelona-contra-wheelman-videojuego/</link>
+		<comments>/microbiablog/videojuegos/barcelona-contra-wheelman-videojuego/#comments</comments>
+		<pubDate>Mon, 16 Jun 2008 18:09:30 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Videojuegos]]></category>
+		<category><![CDATA[barcelona]]></category>
+		<category><![CDATA[playstation]]></category>
+		<category><![CDATA[xbox]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/06/16/barcelona-contra-wheelman-videojuego/</guid>
+		<description><![CDATA[<p>The Wheelman, es una especia de GTA (pegar tiros, matar, conducir como un loco&#8230;) protagonizado por Vin Diesel y que transcurre en la ciudad de Barcelona. Según sus creadores eligieron la ciudad condal porque querían reflejar las persecuciones típicas de las pelis de acción y Barcelona tiene la estructura y el tráfico perfecto (en Madrid [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/videojuegos/barcelona-contra-wheelman-videojuego/">Barcelona en contra de un videojuego</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The Wheelman, es una especia de GTA (pegar tiros, matar, conducir como un loco&#8230;) protagonizado por Vin Diesel y que transcurre en la ciudad de Barcelona.</p>
+<p>Según sus creadores eligieron la ciudad condal porque querían reflejar las persecuciones típicas de las pelis de acción y Barcelona tiene la estructura y el tráfico perfecto (en Madrid estarían atascados en la m30 y la persecución sería un poco absurda, claro). Total que al Ayuntamiento de Barcelona no le parece nada bien que Vin Diesel se lie a tiros delante de la versión 3d de la Sagrada Familia y parece que podrían tomar acciones legales contra los responsables del proyecto, ya que no quieren que la ciudad sea escenario de un juego violento.</p>
+<div align="center"><img alt="The Wheelman" src="http://static.flickr.com/3175/2584062219_6cc7a13a2f.jpg" border="0"></div>
+<p>Cualquiera podría pensar que esta decisión es &#8220;ignorante y poco inteligente&#8221;, además de insultar al intelecto de la gente al pensar que no podemos distinguir entre realidad y ficción. Sin embargo yo creo que lo que pasa es que con lo que cobran de las pelis de Almodovar ya les da para vivir y dárselas de ciudad moderna, cosmopolita y vanguardista. O será que no han cobrado por el juego y por eso no les parece bien?</p>
+<p>Via </p>
+<p>The post <a rel="nofollow" href="/microbiablog/videojuegos/barcelona-contra-wheelman-videojuego/">Barcelona en contra de un videojuego</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/videojuegos/barcelona-contra-wheelman-videojuego/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

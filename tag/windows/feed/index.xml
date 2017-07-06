@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>windows &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/windows/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Windows Live Movie Maker</title>
+		<link>/microbiablog/herramientas/windows-live-movie-maker/</link>
+		<comments>/microbiablog/herramientas/windows-live-movie-maker/#comments</comments>
+		<pubDate>Mon, 24 Aug 2009 16:48:03 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[edición vídeo]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[movie maker]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/windows-live-movie-maker/</guid>
+		<description><![CDATA[<p>Ya está disponible la nueva versión del software de edición de video de Microsoft. Movie Maker os resultará familiar ya que se incluye en Windows, sin embargo en esta nueva versión se incluyen funcionalidades que se echaban en falta y que lo hacen mucho más completo. Lo que más llama la atención es el nuevo [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/windows-live-movie-maker/">Windows Live Movie Maker</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ya está disponible la nueva versión del software de edición de video de Microsoft. Movie Maker os resultará familiar ya que se incluye en Windows, sin embargo en esta nueva versión se incluyen funcionalidades que se echaban en falta y que lo hacen mucho más completo.<img style="display: block; float: none; margin-left: auto; margin-right: auto" src="http://farm3.static.flickr.com/2556/3853069036_33c070e537.jpg" /></p>
+<p> <span id="more-599"></span>  </p>
+<p>Lo que más llama la atención es el nuevo interfaz, movie maker adopta el <strong>menú de office</strong>, el <em>ribbon</em>, donde todo está ahora más a mano. En la izquierda tenemos el visor con la vista preliminar del vídeo y en la derecha podemos ver el <em>storyboard</em> con los fotogramas y la música que hayamos seleccionado. Gracias al zoom (el icono de la lupa abajo a la derecha) podremos elegir el nivel de detalle del story que queramos.</p>
+<p>Hacer una película rápidamente con nuestras fotos es muy sencillo la opción <strong>AutoMovie</strong>. Selecciona una canción, selecciona las fotos y Movie Maker ajustará automáticamente la duración con la de la música, aunque siempre podremos modificarlo manualmente si no estamos contentos.</p>
+<p>Otra mejora es en cuanto a la <strong>inserción de texto</strong>. En la antigua versión teníamos que recurrir al asistente de títulos, créditos y subtítulos, que no era nada práctico. Ahora tan sólo tenemos que insertar el texto y podremos controlar fácilmente los efectos, duración… etc.</p>
+<p>No hay muchos cambios en cuanto a <strong>efectos y transiciones</strong>, pero suficiente variedad para los videos caseros.</p>
+<p>En cuanto al formato, Movie Maker importa <strong>casi todos los formatos de fotos y vídeo</strong> más comunes, pero <strong>sólo graba en WMV</strong> aunque ahora puedes elegir la calidad: 1080p (Full HD), 720p (DVD &#8211; HD Ready), 640&#215;480, o 320×240 además de poder publicar y subir automáticamente tus vídeos a YouTube.</p>
+<p>En definitiva, un programa muy completo que nada tiene que envidiar a productos de pago similares y que cubre perfectamente las necesidades del usuario no profesional.</p>
+<p>La nueva versión requiere Windows Vista o Windows 7.</p>
+<p>Descarga <a href="http://download.live.com/moviemaker" target="_blank">WL Movie Maker</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/windows-live-movie-maker/">Windows Live Movie Maker</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/windows-live-movie-maker/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>C&#243;mo instalar Windows 7 en tu Mac</title>
+		<link>/microbiablog/herramientas/cmo-instalar-windows-7-en-tu-mac/</link>
+		<pubDate>Tue, 09 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[siete]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/cmo-instalar-windows-7-en-tu-mac/</guid>
+		<description><![CDATA[<p>En los ordenadores Mac, es posible tener instalados dos sistemas operativos, por lo que podemos tener Leopard y Windows al mismo tiempo. Esto es posible gracias Bootcamp, que te permite elegir en el arranque cuál queremos utilizar en cada ocasión. Sin embargo, para poder utilizar el nuevo Windows 7 deberemos realizar un pequeño truco que [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/cmo-instalar-windows-7-en-tu-mac/">C&oacute;mo instalar Windows 7 en tu Mac</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>En los ordenadores Mac, es posible tener instalados dos sistemas operativos, por lo que podemos tener Leopard y Windows al mismo tiempo. Esto es posible gracias Bootcamp, que te permite elegir en el arranque cuál queremos utilizar en cada ocasión. Sin embargo, para poder utilizar el nuevo Windows 7 deberemos realizar un pequeño truco que nos cuentan en Applesfera.</p>
+<p><img style="display: block; float: none; margin-left: auto; margin-right: auto" src="http://farm4.static.flickr.com/3663/3608312884_4141998c56_o.jpg" /> </p>
+<p>Bootcamp sólo funciona (de momento) con Windows Vista, de forma que tendremos que hacer lo siguiente para engañarle:</p>
+<ul>
+<li>Copia la carpeta <strong>Bootcamp</strong> que se encuentra dentro del <strong>DVD de Leopard al disco duro</strong>. </li>
+<li>Localizamos los archivos <strong>BootCamp.msi</strong> y <strong>BootCamp64.msi</strong> que estan dentro de la carpeta Apple, dentro de Drivers. </li>
+<li>Con un editor de texto abre dichos archivos y localiza las entradas donde ponga <strong>WindowsNT=600</strong> y sustitúyelo por <strong>WindowsNT&gt;=600</strong> y listo. </li>
+</ul>
+<p>Ahora, termina de instalar Bootcamp y ya podrás disfrutar de tu Mac con Windows 7.</p>
+<p>Via <a href="http://www.applesfera.com/apple/instala-windows-7-en-tu-mac-con-bootcamp" target="_blank">Applesfera</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/cmo-instalar-windows-7-en-tu-mac/">C&oacute;mo instalar Windows 7 en tu Mac</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Windows 7 contra OS X Leopard</title>
+		<link>/microbiablog/herramientas/windows-7-contra-os-x-leopard/</link>
+		<pubDate>Thu, 04 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">/microbiablog/2009/06/04/windows-7-contra-os-x-leopard/</guid>
+		<description><![CDATA[<p>¿Cuál es mejor, Windows 7 o Leopard, el sistema operativo de mac? Ambos tienen defensores y detractores, pero siendo objetivos, analizando algunas de sus características, ¿cuál es el mejor? Los de Lifehacker han comparado algunas de las características comunes y el resultado es un 3 a 2, a favor de Windows. Mac Finder vs Windows [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/windows-7-contra-os-x-leopard/">Windows 7 contra OS X Leopard</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>¿Cuál es mejor, <strong>Windows 7</strong> o <strong>Leopard</strong>, el sistema operativo de mac? Ambos tienen defensores y detractores, pero siendo objetivos, analizando algunas de sus características, ¿cuál es el mejor? </p>
+<p>Los de <a href="http://lifehacker.com/5277207/windows-7-versus-mac-os-x-leopard-the-feature+by+feature-showdown" target="_blank">Lifehacker</a> han comparado algunas de las características comunes y el resultado es un 3 a 2, a favor de Windows. </p>
+<p><img style="display: block; float: none; margin-left: auto; margin-right: auto" src="http://farm4.static.flickr.com/3658/3593324882_ef3c3cb369.jpg?v=0" /> </p>
+<p> <span id="more-508"></span>  </p>
+<p><strong>Mac Finder vs Windows Explorer</strong>: Empate. Ninguno de los dos exploradores del sistema parecen convencer al autor, los dos tienen carencias, así que ni fu ni fa.</p>
+<p><strong>Leopard’s Quick Look vs Windows File Preview</strong>: Ganador – Quick Look. La función de previsualizar documentos de Mac es mejor que la de Windows, soporta más formatos de archivos y la previsualización es más grande, mientras que windows muestra una pequeña imagen en el lateral de la carpeta.</p>
+<p><strong>Mac Dock vs Windows Taskbar</strong>: Ganador – Windows Taskbar. Las novedades de la barra de tareas en esta versión de Windows convencen y aportan una gran mejora del sistema.</p>
+<p><strong>Mac Menu Bar vs Windows System Tray</strong>: Ganador – Windows System Tray. Las opciones de personalización de la barra del sistema (donde está el reloj, el icono del sonido), etc vencen por goleada a la barra de mac.</p>
+<p><strong>Windows Backup vs Apple Time Machine</strong>: Ganador – Time Machine. Los dos hacen lo mismo, sin embargo, es cierto que la opción de Backup en Windows está escondida en el panel de control y consiste en un sencillo asistente, mientras que Mac, gana por su sencillez y su “divertida” interfaz.</p>
+<p><strong>Windows 7 Aero Peek vs Exposé</strong>: Ganador – Aero. La previsualización del contenido de las ventanas que tienes abiertas directamente en la barra, además de agruparlas por aplicación, convencen al autor que declara estar <em>enamorado</em> de esta funcionalidad.</p>
+<p><img style="display: block; float: none; margin-left: auto; margin-right: auto" src="http://farm3.static.flickr.com/2426/3592561179_cfcd5c5561.jpg?v=0" /> </p>
+<p>Por supuesto, además de las funcionalidades, hay muchas aplicaciones que van con cada sistema operativo que también podrían compararse: Safari vs Internet Explorer, Media Player vs iTunes… y así la lista ser interminable. </p>
+<p>En mi opinión, tiene mucho que ver a lo que estés acostumbrado, y para qué utilices el ordenador. Para gustos los colores… y tú? <strong>¿Con cuál te quedas?</strong></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/windows-7-contra-os-x-leopard/">Windows 7 contra OS X Leopard</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>7 trucos de Windows 7</title>
+		<link>/microbiablog/paranoias/7-trucos-de-windows-7/</link>
+		<pubDate>Tue, 10 Feb 2009 13:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Paranoias]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[minipost]]></category>
+		<category><![CDATA[trucos]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/02/10/7-trucos-de-windows-7/</guid>
+		<description><![CDATA[<p>Los 7 trucos de Windows 7 que no te puedes perder para sacarle el máximo partido al nuevo sistema operativo de Microsoft. Desde atajos del teclado para ser más productivo a opciones de personalización para ponerlo a tu gusto.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/paranoias/7-trucos-de-windows-7/">7 trucos de Windows 7</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Los <a href="http://www.genbeta.com/2009/02/10-especial-windows-7-trucos-para-sacarle-mayor-provecho" target="_blank">7 trucos de Windows 7</a> que no te puedes perder para sacarle el máximo partido al nuevo sistema operativo de Microsoft. Desde atajos del teclado para ser más productivo a opciones de personalización para ponerlo a tu gusto.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/paranoias/7-trucos-de-windows-7/">7 trucos de Windows 7</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Mant&#233;n tu escritorio ordenado con Magic Folder</title>
+		<link>/microbiablog/herramientas/magic-folder-widget-escritorio/</link>
+		<comments>/microbiablog/herramientas/magic-folder-widget-escritorio/#comments</comments>
+		<pubDate>Wed, 14 May 2008 14:29:39 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[útiles]]></category>
+		<category><![CDATA[vista]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/14/magic-folder-widget-escritorio/</guid>
+		<description><![CDATA[<p>Si no te cabe un sólo icono más en el escritorio porque lo tienes lleno de archivos y te gustaría tenerlo ordenado y limpio, ahora lo tienes muy fácil con este widget para la sidebar de Vista. Cuando arrastras un archivo a la carpeta, ésta detecta que tipo de fichero es y lo mete en [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/magic-folder-widget-escritorio/">Mant&#233;n tu escritorio ordenado con Magic Folder</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Si no te cabe un sólo icono más en el escritorio porque lo tienes lleno de archivos y te gustaría tenerlo ordenado y limpio, ahora lo tienes muy fácil con este widget para la sidebar de Vista.</p>
+<p>Cuando arrastras un archivo a la carpeta, ésta detecta que tipo de fichero es y lo mete en la carpeta que le corresponda. Por ejemplo, si arrastras una imagen (JPEG, GIF o PNG) a la carpeta mágica, te lo meterá automáticamente en la carpeta imágenes de tus documentos. Algunas extensiones ya van por defecto a una carpeta, pero siempre puedes cambiarlo y configurar todas las extensiones y las carpetas de destino. Tambien puedes deshabilitar la opción de detectar las extensiones y cada vez que arrastres un archivo, te preguntará donde lo quieres guardar.</p>
+<div align="center"><img alt="magic folder" src="http://static.flickr.com/3115/2492496618_8c58d4d1be.jpg" border="0"></div>
+<p>Muy práctico si tienes el escritorio lleno de iconos y nunca encuentras nada.</p>
+<p>Via <a href="http://www.genbeta.com/2008/05/13-manten-tu-escritorio-despejado-con-the-magic-folder" target="_blank">genbeta</a>| Descarga <a href="http://gallery.live.com/liveItemDetail.aspx?li=0ed6a06a-6782-41a7-b68c-2753fad412a5" target="_blank">Magic Folder</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/magic-folder-widget-escritorio/">Mant&#233;n tu escritorio ordenado con Magic Folder</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/magic-folder-widget-escritorio/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

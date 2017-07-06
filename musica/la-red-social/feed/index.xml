@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: La red social de Trent Reznor</title>
+	<atom:link href="/microbiablog/musica/la-red-social/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/musica/la-red-social/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Tue, 03 Apr 2012 11:12:15 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>By: javier</title>
+		<link>/microbiablog/musica/la-red-social/#comment-2306</link>
+		<dc:creator><![CDATA[javier]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2011 19:39:46 +0000</pubDate>
+		<guid isPermaLink="false">/microbiablog/musica/la-red-social/#comment-2306</guid>
+		<description><![CDATA[me gusta y me divierto mucho haciendo mis fotos transformarlas en caricaturas]]></description>
+		<content:encoded><![CDATA[<p>me gusta y me divierto mucho haciendo mis fotos transformarlas en caricaturas</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

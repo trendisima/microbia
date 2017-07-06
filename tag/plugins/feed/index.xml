@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>plugins &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/plugins/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Los mejores plugins de WordPress</title>
+		<link>/microbiablog/internet/los-mejores-plugins-de-wordpress/</link>
+		<pubDate>Thu, 06 Nov 2008 19:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[plugins]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/11/06/los-mejores-plugins-de-wordpress/</guid>
+		<description><![CDATA[<p>WordPress es una de las mejores plataformas para Bloggers, pero es aún mejor cuando encuestras ese plugin que hace justamente lo que andabas buscando. Y como a veces encontrar el plugin justo es como buscar una aguja en un pajar, en 1stwebdesigner publican dos posts con los mejores plugins que existen: 130 WordPress Plugins You [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/los-mejores-plugins-de-wordpress/">Los mejores plugins de WordPress</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img alt="wordpress_plugins" src="http://static.flickr.com/3203/3006154210_7f078cd56c.jpg" align="right" border="0" />WordPress es una de las mejores plataformas para Bloggers, pero es aún mejor cuando encuestras ese plugin que hace justamente lo que andabas buscando. Y como a veces encontrar el plugin justo es como buscar una aguja en un pajar, en <a href="http://www.1stwebdesigner.com/" target="_blank">1stwebdesigner</a> publican dos posts con los mejores plugins que existen: <a href="http://www.1stwebdesigner.com/resources/130-wordpress-plugins-you-could-ever-need-the-best-of-part-1/">130 WordPress Plugins You Could Ever Need: The Best Of : Part 1</a> y <a href="http://www.1stwebdesigner.com/resources/130-wordpress-plugins-you-could-ever-need-the-best-of-part-2/">130 WordPress Plugins You Could Ever Need: The Best Of: Part 2</a></p>
+<p>Via <a href="http://www.cosassencillas.com/2008/11/04/los-mejores-130-plugins-de-wordpress-que-puedes-necesitar/" target="_blank">Cosas Sencillas</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/los-mejores-plugins-de-wordpress/">Los mejores plugins de WordPress</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

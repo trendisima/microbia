@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Fotos HDR</title>
+	<atom:link href="/microbiablog/fotografia/fotos-hdr/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/fotografia/fotos-hdr/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Tue, 03 Apr 2012 11:12:15 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>By: trapatroles</title>
+		<link>/microbiablog/fotografia/fotos-hdr/#comment-763</link>
+		<dc:creator><![CDATA[trapatroles]]></dc:creator>
+		<pubDate>Sat, 20 Oct 2007 18:31:00 +0000</pubDate>
+		<guid isPermaLink="false">http://microbiablog.com/?p=156#comment-763</guid>
+		<description><![CDATA[Como aficionado a la foto te diré que es una técnica fácil,la cual he aprendido a fuerza de disparar Muchas de mis fotos en mi blog son HDR.
+Saludos]]></description>
+		<content:encoded><![CDATA[<p>Como aficionado a la foto te diré que es una técnica fácil,la cual he aprendido a fuerza de disparar Muchas de mis fotos en mi blog son HDR.<br />
+Saludos</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

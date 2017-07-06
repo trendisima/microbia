@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>movistar &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/movistar/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Escribir con &#241; sale caro</title>
+		<link>/microbiablog/tecnologia/escribir-con-sale-caro/</link>
+		<comments>/microbiablog/tecnologia/escribir-con-sale-caro/#comments</comments>
+		<pubDate>Tue, 12 Aug 2008 13:58:42 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Tecnología]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[movistar]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/08/12/escribir-con-sale-caro/</guid>
+		<description><![CDATA[<p>Si usas un iPhone y tienes que enviar un SMS a alguien con una palabra que contiene la ñ, piensa en un sinónimo, porque debido a que el terminal lo entiende como un carácter especial, al enviarlo, Movistar, lo tarifica como si fueran 3 mensajes. ACTUALIZACIÓN (13/08/08): Gracias al comentario de Perico me entero que [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/tecnologia/escribir-con-sale-caro/">Escribir con &#241; sale caro</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strike>Si usas un iPhone y tienes que enviar un SMS a alguien con una palabra que contiene la ñ, piensa en un sinónimo, porque debido a que el terminal lo entiende como un carácter especial,</strike> <strike>al enviarlo, Movistar, lo tarifica como si fueran 3 mensajes</strike>. </p>
+<p>ACTUALIZACIÓN (13/08/08): Gracias al comentario de Perico me entero que no es que cobre 3 veces el SMS, sino que al ser un carácter especial, cuenta como más de una letra, con lo que se reduce el número de caracteres restantes y lo que puede pasar es que en vez de un SMS envíes más porque el texto no cabe.</p>
+<p><strong>ACTUALIZACIÓN</strong> (13/08/08): Pues nada que como bien dice retub, parece que todo es mentira: <a title="http://www.adn.es/tecnologia/20080813/NWS-0572-Telefonica-Movistar-Apple-iPhone-ene.html" href="http://www.adn.es/tecnologia/20080813/NWS-0572-Telefonica-Movistar-Apple-iPhone-ene.html">http://www.adn.es/tecnologia/20080813/NWS-0572-Telefonica-Movistar-Apple-iPhone-ene.html</a></p>
+<p><strike>Parece ser que el hecho es conocido por Apple y están al corriente del asunto, pero hasta que se resuelva, intenta no utilizala, porque sale caro.</strike></p>
+<p>Via <a href="http://meneame.net/" target="_blank">meneame</a> @ <a href="http://es.engadget.com/2008/08/12/espana-movistar-cobra-el-triple-cuando-al-enviar-un-sms-en-el-i/" target="_blank">Engadget</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/tecnologia/escribir-con-sale-caro/">Escribir con &#241; sale caro</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/tecnologia/escribir-con-sale-caro/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>audio &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/audio/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Servicios para extraer audio de un youtube</title>
+		<link>/microbiablog/herramientas/extraer-audio-video-youtube/</link>
+		<pubDate>Sat, 10 May 2008 09:33:03 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[audio]]></category>
+		<category><![CDATA[útiles]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/10/extraer-audio-video-youtube/</guid>
+		<description><![CDATA[<p>En genbeta reseñan dos servicios muy útiles para extraer el audio de un video de youtube. Flv.to es bastante feo, pero cumple su cometido. Simplemente le das la URL del video de youtube y te dará el mp3 de la pista de audio. Además no sólo funciona con videos que ya están en youtube sino [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/extraer-audio-video-youtube/">Servicios para extraer audio de un youtube</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>En genbeta reseñan dos servicios muy útiles para extraer el audio de un video de youtube. </p>
+<p>Flv.to es bastante feo, pero cumple su cometido. Simplemente le das la URL del video de youtube y te dará el mp3 de la pista de audio. Además no sólo funciona con videos que ya están en youtube sino que también puedes subir tu propio flv y funcionará igual.</p>
+<p><img alt="flv.to" src="http://static.flickr.com/2024/2479485925_fffd06ae65.jpg" border="0"></p>
+<div align="center"><img alt="mp3getter" src="http://static.flickr.com/3120/2480304374_6bff0f7a12.jpg" align="right" border="0"></div>
+<p>MP3Getter tiene un interfaz bastante más decente, y permite la búsqueda de los vídeos directamente en su sitio. Una vez hayas elegido el que quieres, te permite escuchar previamente el audio antes de extraerlo o descargarlo directamente en mp3. Aunque la página está en alemán, podrás usarlo gracias a los iconos que son bastante explicativos.</p>
+<p>Via <a href="http://www.genbeta.com/2008/05/03-flvto-y-mp3getter-obteniendo-las-pistas-de-audio-en-mp3-de-los-videos-de-youtube" target="_blank">genbeta</a> | Enlace <a href="http://www.flvto.com/" target="_blank">Flv.to</a> | <a href="http://www.mp3getter.com/" target="_blank">Mp3Getter</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/extraer-audio-video-youtube/">Servicios para extraer audio de un youtube</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

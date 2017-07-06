@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>phising &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/phising/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Tabnabbing: Phising de pesta&#241;as en Firefox y Chrome</title>
+		<link>/microbiablog/internet/tabnabbing-phising-de-pestaas-en-firefox-y-chrome/</link>
+		<pubDate>Wed, 26 May 2010 07:45:46 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[phising]]></category>
+		<category><![CDATA[seguridad]]></category>
+		<category><![CDATA[tabnabbing]]></category>
+
+		<guid isPermaLink="false">/microbiablog/internet/tabnabbing-phising-de-pestaas-en-firefox-y-chrome/</guid>
+		<description><![CDATA[<p>Aza Raskin, desarrollador de Mozilla, ha descubierto una nueva forma de phising: esta práctica que utilizan algunos hackers para que creas que estás entrando en la página web de tu banco, cuando en realidad estás dando tus datos en un sitio web malicioso. El objetivo es el mismo, pero la forma de llevarte hasta su [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/tabnabbing-phising-de-pestaas-en-firefox-y-chrome/">Tabnabbing: Phising de pesta&ntilde;as en Firefox y Chrome</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>Aza Raskin</strong>, desarrollador de <strong>Mozilla</strong>, ha descubierto una nueva forma de <em>phising</em>: esta práctica que utilizan algunos <em>hackers</em> para que creas que estás entrando en la página web de tu banco, cuando en realidad estás dando tus datos en un sitio web malicioso.</p>
+<div align="center"><object width="400" height="267"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12003099&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=12003099&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="267"></embed></object></div>
+<p>El objetivo es el mismo, pero la forma de llevarte hasta su página es lo innovador. Hasta ahora, los ataques de <em>phising</em> que conocíamos utilizaban el email para enviarte un mail como si fuesen tu banco, incluyendo un enlace donde al pinchar te lleva a una página web que tiene exactamente la misma pinta que tu banco, donde introduces tus datos para acceder a tu cuenta. </p>
+<p>Con el <strong>tabnabbing</strong>, lo que hacen es que cuando tienes varias pestañas abiertas y no estás mirando una de ellas, ellos la cambian sin que te des cuenta (usan el mismo icono, el mismo nombre, el mismo diseño, etc) y cuando vuelves a ella, la página te pide que introduzcas tus datos otra vez, sólo que ya no estás entrando donde crees que estás, sino que la página está robando tus datos.</p>
+<p>De momento esta vulnerabilidad <strong>sólo afecta a Firefox y Chrome</strong> y la única manera de evitarlo es estar alerta y comprobar que las URLs de la página son las correctas.</p>
+<p>Via <a href="http://www.genbeta.com/seguridad/atentos-a-una-nueva-forma-de-phishing-el-tabnabbing?utm_source=twitterfeed&amp;utm_medium=twitter" target="_blank">Genbeta</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/tabnabbing-phising-de-pestaas-en-firefox-y-chrome/">Tabnabbing: Phising de pesta&ntilde;as en Firefox y Chrome</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

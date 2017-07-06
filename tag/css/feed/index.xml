@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>css &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/css/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Los 10 mejores dise&#241;os para tablas en CSS</title>
+		<link>/microbiablog/herramientas/los-10-mejores-diseos-para-tablas-en-css/</link>
+		<comments>/microbiablog/herramientas/los-10-mejores-diseos-para-tablas-en-css/#comments</comments>
+		<pubDate>Thu, 14 Aug 2008 19:14:42 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[útiles]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/08/14/los-10-mejores-diseos-para-tablas-en-css/</guid>
+		<description><![CDATA[<p>Las tablas nos siguen haciendo falta para presentar datos, y para hacerlas más atractivas, Smashing magazine hace un recopilatorio de 10 estilos distintos para tablas en CSS. Incluye los pros y contras de cada estilo y el código completo en su artículo. Sobre cómo programar tablas semánticas correctamente, este manual de aNieto2k es imprescindible. Que [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/los-10-mejores-diseos-para-tablas-en-css/">Los 10 mejores dise&#241;os para tablas en CSS</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Las tablas nos siguen haciendo falta para presentar datos, y para hacerlas más atractivas, Smashing magazine hace un recopilatorio de <a href="http://www.smashingmagazine.com/2008/08/13/top-10-css-table-designs/" target="_blank">10 estilos distintos para tablas en CSS</a>. Incluye los pros y contras de cada estilo y el código completo en su artículo.</p>
+<p><img alt="Tables CSS" src="http://static.flickr.com/3098/2762757777_1b0b6be78f.jpg" border="0"></p>
+<p>Sobre cómo programar tablas semánticas correctamente, este <a href="http://www.anieto2k.com/2007/03/25/manual-de-buenas-tablas-semanticas/" target="_blank">manual de aNieto2k</a> es imprescindible. Que volvamos a las tablas no significa que nos olvidemos de la semántica <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Via <a href="http://www.smashingmagazine.com/2008/08/13/top-10-css-table-designs/" target="_blank">Smashing Magazine</a> | <a href="http://www.anieto2k.com/2007/03/25/manual-de-buenas-tablas-semanticas/" target="_blank">aNieto2k</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/los-10-mejores-diseos-para-tablas-en-css/">Los 10 mejores dise&#241;os para tablas en CSS</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/los-10-mejores-diseos-para-tablas-en-css/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Efecto parallax, un fondo en 3d?</title>
+		<link>/microbiablog/herramientas/efecto-parallax-css/</link>
+		<pubDate>Wed, 28 May 2008 13:08:37 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[útiles]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/28/efecto-parallax-css/</guid>
+		<description><![CDATA[<p>Descubro en cosas sencillas un impresionante efecto para hacer que los fondos aparezcan en perspectiva. Como se suele usar en los juegos 2D, se sobrepone una textura sobre el fondo, para dar impresión de profundidad y dar más sensación de realidad. Bueno, la mejor forma es que veais como queda en esta página de ejemplo, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/efecto-parallax-css/">Efecto parallax, un fondo en 3d?</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Descubro en <a href="http://www.cosassencillas.com/2008/05/28/efecto-parallax-en-el-fondo-de-una-web/" target="_blank">cosas sencillas</a> un impresionante efecto para hacer que los fondos aparezcan en perspectiva. Como se suele usar en los juegos 2D, se sobrepone una textura sobre el fondo, para dar impresión de profundidad y dar más sensación de realidad. Bueno, la mejor forma es que veais como queda en <a href="http://inner.geek.nz/javascript/parallax/" target="_blank">esta página de ejemplo</a>, donde además explican cómo hacerlo con CSS. La verdad es que el resultado es impresionante.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/efecto-parallax-css/">Efecto parallax, un fondo en 3d?</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

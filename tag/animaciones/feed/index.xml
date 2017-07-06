@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>animaciones &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/animaciones/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>GoAnimate, animaciones Flash de calidad</title>
+		<link>/microbiablog/herramientas/goanimate-animaciones-flash-de-calidad/</link>
+		<pubDate>Fri, 29 Aug 2008 18:30:25 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[animaciones]]></category>
+		<category><![CDATA[útiles]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/08/29/goanimate-animaciones-flash-de-calidad/</guid>
+		<description><![CDATA[<p>Hace unas semanas os hablaba de Animasher, una herramienta online para generar animaciones, sin embargo, los gráficos eran un poco cutrillos. GoAnimate dispone de fondos, personajes y objetos de mucha más calidad. Además dispone de efectos, animaciones, incluso los personajes tienen expresiones. Es super fácil de utilizar. Funciona bastante mejor que Animasher y el resultado [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/goanimate-animaciones-flash-de-calidad/">GoAnimate, animaciones Flash de calidad</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img alt="Go Animate" src="http://static.flickr.com/3081/2763643356_c541072e67.jpg" align="right" border="0">Hace unas semanas os hablaba de <a href="http://microbiablog.com/2008/08/14/crea-tus-animaciones-creative-commons/">Animasher</a>, una herramienta online para generar animaciones, sin embargo, los gráficos eran un poco cutrillos. <a href="http://goanimate.com/" target="_blank">GoAnimate</a> dispone de fondos, personajes y objetos de mucha más calidad. Además dispone de efectos, animaciones, incluso los personajes tienen expresiones. Es super fácil de utilizar. Funciona bastante mejor que Animasher y el resultado final es bastante espectacular (para una animación que nos ha costado dos minutos). </p>
+<p><span id="more-366"></span> </p>
+<p>Para crear animaciones hay que registrarse, elegir el fondo, los personajes, crear las distintas escenas, añadir los efectos especiales y los sonidos.. y listo! Ya solo tienes que echarle un vistazo al resultado final, y si te gusta generar tu animación. Además el player estilo youtube es muy sencillo de utilizar y de incrustar en cualquier página. Aquí tenéis un ejemplo de una de las animaciones que tienen en su sitio.</p>
+<p><embed src="http://goanimate.com//api/animation/player?utm_source=embed" width="400" height="286" type="application/x-shockwave-flash" allowscriptaccess="always" flashvars="movieId=0UN8Dwh9hQqw&amp;movieTitle=The%20Dork%20Knight&amp;movieDesc=A%20parody%20of%20The%20Dark%20Knight%20with%20Bruce%20Wayne%20as%20the%20nerdy%20billionaire%20currently%20operating%20from%20his%20mother%27s%20garage.&amp;apiserver=http://goanimate.com/&amp;appCode=go&amp;thumbnailURL=http%3A//goanimate.com//files/thumbnails/movie/2441/146441/93581L.jpg&amp;fb_app_url=http://goanimate.com/go/&amp;copyable=1&amp;showButtons=1&amp;isEmbed=1&amp;isPublished=1" wmode="transparent"></p>
+<p>Por supuesto también puedes subir tus propios materiales, por si quieres añadir la foto de la cara de alguien, o tus propios objetos o fondos. </p>
+<p>Via <a href="http://mashable.com/2008/07/28/goanimate/" target="_blank">mashable</a> | Sitio <a href="http://goanimate.com/" target="_blank">GoAnimate</a></p>
+<p></embed></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/goanimate-animaciones-flash-de-calidad/">GoAnimate, animaciones Flash de calidad</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Crea tus animaciones Creative Commons</title>
+		<link>/microbiablog/herramientas/crea-tus-animaciones-creative-commons/</link>
+		<comments>/microbiablog/herramientas/crea-tus-animaciones-creative-commons/#comments</comments>
+		<pubDate>Thu, 14 Aug 2008 19:50:14 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[animaciones]]></category>
+		<category><![CDATA[útiles]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/08/14/crea-tus-animaciones-creative-commons/</guid>
+		<description><![CDATA[<p>Animasher es una nueva herramienta para crear tus propias animaciones en Flash. Dispone de gráficos, caras de famosos y vídeos listos para utilizar, sin embargo la calidad no es muy buena, pero eso no es problema, ya que existe la opción de subir tus propios materiales. Eso sí, todas las animaciones se crean bajo licencia [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/crea-tus-animaciones-creative-commons/">Crea tus animaciones Creative Commons</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img alt="Animasher" src="http://static.flickr.com/3212/2762800621_8feb54b43f.jpg" align="right" border="0"><a href="http://www.animasher.com/" target="_blank">Animasher</a> es una nueva herramienta para crear tus propias animaciones en Flash. Dispone de gráficos, caras de famosos y vídeos listos para utilizar, sin embargo la calidad no es muy buena, pero eso no es problema, ya que existe la opción de subir tus propios materiales. Eso sí, todas las animaciones se crean bajo licencia Creative Commons, así que su finalidad es la de compartirlas con el mundo. No está mal para ser gratis!</p>
+<p> <span id="more-364"></span> </p>
+<p>La herramienta dispone de todos los elementos que puedes necesitar: objetos, fondos, bocadillos de texto, música, efectos de sonido y si nada de lo que hay te gusta, siempre tienes la opción de subir los tuyos propios. </p>
+<p>Los objetos son un pelín cutres, rollo clipart, y no hay mucha variedad en cuanto a música y sonidos. Las caras tampoco pueden animarse con expresiones, así que sólo vas a poder crear animaciones sencillas.</p>
+<div align="center"><img alt="animasher screen" src="http://static.flickr.com/3009/2762838743_b2fff96d65.jpg" border="0"></div>
+<p>Si lo que estás buscando es una animación sencilla para enviar a un amigo, entonces perfecto. Si buscas algo más se te quedará corto.</p>
+<p>Via <a href="http://mangasverdes.es/2008/08/13/animasher-creando-animaciones-copyleft/" target="_blank">Mangas Verdes</a> | Enlace <a href="http://www.animasher.com/" target="_blank">Animasher</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/crea-tus-animaciones-creative-commons/">Crea tus animaciones Creative Commons</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/crea-tus-animaciones-creative-commons/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Problema con la funci&#243;n posts_nav_link de WordPress</title>
+	<atom:link href="/microbiablog/herramientas/problema-con-la-funcin-posts_nav_link-de-wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/herramientas/problema-con-la-funcin-posts_nav_link-de-wordpress/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Tue, 03 Apr 2012 11:12:15 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>By: sublimo</title>
+		<link>/microbiablog/herramientas/problema-con-la-funcin-posts_nav_link-de-wordpress/#comment-2367</link>
+		<dc:creator><![CDATA[sublimo]]></dc:creator>
+		<pubDate>Thu, 12 Jan 2012 16:50:30 +0000</pubDate>
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-con-la-funcin-posts_nav_link-de-wordpress/#comment-2367</guid>
+		<description><![CDATA[Muchas gracias! A mi me estaba pasando lo mismo tambien.]]></description>
+		<content:encoded><![CDATA[<p>Muchas gracias! A mi me estaba pasando lo mismo tambien.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mandrágora</title>
+		<link>/microbiablog/herramientas/problema-con-la-funcin-posts_nav_link-de-wordpress/#comment-2292</link>
+		<dc:creator><![CDATA[Mandrágora]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2011 13:59:39 +0000</pubDate>
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-con-la-funcin-posts_nav_link-de-wordpress/#comment-2292</guid>
+		<description><![CDATA[Hola, estoy trabajando con un blog que usa wordpress y me esta resultando absurdamente dificil. Neceito poner al final de los post el link para siguiente post y anterior post, he logrado encontrar los codigos pero en ningun sitio me dicen donde tengo que ponerlos y me estoy volviendo loco!! Por favor podrias explicarmelo? Gracias]]></description>
+		<content:encoded><![CDATA[<p>Hola, estoy trabajando con un blog que usa wordpress y me esta resultando absurdamente dificil. Neceito poner al final de los post el link para siguiente post y anterior post, he logrado encontrar los codigos pero en ningun sitio me dicen donde tengo que ponerlos y me estoy volviendo loco!! Por favor podrias explicarmelo? Gracias</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Epyros</title>
+		<link>/microbiablog/herramientas/problema-con-la-funcin-posts_nav_link-de-wordpress/#comment-1965</link>
+		<dc:creator><![CDATA[Epyros]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2009 21:18:06 +0000</pubDate>
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-con-la-funcin-posts_nav_link-de-wordpress/#comment-1965</guid>
+		<description><![CDATA[Exactamente lo que buscaba, muchas gracias.]]></description>
+		<content:encoded><![CDATA[<p>Exactamente lo que buscaba, muchas gracias.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

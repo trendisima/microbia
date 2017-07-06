@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Herramientas &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/herramientas/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Google Sync Beta para Symbian s60</title>
+		<link>/microbiablog/moviles/google-sync-beta-para-symbian-s60/</link>
+		<pubDate>Sun, 14 Jun 2009 10:58:53 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[móviles]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[nokia e71]]></category>
+		<category><![CDATA[symbian]]></category>
+
+		<guid isPermaLink="false">/microbiablog/moviles/google-sync-beta-para-symbian-s60/</guid>
+		<description><![CDATA[<p>Si quieres sincronizar el calendario y los contactos de tu cuenta Google con tu móvil Nokia, ahora puedes hacerlo accediendo desde tu móvil a m.google.com/sync. La sincronización será automática y bidireccional, de forma push, por lo que tus datos estarán actualizados tanto en tu móvil como en los servicios Google sin importar donde hayas hecho [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/google-sync-beta-para-symbian-s60/">Google Sync Beta para Symbian s60</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Si quieres sincronizar el <strong>calendario</strong> y los <strong>contactos</strong> de tu cuenta Google con tu móvil Nokia, ahora puedes hacerlo accediendo desde tu móvil a <a href="http://m.google.com/sync">m.google.com/sync</a>. La sincronización será automática y bidireccional, de forma <em>push</em>, por lo que tus datos estarán actualizados tanto en tu móvil como en los servicios Google sin importar donde hayas hecho los cambios y no volverás a perder tus datos aunque piedas tu móvil.</p>
+<p>Antes de empezar, es recomendable hacer una copia de los datos de tu móvil, por lo que pueda pasar…</p>
+<p>Más información en el <a href="http://googlemobile.blogspot.com/2009/05/google-sync-beta-now-for-s60_20.html" target="_blank">Blog de Google</a> | Visto en <a href="http://bitelia.com/2009/05/disponible-google-sync-para-los-symbian-de-nokia" target="_blank">Bitelia</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/google-sync-beta-para-symbian-s60/">Google Sync Beta para Symbian s60</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Sincroniza tu m&#243;vil con Exchange sin problemas con RoadSync</title>
+		<link>/microbiablog/moviles/sincroniza-tu-mvil-con-exchange-sin-problemas-con-roadsync/</link>
+		<pubDate>Sat, 13 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[móviles]]></category>
+		<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[nokia e71]]></category>
+		<category><![CDATA[Outlook]]></category>
+
+		<guid isPermaLink="false">/microbiablog/moviles/sincroniza-tu-mvil-con-exchange-sin-problemas-con-roadsync/</guid>
+		<description><![CDATA[<p>Utilizo mi Nokia e71 para el correo del trabajo, pero también necesito tener sincronizado el calendario, las tareas y los contactos con Exchange, por lo que necesito un software de sincronización fiable. Obviamente, primero lo intenté con Nokia Mail For Echange (Nokia Mfe) y el resultado fué lamentable. Se sincronizaba, y al cabo de unos [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/sincroniza-tu-mvil-con-exchange-sin-problemas-con-roadsync/">Sincroniza tu m&oacute;vil con Exchange sin problemas con RoadSync</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Utilizo mi Nokia e71 para el correo del trabajo, pero también necesito tener sincronizado el calendario, las tareas y los contactos con Exchange, por lo que necesito un software de sincronización fiable. Obviamente, primero lo intenté con <strong>Nokia Mail For Echange</strong> (Nokia Mfe) y el resultado fué lamentable. Se sincronizaba, y al cabo de unos días algo dejaba de funcionar, el calendario ya no se actualizaba, el correo dejaba de llegar… lo intenté todo y buscando una solución llegué a un programa llamado RoadSync.</p>
+<p><strong><img style="display: inline; margin-left: 0px; margin-right: 0px" align="right" src="http://farm3.static.flickr.com/2296/3616670552_c320516a5b_o.jpg" /> RoadSync</strong> dispone de una versión demo de 90 días, lo instalé, configuré los datos de Exchange y listo, todo estaba funcionando al segundo! Incluso algunas cosas van mejor que con Mfe, por ejemplo se sincroniza tambien el contenido de las reuniones de la agenda, y funciona a la perfección, enviando mails desde el móvil, o añadiendo una tarea o reunión, lo verás casi al instante también en tu Outlook.</p>
+<p>Mi periodo de prueba terminó y pagué los $50 sin dudarlo, ya que este programita me ha solucionado más de un dolor de cabeza. He estado utilizándolo durante más de 6 meses y no me ha dado ningún problema.</p>
+<p>Descargar <a href="http://www.dataviz.com/solutions/enterprise/roadsync/index.html" target="_blank">RoadSync</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/sincroniza-tu-mvil-con-exchange-sin-problemas-con-roadsync/">Sincroniza tu m&oacute;vil con Exchange sin problemas con RoadSync</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Traduce tus documentos de Office con Windows Live</title>
+		<link>/microbiablog/herramientas/traduce-tus-documentos-de-office-con-windows-live/</link>
+		<pubDate>Mon, 11 Aug 2008 16:35:11 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[office]]></category>
+		<category><![CDATA[útiles]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/08/11/traduce-tus-documentos-de-office-con-windows-live/</guid>
+		<description><![CDATA[<p>Seguro que todos conoceis los servicios online gratuitos de traducción, algunos son bastante decentes, pero a veces es difícil cuando vas a traducir un texto largo. Ahora, con WL Translator, puedes integrar este servicio de traducción dentro de Office, de forma que traducir un doc es de lo más sencillo. Este traductor utiliza la tecnología [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/traduce-tus-documentos-de-office-con-windows-live/">Traduce tus documentos de Office con Windows Live</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img height="489" alt="WL Translator" src="http://static.flickr.com/3209/2754003436_0c19f08a9c.jpg" width="292" align="right" border="0" />Seguro que todos conoceis los servicios online gratuitos de traducción, algunos son bastante decentes, pero a veces es difícil cuando vas a traducir un texto largo. Ahora, con WL Translator, puedes integrar este servicio de traducción dentro de Office, de forma que traducir un doc es de lo más sencillo.</p>
+<p>Este traductor utiliza la tecnología Systran, la misma que hasta hace poco utilizaba Google Translator, con lo que la calidad es bastante decente y similar entre los dos servicios. La integración en Office vendrá como una actualización Microsoft Update, pero podeis utilizarlo desde ya, siguiendo unos pasos que explican detalladamente en <a href="http://blogs.msdn.com/translation/archive/2008/08/06/office-document-translation.aspx" target="_blank">el blog de MSDN</a>.</p>
+<p>Para utilizarlo, en Revisar &gt; Referencia &gt; Opciones &gt; Agregar servicio escribimos:</p>
+<p><code><a href="http://www.windowslivetranslator.com/officetrans/register.asmx">http://www.windowslivetranslator.com/officetrans/register.asmx</a></code></p>
+<p>Seleccionamos “Instalar” y ya podremos usarlo para traducir el documento a varios idiomas.</p>
+<p>Via <a href="http://www.genbeta.com/2008/08/09-truco-usa-windows-live-translator-para-traducir-los-documentos-de-office" target="_blank">Genbeta</a> | Enlace <a href="http://blogs.msdn.com/translation/archive/2008/08/06/office-document-translation.aspx" target="_blank">Blog MSDN</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/traduce-tus-documentos-de-office-con-windows-live/">Traduce tus documentos de Office con Windows Live</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>IE7 Pro, mejorando Internet Explorer</title>
+		<link>/microbiablog/herramientas/ie7-pro-mejora-explorer/</link>
+		<comments>/microbiablog/herramientas/ie7-pro-mejora-explorer/#comments</comments>
+		<pubDate>Wed, 11 Jun 2008 12:34:28 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[internet explorer]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[útiles]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/06/11/ie7-pro-mejora-explorer/</guid>
+		<description><![CDATA[<p>IE7 Pro es un add-on para Explorer que completa las funcionalidades que se echan en falta del navegador y lo convierte en una herramienta imprescindible. No hace mucho que han lanzado una nueva versión pero para los que no lo conozcáis, os cuento las funcionalidades que a mí me resultan más prácticas: Captura de pantalla: [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/ie7-pro-mejora-explorer/">IE7 Pro, mejorando Internet Explorer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>IE7 Pro es un add-on para Explorer que completa las funcionalidades que se echan en falta del navegador y lo convierte en una herramienta imprescindible. No hace mucho que han lanzado una nueva versión pero para los que no lo conozcáis, os cuento las funcionalidades que a mí me resultan más prácticas:</p>
+<ul>
+<li><img alt="Ie7 Pro" src="http://static.flickr.com/3088/2569648733_0e50df5284.jpg" align="right" border="0">Captura de pantalla: Con este plugin es muy fácil sacar una imagen de una página. Ya no tienes que andar copiando y pegando en Photoshop, en la imagen incluye toda la página, no sólo el área visible. Además permite meter la captura en el portapapeles de forma que adjuntarlo en un mail o meterlo dentro de un word es mucho más fácil.</li>
+<li>Pestañas: Una de las funcionalidades que más me gustan es que puedes configurarlo para que abra nuevos enlaces como un nuevo tab automáticamente. Y lo mismo cuando haces una búsqueda, no abre los resultados en la página que estabas viendo, sino en una nueva.</li>
+<li>Reabrir última pestaña cerrada: A veces cerramos una pestaña sin querer, con esta funcionalidad la puedes recuperar.</li>
+<li>Session manager: Te permite guardar una sesión de los tabs que tienes abiertos en ese momento para luego volver a utilizarla.</li>
+<li>MiniDM: Gestor de descargas, idéntico al de Firefox.</li>
+<li>Resize window: Muy útil para desarrolladores, te permite cambiar la resolución a 800&#215;600, 1024&#215;768&#8230; de forma que puedes ver el área visible del usuario de forma muy fácil.</li>
+<li>Autoscroll y refresh: No se me ocurren muchas ocasiones en las que quieras utilizar estas dos funcionalidades, pero por si acaso, ahí están.</li>
+</ul>
+<p>En resumen, muy recomendable. Yo desde que lo instalé hace más de un año, ya no puedo prescindir de él. No está a la altura de Firebug, pero algo es algo&#8230;</p>
+<p>Via <a href="http://www.genbeta.com/2008/05/27-ie-7-pro-ahora-con-prefetching-y-manejo-de-sesiones" target="_blank">Genbeta</a> | Descarga en <a href="http://www.ie7pro.com/download.php?language=es" target="_blank">Sitio Oficial</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/ie7-pro-mejora-explorer/">IE7 Pro, mejorando Internet Explorer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/ie7-pro-mejora-explorer/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Video tutoriales de Live Writer</title>
+		<link>/microbiablog/herramientas/tutorial-windows-live-writer/</link>
+		<comments>/microbiablog/herramientas/tutorial-windows-live-writer/#comments</comments>
+		<pubDate>Mon, 19 May 2008 18:13:31 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Windows Live]]></category>
+		<category><![CDATA[wl writer]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/19/tutorial-windows-live-writer/</guid>
+		<description><![CDATA[<p>Windows Live Writer es una aplicación de escritorio que te permite publicar posts fácilmente en tu blog. Funciona con los principales servicios de blog: blogger, wordpress, windows live spaces&#8230; y si aún no tienes blog, también puedes crearlo desde Writer. Yo sólo puedo decir que desde que lo utilizo me resulta mucho más fácil y [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/tutorial-windows-live-writer/">Video tutoriales de Live Writer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Windows Live Writer es una aplicación de escritorio que te permite publicar posts fácilmente en tu blog. Funciona con los principales servicios de blog: blogger, wordpress, windows live spaces&#8230; y si aún no tienes blog, también puedes crearlo desde Writer.</p>
+<p>Yo sólo puedo decir que desde que lo utilizo me resulta mucho más fácil y rápido postear. Puedes escribir tus posts offline y publicarlos más tarde, o corregir los posts aunque estén publicados. Permite todas las funcionalidades que puedes hacer normalmente: etiquetas, categorías, videos, mapas, trackbacks&#8230;</p>
+<p>Además hay un montón de plugins con los que puedes añadirle más cosas. Si la administración del nuevo wordpress no te gusta o tu servidor va lento, te recomiendo que pruebes con Writer, soluciona estos problemas y publicar es mucho más cómodo. Además el equipo de WL Writer acaba de publicar <a href="http://windowslivewriter.spaces.live.com/blog/cns!D85741BB5E0BE8AA!1490.entry" target="_blank">4 vídeos</a> en los que explican paso a paso los siguientes temas:</p>
+<ol>
+<li>Getting Started &#8211; Empezar a usarlo.
+<li>Basic Authoring. &#8211; Escribir y publicar posts.
+<li>Pictures, Videos, Maps and Plug-ins. &#8211; Imágenes, vídeos, mapas y plugins.
+<li>Open, Save, Publish and Help. &#8211; Abrir, guardar, publicar y ayuda.</li>
+</ol>
+<p>Actualizado (20/05): Por alguna razón que desconozco, el inline player de msn video estaba dando problemas, así que os pongo el <a href="http://video.msn.com/video.aspx?playlist=videoByUuids:uuids:7c0e2422-abb5-40c7-be67-5d79b1e875e0&amp;showPlaylist=true&amp;from=shared" target="_blank">enlace al vídeo</a>. </p>
+<p>Via <a href="http://bitelia.com/2008/05/19/video-tutoriales-de-windows-live-writer/" target="_blank">Bitelia</a> | <a href="http://windowslivewire.spaces.live.com/Blog/cns!2F7EB29B42641D59!4721.entry" target="_blank">Windows Live Wire</a> | Descarga <a href="http://get.live.com/writer/overview" target="_blank">Windows Live Writer</a></p>
+<p></embed></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/tutorial-windows-live-writer/">Video tutoriales de Live Writer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/tutorial-windows-live-writer/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Mant&#233;n tu escritorio ordenado con Magic Folder</title>
+		<link>/microbiablog/herramientas/magic-folder-widget-escritorio/</link>
+		<comments>/microbiablog/herramientas/magic-folder-widget-escritorio/#comments</comments>
+		<pubDate>Wed, 14 May 2008 14:29:39 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[útiles]]></category>
+		<category><![CDATA[vista]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/14/magic-folder-widget-escritorio/</guid>
+		<description><![CDATA[<p>Si no te cabe un sólo icono más en el escritorio porque lo tienes lleno de archivos y te gustaría tenerlo ordenado y limpio, ahora lo tienes muy fácil con este widget para la sidebar de Vista. Cuando arrastras un archivo a la carpeta, ésta detecta que tipo de fichero es y lo mete en [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/magic-folder-widget-escritorio/">Mant&#233;n tu escritorio ordenado con Magic Folder</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Si no te cabe un sólo icono más en el escritorio porque lo tienes lleno de archivos y te gustaría tenerlo ordenado y limpio, ahora lo tienes muy fácil con este widget para la sidebar de Vista.</p>
+<p>Cuando arrastras un archivo a la carpeta, ésta detecta que tipo de fichero es y lo mete en la carpeta que le corresponda. Por ejemplo, si arrastras una imagen (JPEG, GIF o PNG) a la carpeta mágica, te lo meterá automáticamente en la carpeta imágenes de tus documentos. Algunas extensiones ya van por defecto a una carpeta, pero siempre puedes cambiarlo y configurar todas las extensiones y las carpetas de destino. Tambien puedes deshabilitar la opción de detectar las extensiones y cada vez que arrastres un archivo, te preguntará donde lo quieres guardar.</p>
+<div align="center"><img alt="magic folder" src="http://static.flickr.com/3115/2492496618_8c58d4d1be.jpg" border="0"></div>
+<p>Muy práctico si tienes el escritorio lleno de iconos y nunca encuentras nada.</p>
+<p>Via <a href="http://www.genbeta.com/2008/05/13-manten-tu-escritorio-despejado-con-the-magic-folder" target="_blank">genbeta</a>| Descarga <a href="http://gallery.live.com/liveItemDetail.aspx?li=0ed6a06a-6782-41a7-b68c-2753fad412a5" target="_blank">Magic Folder</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/magic-folder-widget-escritorio/">Mant&#233;n tu escritorio ordenado con Magic Folder</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/magic-folder-widget-escritorio/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Google Maps ahora con Fotos y Wikipedia</title>
+		<link>/microbiablog/herramientas/google-maps-wikipedia-fotos-youtube/</link>
+		<pubDate>Wed, 14 May 2008 14:10:28 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[mapas]]></category>
+		<category><![CDATA[útiles]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/14/google-maps-wikipedia-fotos-youtube/</guid>
+		<description><![CDATA[<p>En la nueva versión de Google Maps han añadido dos opciones nuevas. Ahora se muestran en el mapa las fotos geolocalizadas de Panoramio y artículos de la wikipedia relacionados con un lugar. Tan sólo tienes que hacer click sobre el icono de la W para ver el artículo de la wikipedia o la foto más [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/google-maps-wikipedia-fotos-youtube/">Google Maps ahora con Fotos y Wikipedia</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>En la nueva versión de Google Maps han añadido dos opciones nuevas. Ahora se muestran en el mapa las fotos geolocalizadas de Panoramio y artículos de la wikipedia relacionados con un lugar. Tan sólo tienes que hacer click sobre el icono de la W para ver el artículo de la wikipedia o la foto más grande.</p>
+<p>También se pueden ver vídeos de youtube, con lo que resulta muy útil para planear viajes. Aquí os dejo un vídeo donde podéis ver las novedades:</p>
+<div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:6ddad3cd-1d1f-4912-af17-ace883a81e63" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
+<div id="f523223f-c815-4714-b594-077965222571" style="margin: 0px; padding: 0px; display: inline;">
+<div><a href="http://www.youtube.com/watch?v=nUxg1a_J0VE" target="_new"><img src="http://microbiablog.com/wp-content/uploads/2008/05/windowslivewritergooglemapsahoraconfotosywikipedia-e215videofdd04611b435.jpg" galleryimg="no" onload="var downlevelDiv = document.getElementById('f523223f-c815-4714-b594-077965222571'); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;object width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;param name=\&quot;movie\&quot; value=\&quot;http://www.youtube.com/v/nUxg1a_J0VE\&quot;&gt;&lt;\/param&gt;&lt;param name=\&quot;wmode\&quot; value=\&quot;transparent\&quot;&gt;&lt;\/param&gt;&lt;embed src=\&quot;http://www.youtube.com/v/nUxg1a_J0VE\&quot; type=\&quot;application/x-shockwave-flash\&quot; wmode=\&quot;transparent\&quot; width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;\/embed&gt;&lt;\/object&gt;&lt;\/div&gt;&quot;;" alt=""></a></div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p>Via <a href="http://www.genbeta.com/2008/05/14-google-maps-ahora-con-fotos-de-panoramio-y-definiciones-de-lugares-de-la-wikipedia" target="_blank">genbeta</a> y <a href="http://bitelia.com/2008/05/13/google-maps-integra-panoramio-y-youtube-en-los-mapas/" target="_blank">bitelia</a> | <a href="http://maps.google.com/" target="_blank">Google Maps</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/google-maps-wikipedia-fotos-youtube/">Google Maps ahora con Fotos y Wikipedia</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Paymo, gestionando el tiempo en proyectos</title>
+		<link>/microbiablog/herramientas/paymo-gestionando-el-tiempo-en-proyectos/</link>
+		<pubDate>Tue, 26 Feb 2008 20:40:52 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[gestión]]></category>
+		<category><![CDATA[proyectos]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/?p=205</guid>
+		<description><![CDATA[<p>En todo proyecto hay que sacar costes y para ello hay que controlar el tiempo. Sin embargo, no hay nada peor que además de hacer el trabajo tengas que dedicar tiempo a meter las horas. Esta tarea es sin embargo imprescindible y gracias a aplicaciones como paymo, cada vez más fácil y rápido. Con paymo [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/paymo-gestionando-el-tiempo-en-proyectos/">Paymo, gestionando el tiempo en proyectos</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>En todo proyecto hay que sacar costes y para ello hay que controlar el tiempo. Sin embargo, no hay nada peor que además de hacer el trabajo tengas que dedicar tiempo a meter las horas. Esta tarea es sin embargo imprescindible y gracias a aplicaciones como paymo, cada vez más fácil y rápido.</p>
+<p><img border="0" width="486" src="http://farm3.static.flickr.com/2395/2294603038_c5c96c0d5d.jpg?v=0" height="183" /></p>
+<p>Con paymo puedes crear listas de clientes y añadir usuarios, de forma que tienes centralizado el tiempo que varios empleados invierten en un determinado proyecto. De momento sólo se pueden crear dos usuarios más, debido a la restricción del modo gratuito (la de pago aún no está disponible). Paymo dispone de varios widgets que facilitan el seguimiento del tiempo empleado y además dispone de informes para conocer la evolución de nuestros proyectos.</p>
+<p>Via <a target="_blank" href="http://www.genbeta.com/2008/02/26-paymo-otra-herramienta-para-medir-el-tiempo-empleado-en-el-desarrollo-de-proyectos">genbeta</a> | Enlace <a target="_blank" href="http://paymo.biz/">Paymo</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/paymo-gestionando-el-tiempo-en-proyectos/">Paymo, gestionando el tiempo en proyectos</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Música y sonidos para tus producciones de vídeo</title>
+		<link>/microbiablog/herramientas/musica-y-sonidos-para-tus-producciones-de-video/</link>
+		<comments>/microbiablog/herramientas/musica-y-sonidos-para-tus-producciones-de-video/#comments</comments>
+		<pubDate>Fri, 06 Jul 2007 10:50:06 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[Música]]></category>
+		<category><![CDATA[recursos]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/?p=104</guid>
+		<description><![CDATA[<p>Se acercan las vacaciones y ¿quién se resiste luego a crear su propio vídeo con los mejores momentos? ¿O a torturar a tus amigos a esas interminables fotos de pirámides con la música de fondo de camela? Bueno, yo misma intenté crear un vídeo de mis vacaciones en Brasil que nunca llegó a ver la [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/musica-y-sonidos-para-tus-producciones-de-video/">Música y sonidos para tus producciones de vídeo</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img border="0" align="right" width="209" src="http://farm2.static.flickr.com/1338/736498964_9ffd5eee24_m.jpg" height="120" />Se acercan las vacaciones y ¿quién se resiste luego a crear su propio vídeo con los mejores momentos? ¿O a torturar a tus amigos a esas interminables fotos de pirámides con la música de fondo de camela? Bueno, yo misma intenté crear un vídeo de mis vacaciones en Brasil que nunca llegó a ver la luz. Yo opté por música instrumental que me gustaba: Rinocerose o Orbital, están muy bien en estos casos. Pero si lo que quieres es algo más profesional o incluso añadir sonidos a tus vídeos no puedes perderte estos dos sitios:</p>
+<p>&#8211; <a target="_blank" href="http://www.soundsnap.com/">Soundsnap</a>: Aunque también tiene loops de música (menudo invento del diablo) y algunos samples, está más enfocado a los efectos de sonido.<br />
+&#8211; <a target="_blank" href="http://freeplaymusic.com/">Freeplaymusic</a>: Por el contrario se enfoca en musica para acompañar tus creaciones, aunque también cuenta con efectos de sonido.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/musica-y-sonidos-para-tus-producciones-de-video/">Música y sonidos para tus producciones de vídeo</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/musica-y-sonidos-para-tus-producciones-de-video/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>La guerra de los servicios online y algunos enlaces utiles</title>
+		<link>/microbiablog/internet/la-guerra-de-los-servicios-online-y-algunos-enlaces-utiles/</link>
+		<comments>/microbiablog/internet/la-guerra-de-los-servicios-online-y-algunos-enlaces-utiles/#comments</comments>
+		<pubDate>Wed, 07 Jun 2006 21:34:33 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Herramientas]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/?p=37</guid>
+		<description><![CDATA[<p>Debe tener algo que ver con mi horoscopo o algo asi, que en cuanto hay varias posibilidades, me colapso. Yo de toda la vida he sido una usuaria de Yahoo! en toda regla. Tengo varias cuentas de email, algunas desde hace 10 años, tengo un par de grupos yahoo, uso las fotos, el maletin&#8230; sin embargo con esto [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/la-guerra-de-los-servicios-online-y-algunos-enlaces-utiles/">La guerra de los servicios online y algunos enlaces utiles</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Debe tener algo que ver con mi horoscopo o algo asi, que en cuanto hay varias posibilidades, me colapso. Yo de toda la vida he sido una usuaria de Yahoo! en toda regla. Tengo varias cuentas de email, algunas desde hace 10 años, tengo un par de grupos yahoo, uso las fotos, el maletin&#8230; sin embargo con esto de que los 3 grandes no paran de mirarse unos a otros a ver que servicios nuevos sacan, ya no se donde elegir.</p>
+<p>Yo siempre habia usado <a href="http://del.icio.us/"><font color="#0d5d91">http://del.icio.us/</font></a> para los favoritos. Sin embargo veo que Y! tambien ha sacado su version (aun beta) <a href="http://myweb2.search.yahoo.com/"><font color="#0d5d91">http://myweb2.search.yahoo.com/</font></a> y que MSN (perdon Windows Live) tambien hace lo propio con <a href="http://favorites.live.com/"><font color="#0d5d91">http://favorites.live.com/</font></a></p>
+<p>Y ahora que hago? Encima he descubierto un nuevo servicio de &#8220;almacenamiento online&#8221; que es bastante mejor que Y! Maletin, que lleva sin cambiar desde que Ramoncin fue n1 en ventas cuando yo todavia no habia nacido. <a href="http://www.box.net/"><font color="#0d5d91">http://www.box.net/</font></a> es mas rapido y te da gratis 1 Gb de capacidad, con opcion de mas almacenamiento de pago.</p>
+<p>Lo mismo con los lectores de RSS&#8230; En el nuevo <a href="http://www.live.com/"><font color="#0d5d91">WL Live </font></a>puedes añadir los feeds que quieras, pero aun no esta a la altura de <a href="http://www.netvibes.com/"><font color="#0d5d91">http://www.netvibes.com/</font></a> o <a href="http://www.pageflakes.com/"><font color="#0d5d91">http://www.pageflakes.com/</font></a> que son casi primos hermanos.</p>
+<p>Y cuando Google, despues de comprar <a href="http://www.writely.com/"><font color="#0d5d91">Writely</font></a>, estrena <a href="http://spreadsheets.google.com/"><font color="#0d5d91">Google Spreadsheets</font></a> parece indicar que lleva el mismo camino que <a href="http://www.thinkfree.com/"><font color="#0d5d91">ThinkFree</font></a>.</p>
+<p><strong>Bueno pues eso&#8230; que la competencia es sana y que gane el mejor!</strong></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/la-guerra-de-los-servicios-online-y-algunos-enlaces-utiles/">La guerra de los servicios online y algunos enlaces utiles</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/internet/la-guerra-de-los-servicios-online-y-algunos-enlaces-utiles/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

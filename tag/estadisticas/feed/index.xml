@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>estadísticas &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/estadisticas/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>C&#243;mo contabilizar clicks con Analitics</title>
+		<link>/microbiablog/herramientas/cmo-contabilizar-clicks-con-analitics/</link>
+		<pubDate>Wed, 04 Feb 2009 19:28:27 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[estadísticas]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[útil]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/02/04/cmo-contabilizar-clicks-con-analitics/</guid>
+		<description><![CDATA[<p>La herramienta de Google Analytics está muy bien, ya que te permite unas estadísticas bastante detalladas gratis. Sin embargo, hay un reporte que no funciona del todo bien, el de superposición del contenido: Contents &#62; Site Overlay donde muestra tu página y los porcentajes de click de cada link. Yo sé que últimamente está aumentando [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/cmo-contabilizar-clicks-con-analitics/">C&#243;mo contabilizar clicks con Analitics</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img style="border-right: 0px; border-top: 0px; display: inline; margin-left: 0px; border-left: 0px; margin-right: 0px; border-bottom: 0px" src="http://farm4.static.flickr.com/3528/3253189849_880f874024.jpg?v=0" align="right" border="0" /> La herramienta de<strong> Google Analytics</strong> está muy bien, ya que te permite unas <strong>estadísticas</strong> bastante detalladas <strong>gratis</strong>. Sin embargo, hay un reporte que no funciona del todo bien, el de superposición del contenido: <em>Contents &gt; Site Overlay</em> donde muestra tu página y los porcentajes de click de cada link.</p>
+<p>Yo sé que últimamente está aumentando la gente que se suscribe al feed de mi blog gracias a feedburner, sin embargo, el porcentaje de clicks en el icono de RSS de la barra lateral, parecía no tener clicks en el reporte de Google. Le comenté el problema a mi amigo Pepe, y me dió la solución. En el <strong>código</strong> del enlace sólo tienes que <strong>añadir</strong> lo siguiente en el <code>a href</code>:</p>
+<pre><code>onClick=&quot;javascript:pageTracker._trackPageview('/nombre de la página/');&quot;</code></pre>
+<p>Este código hará que en el reporte de Contenido, te aparezca una nueva entrada con el nombre que le hayas puesto a la página y te mostrará las estadísticas. Fácil!</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/cmo-contabilizar-clicks-con-analitics/">C&#243;mo contabilizar clicks con Analitics</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

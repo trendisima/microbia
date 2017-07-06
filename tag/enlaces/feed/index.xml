@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>enlaces &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/enlaces/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>El cocinero fiel</title>
+		<link>/microbiablog/cocina/el-cocinero-fiel/</link>
+		<comments>/microbiablog/cocina/el-cocinero-fiel/#comments</comments>
+		<pubDate>Thu, 12 Jul 2007 10:19:45 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Cocina]]></category>
+		<category><![CDATA[enlaces]]></category>
+		<category><![CDATA[recomendado]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/?p=118</guid>
+		<description><![CDATA[<p>Gracias al blog de Chica de la tele he descubierto este otro de El Cocinero Fiel. A veces me quedo embobada viendo a Arguiñano en la tele, aunque nunca he hecho ninguna receta, me da la impresión de que &#8220;Claro, él es un cocinero profesional&#8221; por eso le sale tan bien y a veces me [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/cocina/el-cocinero-fiel/">El cocinero fiel</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img border="0" align="right" width="201" src="http://farm2.static.flickr.com/1033/785691424_e47b22569c.jpg?v=0" height="203" />Gracias al blog de <a target="_blank" href="http://www.chicadelatele.com/chicadelatele/post/2007/07/09/el-cocinero-fiel">Chica de la tele</a> he descubierto este otro de <a target="_blank" href="http://elcocinerofiel.blogspot.com/">El Cocinero Fiel</a>. A veces me quedo embobada viendo a Arguiñano en la tele, aunque nunca he hecho ninguna receta, me da la impresión de que &#8220;Claro, él es un cocinero profesional&#8221; por eso le sale tan bien y a veces me gustaría que el programa fuese más práctico. Así es exactamente el cocinero fiel. Ves el proceso de la receta de forma rápida, con las explicaciones justas y te da la sensación de que tú también podrías hacerlo porque de verdad parece sencillo. Eso sí, hecho de menos una referencia a la cantidad de los ingredientes y esas cosas de las recetas tradicionales, pero para eso está internet.</p>
+<p>Los videos son cortitos y muy bien montados. Aquí os pongo como muestra el video de mi receta favorita, la <a target="_blank" href="http://elcocinerofiel.blogspot.com/2007/04/tortilla-de-patata-mi-manera.html">tortilla de patata</a>, que ayer mismo hice como dice y es que yo podría alimentarme sólo de tortilla porque me encanta…</p>
+[youtube=http://www.youtube.com/watch?v=RsIDWHvI0Gc]
+<p>Lo próximo que voy a intentar es el <a target="_blank" href="http://elcocinerofiel.blogspot.com/2007/05/arroz-con-pollo-sin-caldo.html">arroz con pollo</a>, plato que echo de menos desde que Elena se pasó a la macrobiótica. Sé que no me quedará igual porque aquello era de premio guinness, pero lo importante es participar (y que no envenene a nadie).</p>
+<p><a target="_blank" href="http://elcocinerofiel.blogspot.com/">Blog de El cocinero fiel</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/cocina/el-cocinero-fiel/">El cocinero fiel</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/cocina/el-cocinero-fiel/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

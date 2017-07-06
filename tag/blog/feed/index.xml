@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Sin comentarios&#8230; en posts viejunos</title>
+		<link>/microbiablog/blog/sin-comentarios-en-posts-viejunos/</link>
+		<pubDate>Tue, 03 Apr 2012 10:54:08 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">/microbiablog/?p=756</guid>
+		<description><![CDATA[<p>Este post es sólo para explicar por qué he decidido eliminar los comentarios del blog para entradas antiguas. Por desgracia no tengo tiempo para moderar los comentarios, por lo que trolls y spammers campan a sus anchas insultando a diestro y siniestro sin aportar nada a la conversación. En algunos posts, los comentarios se utilizan [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/blog/sin-comentarios-en-posts-viejunos/">Sin comentarios&hellip; en posts viejunos</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Este post es sólo para explicar por qué he decidido eliminar los comentarios del blog para entradas antiguas. </p>
+<p><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px; padding-top: 0px" title="Negative-Comments" border="0" alt="Negative-Comments" src="/microbiablog/wp-content/uploads/2012/04/Negative-Comments.jpg" width="450" height="450" /></p>
+<p>Por desgracia no tengo tiempo para moderar los comentarios, por lo que <em>trolls</em> y <em>spammers</em> campan a sus anchas insultando a diestro y siniestro sin aportar nada a la conversación. </p>
+<p>En algunos posts, los comentarios se utilizan a modo de foro de soporte, donde se hacen preguntas que no soy capaz de responder a tiempo, causando frustración y cabreo en algunos usuarios.</p>
+<p>Voy a mantener los comentarios para nuevos posts, pero transcurridos 15 días el blog los cerrará automáticamente.</p>
+<p>Sé que no es la mejor opción, pero la falta de tiempo no me deja otra salida y creo que esto es mejor que cerrar los comentarios completamente. Esto me permitirá seguir manteniendo una conversación con los que me siguen de manera habitual (recuerden que esto es un blog personal) y espero sirva para reducir la cantidad de spam.</p>
+<p>Ahora pregunto: ¿qué os parece esta decisión? ¿Debo cerrar los comentarios completamente?</p>
+<p>The post <a rel="nofollow" href="/microbiablog/blog/sin-comentarios-en-posts-viejunos/">Sin comentarios&hellip; en posts viejunos</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Postea desde tu m&#243;vil con Windows Live Writer</title>
+		<link>/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/</link>
+		<comments>/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/#comments</comments>
+		<pubDate>Wed, 10 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[móviles]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Windows Live]]></category>
+		<category><![CDATA[wl writer]]></category>
+
+		<guid isPermaLink="false">/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/</guid>
+		<description><![CDATA[<p>Como ya os he contado en anteriores posts, Windows Live Writer es una de las mejores aplicaciones para escribir en tu blog, y vengo utilizándolo desde hace años. Ahora puedes utilizarlo también en tu móvil y tu blog WordPress ya que existe una versión para Windows Mobile. Descárgalo gratis aqui &#124; Instrucciones para configurar la [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/">Postea desde tu m&oacute;vil con Windows Live Writer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Como ya os he contado en <a href="/microbiablog/herramientas/tutorial-windows-live-writer/">anteriores posts</a>, Windows Live Writer es una de las mejores aplicaciones para escribir en tu blog, y vengo utilizándolo desde hace años. Ahora puedes utilizarlo también en tu móvil y tu blog WordPress ya que existe una versión para Windows Mobile.</p>
+<p><a href="http://wlw.codeplex.com/" target="_blank">Descárgalo gratis aqui</a> | Instrucciones para <a href="http://www.makeuseof.com/tag/windows-live-writer-for-windows-mobile-is-just-what-i-was-looking-for-windows-mobile/" target="_blank">configurar la cuenta de WordPress</a>.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/">Postea desde tu m&oacute;vil con Windows Live Writer</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/moviles/postea-desde-tu-mvil-con-windows-live-writer/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Nuevo theme: microbia v2</title>
+		<link>/microbiablog/blog/nuevo-theme-microbia-v2/</link>
+		<pubDate>Wed, 03 Jun 2009 09:26:09 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">/microbiablog/2009/06/03/nuevo-theme-microbia-v2/</guid>
+		<description><![CDATA[<p>Creo que he batido el record de instalar/desinstalar WordPress (incluyendo importar la base de datos), pero al fin parece que todo está funcionando… Nadie dijo que cambiar el theme era fácil, pero ha valido la pena.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/blog/nuevo-theme-microbia-v2/">Nuevo theme: microbia v2</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Creo que he batido el record de instalar/desinstalar WordPress (incluyendo importar la base de datos), pero al fin parece que todo está funcionando… Nadie dijo que cambiar el theme era fácil, pero ha valido la pena.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/blog/nuevo-theme-microbia-v2/">Nuevo theme: microbia v2</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

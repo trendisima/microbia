@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>trucos &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/trucos/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Problema Apache / XAMPP con puerto 80 en Windows 7</title>
+		<link>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/</link>
+		<comments>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/#comments</comments>
+		<pubDate>Tue, 06 Oct 2009 18:52:31 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[trucos]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/</guid>
+		<description><![CDATA[<p>Tengo un XAMPP en un disco duro externo que he estado utilizando sin ningún problema, hasta que de pronto, ha dejado de funcionar. Por alguna razón el Apache se niega a arrancar y comprobando los puertos, veo que el puerto 80 está ocupado por SYSTEM. Buscando una solución encuentro que los posibles problemas pueden ser: [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/">Problema Apache / XAMPP con puerto 80 en Windows 7</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>T<img style="border-bottom: 0px; border-left: 0px; display: inline; margin-left: 0px; border-top: 0px; margin-right: 0px; border-right: 0px" title="3987293183_cb82da1cb3_o[1]" src="/microbiablog/wp-content/uploads/2009/10/3987293183_cb82da1cb3_o1.jpg" border="0" alt="3987293183_cb82da1cb3_o[1]" width="301" height="283" align="right" />engo un XAMPP en un disco duro externo que he estado utilizando sin ningún problema, hasta que de pronto, ha dejado de funcionar.</p>
+<p>Por alguna razón el Apache se niega a arrancar y comprobando los puertos, veo que el <strong>puerto 80 está ocupado por SYSTEM</strong>.</p>
+<p>Buscando una solución encuentro que los <strong>posibles problemas</strong> pueden ser:<span id="more-612"></span></p>
+<ul>
+<li><strong>IIS está funcionando</strong> en mi PC. &#8211; No es mi caso, ni siquiera está instalado.</li>
+<li><strong>Skype</strong> da este problema &#8211; Sin embargo, en mi pc no hay ni rastro de Skype, incluso he cerrado Messenger, Communicator y todo lo que se me ocurre. He reiniciado y sin ejecutar nada, el puerto ya está ocupado.</li>
+</ul>
+<p>De repente caigo en la cuenta de que tengo este problema desde que he cambiado <strong>Windows 7</strong>. Con Vista no me había pasado. Así que sigo buscando y finalmente encuentro <a href="http://www.cameroncooke.com/2009/01/25/windows-7-uses-port-80-and-makes-it-impossible-to-install-apache-solution/" target="_blank">este post</a> que me da una pista. Eso sí, aún tardé un rato en conseguir deshacerme del proceso.</p>
+<p>Para ello tienes que:</p>
+<ul>
+<li>Ir al <strong>Administrador de tareas</strong> de Windows (task manager), encontrar el servicio con la descripción “<strong>BrandCache</strong>”</li>
+</ul>
+<p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="3987292589_477981406f_o[1]" src="/microbiablog/wp-content/uploads/2009/10/3987292589_477981406f_o1.gif" border="0" alt="3987292589_477981406f_o[1]" width="330" height="283" /></p>
+<ul>
+<li>Si Botón derecho &gt; stop service no te deja detener el servicio, haz click en el botón “<strong>Servicios</strong>” de abajo a la derecha</li>
+<li>En la lista de servicios busca por nombre “BrandCache” y botón derecho (ahora sí debe dejarte) <strong>stop/detener servicio</strong></li>
+</ul>
+<p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="3987293021_1fdd68def8_o[1]" src="/microbiablog/wp-content/uploads/2009/10/3987293021_1fdd68def8_o1.gif" border="0" alt="3987293021_1fdd68def8_o[1]" width="484" height="232" /></p>
+<p>Ahora sí puedes ir al panel de control y ejecutar Apache sin problemas.</p>
+<p><strong>Otra solución</strong> es <a href="http://blog.wolffmyren.com/2008/07/30/making-xampp-apache-work-with-iis-on-windows-xpvista/" target="_blank">cambiar el puerto</a> en el que funciona el Apache, aunque en mi caso no me servía, ya que utilizo WordPress Mu, que no permite utilizar el puerto en la URL, o sea que nada de localhost:85 ni nada por el estilo.</p>
+<p>Y este ha sido mi briconsejo de hoy. Espero que os evite algunos dolores de cabeza. <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/">Problema Apache / XAMPP con puerto 80 en Windows 7</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/problema-apache-xampp-con-puerto-80-en-windows-7/feed/</wfw:commentRss>
+		<slash:comments>24</slash:comments>
+		</item>
+		<item>
+		<title>3 trucos de Facebook</title>
+		<link>/microbiablog/herramientas/3-trucos-de-facebook/</link>
+		<pubDate>Wed, 23 Sep 2009 07:39:17 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[trucos]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/3-trucos-de-facebook/</guid>
+		<description><![CDATA[<p>Descarga albumes enteros de Facebook Ahora puedes descargar todas las fotos que suben tus amigos con sólo un click, ya no tienes que ir una por una. Para ello, sólo tienes que descargarte FacePAD, un plugin de Firefox que añadirá esta opción al menú contextual de FB. Después de instalarlo, selecciona Tools &#62; Add-ons y [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/3-trucos-de-facebook/">3 trucos de Facebook</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<ol>
+<li><strong>Descarga albumes enteros de Facebook</strong>
+<p><font size="2">Ahora puedes descargar todas las fotos que suben tus amigos con sólo un click, ya no tienes que ir una por una. Para ello, sólo tienes que descargarte </font><a href="https://addons.mozilla.org/en-US/firefox/addon/8442"><font size="2">FacePAD</font></a><font size="2">, un plugin de Firefox que añadirá esta opción al menú contextual de FB.</font></p>
+<p><font size="2">Después de instalarlo, selecciona Tools &gt; Add-ons y configura el plugin con tus preferencias. Después lo único que tienes que hacer es seleccionar “Download album with FacePAD” del menú y listo.         <br /><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="3947255222_f6e081689e[1]" border="0" alt="3947255222_f6e081689e[1]" src="/microbiablog/wp-content/uploads/2009/09/3947255222_f6e081689e1.jpg" width="484" height="179" /> </font></p>
+</li>
+<li><strong>Programa cambios de Estado con Sendible       <br /></strong>Si quieres mantener tu perfil actualizado, pero no tienes tiempo de estar cambiando tu status todo el tiempo, puedes programar mensajes para que se publiquen automáticamente cuando tu quieras.       <br />Desde Sendible, configura las opciones de FB y programa tus mensajes.
+<p><img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="3947255280_3bf5043b3f[1]" border="0" alt="3947255280_3bf5043b3f[1]" src="/microbiablog/wp-content/uploads/2009/09/3947255280_3bf5043b3f1.jpg" width="484" height="283" /> </li>
+<li><strong>Esconde tu estado sólo a ciertas personas</strong>      <br /><img style="border-bottom: 0px; border-left: 0px; display: inline; margin-left: 0px; border-top: 0px; margin-right: 0px; border-right: 0px" title="3946487973_fb91ecdcd0[1]" border="0" alt="3946487973_fb91ecdcd0[1]" align="right" src="/microbiablog/wp-content/uploads/2009/09/3946487973_fb91ecdcd01.jpg" width="213" height="283" />Si quieres permanecer oculto para algunas personas pero mostrar tu estado para otra gente con la que siempre quieres estar en contacto, tan sólo tienes que crear una lista, (en el ejemplo se llama Blocklist) y activar la opción “mostrar esta lista en el Chat”.      <br />Ahora sólo tienes que arrastar a esa lista los contactos para los que quieres permanecer oculto y seleccionar “Go Offline” en las opciones.
+<p> Via <a href="http://www.makeuseof.com/tag/6-facebook-hack-codes-and-tips-to-show-off-your-geeky-skills/" target="_blank">MakeUseOf</a></li>
+</ol>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/3-trucos-de-facebook/">3 trucos de Facebook</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>20 trucos de Facebook</title>
+		<link>/microbiablog/herramientas/20-trucos-de-facebook/</link>
+		<pubDate>Wed, 17 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[trucos]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/20-trucos-de-facebook/</guid>
+		<description><![CDATA[<p>En Hongkiat publican una lista de 20 trucos para Facebook, que te permitirán por ejemplo descargar álbumes de fotos, cómo compartir fotos de Flickr en Facebook, cómo actualizar facebook sin entrar en facebook, programar mensajes y cómo saber si algún amigo te ha bloqueado, entre otros… Ver post en Hongkiat</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/20-trucos-de-facebook/">20 trucos de Facebook</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>En <a href="http://www.hongkiat.com/blog/20-facebook-tipstricks-you-might-not-know/" target="_blank">Hongkiat</a> publican una lista de <strong>20 trucos para Facebook</strong>, que te permitirán por ejemplo descargar álbumes de fotos, cómo compartir fotos de Flickr en Facebook, cómo actualizar facebook sin entrar en facebook, programar mensajes y cómo saber si algún amigo te ha bloqueado, entre otros…</p>
+<p>Ver post en <a href="http://www.hongkiat.com/blog/20-facebook-tipstricks-you-might-not-know/" target="_blank">Hongkiat</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/20-trucos-de-facebook/">20 trucos de Facebook</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>A&#241;adir funcionalidades de WordPress sin plugins</title>
+		<link>/microbiablog/herramientas/aadir-funcionalidades-de-wordpress-sin-plugins/</link>
+		<pubDate>Mon, 15 Jun 2009 16:30:19 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[programacion]]></category>
+		<category><![CDATA[trucos]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/aadir-funcionalidades-de-wordpress-sin-plugins/</guid>
+		<description><![CDATA[<p>Añadir plugins a WordPress es muy fácil, pero hay un montón de cosas que podemos hacer añadiendo directamente el código en las páginas en vez de instalar miles de plugins que a veces no sabemos cómo están hechos. En InstantShift publican un artículo con el código correspondiente para cada una de estas cosas: Lista de [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/aadir-funcionalidades-de-wordpress-sin-plugins/">A&ntilde;adir funcionalidades de WordPress sin plugins</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Añadir plugins a WordPress es muy fácil, pero hay un montón de cosas que podemos hacer <strong>añadiendo directamente el código</strong> en las páginas en vez de instalar miles de plugins que a veces no sabemos cómo están hechos. En <a href="http://www.instantshift.com/2009/06/15/22-mixed-quality-wordpress-hacks/" target="_blank">InstantShift</a> publican un artículo con el código correspondiente para cada una de estas cosas:</p>
+<ol>
+<li><img style="display: inline; margin-left: 0px; margin-right: 0px" align="right" src="http://farm4.static.flickr.com/3305/3629579070_5b4c31d915_o.jpg" width="240" height="188" /> Lista de próximos posts: Para anunciar los posts que tienes programados pero aún no están publicados. </li>
+<li>Lista de posts más populares: Muestra los posts más comentados </li>
+<li>Posts relacionados </li>
+<li>Muestra los últimos comentarios </li>
+<li>Posts más comentados en cierto periodo de tiempo </li>
+<li>Cómo separar comentarios de trackbacks
+<div id='extendedEntryBreak' name='extendedEntryBreak'></div>
+</li>
+<li>Obtén automáticamente un thumbnail de la primera imagen del post </li>
+<li>Obtener las imágenes del post </li>
+<li>Muestra una cabecera aleatoria </li>
+<li>Cómo crear una galería </li>
+<li>Cómo añadir un botón de imprimir </li>
+<li>Cómo añadir un botón “enviar a Facebook” </li>
+<li>Cómo añadir un botón “enviar a Twitter” </li>
+<li>Cómo enviar automáticamente nuevos posts a delicious </li>
+<li>Cómo resaltar los comentarios del autor del blog </li>
+<li>Añade información sobre el autor en cada post </li>
+<li>Lista todos los autores del blog </li>
+<li>Cómo mostrar el número de suscriptores a tu feed de Feedburner </li>
+<li>Cómo controlar cuándo tus posts se publican en el RSS </li>
+<li>Cómo excluir categorías del RSS </li>
+<li>Cómo crear feeds RSS personalizados </li>
+<li>Cómo añadir un link a “Suscribir a este feed” después de cada post </li>
+</ol>
+<p>Post completo en <a href="http://www.instantshift.com/2009/06/15/22-mixed-quality-wordpress-hacks/" target="_blank">InstantShift</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/aadir-funcionalidades-de-wordpress-sin-plugins/">A&ntilde;adir funcionalidades de WordPress sin plugins</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Mano en IE8</title>
+		<link>/microbiablog/herramientas/mano-en-ie8/</link>
+		<comments>/microbiablog/herramientas/mano-en-ie8/#comments</comments>
+		<pubDate>Sat, 21 Mar 2009 18:40:12 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[internet explorer]]></category>
+		<category><![CDATA[minipost]]></category>
+		<category><![CDATA[trucos]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/03/21/mano-en-ie8/</guid>
+		<description><![CDATA[<p>Has instalado el nuevo Internet Explorer 8 y misteriosamente el cursor se ha cambiado a una mano? ¿Donde ha ido a parar la flecha blanca de toda la vida? Si tu cursor se ha cambiado a una mano naranja, es debido a una incompatibilidad con alguno de los plugins que tienes instalados. En mi caso [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/mano-en-ie8/">Mano en IE8</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Has instalado el nuevo Internet Explorer 8 y misteriosamente el cursor se ha cambiado a una mano? ¿Donde ha ido a parar la flecha blanca de toda la vida? Si tu cursor se ha cambiado a una mano naranja, es debido a una incompatibilidad con alguno de los plugins que tienes instalados. En mi caso ha sido con IE 7 Pro (lógicamente) y se activaba la función Drag and Drop todo el tiempo, haciendo la navegación bastante molesta. La solución ha sido desinstalarlo, sólo falta esperar que saquen una nueva versión…</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/mano-en-ie8/">Mano en IE8</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/mano-en-ie8/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>7 trucos de Windows 7</title>
+		<link>/microbiablog/paranoias/7-trucos-de-windows-7/</link>
+		<pubDate>Tue, 10 Feb 2009 13:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Paranoias]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[minipost]]></category>
+		<category><![CDATA[trucos]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/02/10/7-trucos-de-windows-7/</guid>
+		<description><![CDATA[<p>Los 7 trucos de Windows 7 que no te puedes perder para sacarle el máximo partido al nuevo sistema operativo de Microsoft. Desde atajos del teclado para ser más productivo a opciones de personalización para ponerlo a tu gusto.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/paranoias/7-trucos-de-windows-7/">7 trucos de Windows 7</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Los <a href="http://www.genbeta.com/2009/02/10-especial-windows-7-trucos-para-sacarle-mayor-provecho" target="_blank">7 trucos de Windows 7</a> que no te puedes perder para sacarle el máximo partido al nuevo sistema operativo de Microsoft. Desde atajos del teclado para ser más productivo a opciones de personalización para ponerlo a tu gusto.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/paranoias/7-trucos-de-windows-7/">7 trucos de Windows 7</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Trucos para GTA IV</title>
+		<link>/microbiablog/videojuegos/trucos-para-gta-iv/</link>
+		<pubDate>Wed, 07 May 2008 11:59:23 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Videojuegos]]></category>
+		<category><![CDATA[gta]]></category>
+		<category><![CDATA[trucos]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/?p=285</guid>
+		<description><![CDATA[<p> GTA no sería GTA si no pudieras usar atajos o trucos para hacerte la vida más fácil. Pero cuidado! utilizar estos trucos parece que tiene sus consecuencias, o al menos en Xbox, ya que bloquea la opción de conseguir algunos logros. Aún así, puedes activar los códigos para hacer el cabra un poco siempre y [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/videojuegos/trucos-para-gta-iv/">Trucos para GTA IV</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a class="flickr-image" title="GTA IV" href="http://www.flickr.com/photos/71581203@N00/2430218499/"></a> GTA no sería GTA si no pudieras usar atajos o trucos para hacerte la vida más fácil. Pero cuidado! <strong>utilizar</strong> estos <strong>trucos</strong> parece que<strong> tiene sus consecuencias</strong>, o al menos en Xbox, ya que <strong>bloquea la opción de conseguir</strong> algunos <strong>logros</strong>.</p>
+<p style="text-align: center;"><img src="http://farm3.static.flickr.com/2219/2430218499_1eabc8ec05.jpg?v=0" alt="" width="380" height="214" /></p>
+<p>Aún así, puedes activar los códigos para <em>hacer el cabra</em> un poco siempre y cuando <strong>no grabes la partida</strong>, de lo contario los logros se quedarán bloqueados.</p>
+<ul>
+<li>Restaurar salud y armas (bloquea logro &#8220;Cleaned the Mean Streets&#8221;): <strong>4825550100</strong></li>
+<li>Restaurar salud:<strong> 3625550100</strong></li>
+<p><span id="more-285"></span></p>
+<li>Armas #1 (Bate de béisbol, pistola, escopeta, MP5, M4, Rifle de francotirador, RPG, Granadas): <strong>4865550100</strong></li>
+<li>Armas #2 (Cuchillo, Molotovs, Pistola, Escopeta, Uzi, AK47, Rifle de francotirador, RPG): <strong>4865550150</strong></li>
+<li>Elimina el nivel de búsqueda policía (estrellas) (bloquea el logro “Walked free”): <strong>2675550100</strong></li>
+<li>Aumenta tu nivel de búsqueda: <strong>2675550150</strong></li>
+<li>Aparece un Annihilator: <strong>3595550100</strong></li>
+<li>Aparece un Jetmax: <strong>9385550100</strong></li>
+<li>Aparece un NRG-900: <strong>6255550100</strong></li>
+<li>Aparece un Sanchez: <strong>6255550150</strong></li>
+<li>Aparece un FIB Buffalo: <strong>2275550100</strong></li>
+<li>Aparece un Comet: <strong>2275550175</strong></li>
+<li>Aparece un Turismo: <strong>2275550147</strong></li>
+<li>Aparece un Cognoscenti: <strong>2275550142</strong></li>
+<li>Aparece un SuperGT: <strong>2275550168</strong></li>
+</ul>
+<p>Via <a href="http://www.nivel22.com/2008/05/04/trucos-para-el-gta-iv" target="_blank">Nivel 22</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/videojuegos/trucos-para-gta-iv/">Trucos para GTA IV</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

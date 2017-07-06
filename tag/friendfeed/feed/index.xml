@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>friendfeed &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/friendfeed/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Compartir tus favoritos Windows Live en FriendFeed</title>
+		<link>/microbiablog/internet/compartir-tus-favoritos-windows-live-en-friendfeed/</link>
+		<pubDate>Wed, 11 Feb 2009 16:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[favoritos]]></category>
+		<category><![CDATA[friendfeed]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/02/11/compartir-tus-favoritos-windows-live-en-friendfeed/</guid>
+		<description><![CDATA[<p>Aunque FriendFeed no incluye opción específica de compartir tus favoritos de Windows Live, sí que soporta feeds RSS, de manera que puedes compartir muchas de las cosas que haces en redes sociales. Con la opción RSS, puedes compartir facilmente tus favoritos Windows Live, el servicio de marcadores online que te permite compartir y guardar tus [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/compartir-tus-favoritos-windows-live-en-friendfeed/">Compartir tus favoritos Windows Live en FriendFeed</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Aunque FriendFeed no incluye opción específica de compartir tus favoritos de Windows Live, sí que soporta feeds RSS, de manera que puedes compartir muchas de las cosas que haces en redes sociales. Con la opción RSS, puedes compartir facilmente tus favoritos Windows Live, el servicio de marcadores online que te permite compartir y guardar tus sitios preferidos desde cualquier PC.</p>
+<p><img style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" src="http://farm4.static.flickr.com/3518/3267159372_16a17859e6.jpg?v=0" border="0" /> </p>
+<p><a href="http://jamiethomson.spaces.live.com/Blog/cns%21550F681DAD532637%219267.entry" target="_blank">Jamie Thomson</a> ha publicado las instrucciones paso a paso:</p>
+<ol>
+<li>Hacer públicos tus favoritos, <a href="http://skydrive.live.com/browse.aspx/.SharedFavorites" target="_blank">iniciando sesión</a> con tu cuenta de Windows Live</li>
+<li>Hacer click en Compartido con: “Mi red” para elegir los permisos</li>
+<li>En la página de permisos hacer click en “Modificar permisos”</li>
+<li>Selecciona la opción “Cualquiera (Público), y pulsa el botón de Guardar</li>
+<li>Al guardar los cambios te llevará la a carpeta de los favoritos compartidos, en el menú selecciona “Más” y verás la opción “Fuente RSS”</li>
+<li>Selecciona la URL del RSS y ya podrás utilizarlaen FriendFeed.</li>
+</ol>
+<p>&#160;</p>
+<p>Via <a href="http://on10.net/blogs/sarahintampa/Share-Your-Windows-Live-Favorites-on-FriendFeed/" target="_blank">Channel 10</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/compartir-tus-favoritos-windows-live-en-friendfeed/">Compartir tus favoritos Windows Live en FriendFeed</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

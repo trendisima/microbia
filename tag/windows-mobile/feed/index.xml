@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>windows mobile &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/windows-mobile/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Geotagging de fotos con el m&#243;vil</title>
+		<link>/microbiablog/moviles/geotagging-de-fotos-con-el-mvil/</link>
+		<comments>/microbiablog/moviles/geotagging-de-fotos-con-el-mvil/#comments</comments>
+		<pubDate>Thu, 16 Jul 2009 17:12:48 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[móviles]]></category>
+		<category><![CDATA[blackberry]]></category>
+		<category><![CDATA[geotagging]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[nokia e71]]></category>
+		<category><![CDATA[symbian]]></category>
+		<category><![CDATA[windows mobile]]></category>
+
+		<guid isPermaLink="false">/microbiablog/moviles/geotagging-de-fotos-con-el-mvil/</guid>
+		<description><![CDATA[<p>Si tu teléfono móvil dispone de GPS, ahora es muy fácil no sólo trazar las rutas de tus recorridos, sino también aprovechar estos datos para geo posicionar tus fotos, sin importar la cámara que utilices. Tan sólo tienes que instalar GPSed, una aplicación gratuita, disponible para iphone, blackberry, windows mobile y java/symbian. Una vez instalada, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/geotagging-de-fotos-con-el-mvil/">Geotagging de fotos con el m&oacute;vil</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img style="display: inline; margin-left: 0px; margin-right: 0px" align="right" src="http://farm4.static.flickr.com/3424/3726463929_fb351a605a_m.jpg" /> Si tu teléfono móvil dispone de GPS, ahora es muy fácil no sólo trazar las rutas de tus recorridos, sino también aprovechar estos datos para geo posicionar tus fotos, sin importar la cámara que utilices.</p>
+<p>Tan sólo tienes que instalar GPSed, una aplicación gratuita, disponible para iphone, blackberry, windows mobile y java/symbian. Una vez instalada, tendrás que guardar el recorrido y sincronizar la fecha y hora de tu cámara con la del móvil.</p>
+<p>Una vez hayas acabado, sólo tienes que subir los archivos de ruta que ha creado GPSed a su web y de ahí podrás exportar los datos a otros formatos, kml, etc De ahí podrías utilizar otros programas para contrastar estos datos con los jpgs de las fotos y escribir la información de posicionamiento en el archivo. </p>
+<p>Si tienes tus fotos en Flickr o Picassa, sólo tienes que asignarle tu cuenta de usuario y decirle directamente en qué album están las fotos que quieres posicionar y el hará todo el trabajo por tí. Eso si, sólo se geotaggean las fotos que has marcado como públicas, si las tienes como privadas, GPSed no podrá escribir la información.</p>
+<p>GPSed cuenta con otras funcionalidades, como compartir tu posición, rutas y fotos con tus amigos y dispone de una versión PRO de pago, para tener posicionados los móviles de familiares o de tu flota de vehículos en tiempo real.</p>
+<p><a href="http://gpsed.com/" target="_blank">Descarga GPSed</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/geotagging-de-fotos-con-el-mvil/">Geotagging de fotos con el m&oacute;vil</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/moviles/geotagging-de-fotos-con-el-mvil/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Windows Mobile en iPhone</title>
+		<link>/microbiablog/moviles/windows-mobile-en-iphone/</link>
+		<comments>/microbiablog/moviles/windows-mobile-en-iphone/#comments</comments>
+		<pubDate>Fri, 07 Nov 2008 10:15:41 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[móviles]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[windows mobile]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/11/07/windows-mobile-en-iphone/</guid>
+		<description><![CDATA[<p>En 2002 un programador Noruego de 15 años se hizo famoso por descifrar el código anticopia de los DVDs, esta vez, otro Noruego que no parece mucho mayor, Erik Kristiansen, ha desarrollado una aplicación que te permite hacer funcionar Windows Mobile en el Iphone. Lo mejor de todo, cuando la reportera le pregunta cómo es [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/windows-mobile-en-iphone/">Windows Mobile en iPhone</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>En 2002 un programador Noruego de 15 años se hizo famoso por descifrar el código anticopia de los DVDs, esta vez, otro Noruego que no parece mucho mayor, Erik Kristiansen, ha desarrollado una aplicación que te permite hacer funcionar Windows Mobile en el Iphone. Lo mejor de todo, cuando la reportera le pregunta cómo es que es un Noruego otra vez que crea una aplicación &quot;imposible&quot;…</p>
+<p> <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="embeddedPlayerVideo" width="480" height="400"><param name="allowScriptAccess" value="always" /><param name="quality" value="high" /><param name="allowFullScreen" value="true" /><param name="movie" value="http://videos.video-loader.com/_player/gvideoplayer.swf" /><param name="flashvars" value="bAutoStart=false&amp;isEmbeded=true&amp;iVideoId=491&amp;sScreenshotUrl=http://videos.video-loader.com/emotion/windowsmobile.jpg" /><embed type="application/x-shockwave-flash" src="http://videos.video-loader.com/_player/gvideoplayer.swf" allowFullScreen="true" width="480" height="400" quality="high" allowScriptAccess="always" flashvars="bAutoStart=false&#038;isEmbeded=true&#038;iVideoId=491&#038;sScreenshotUrl=http://videos.video-loader.com/emotion/windowsmobile.jpg"></embed></object>  </p>
+<blockquote><p>&#8211; … No lo sé, tenemos unos inviernos muy largos y eso te da mucho tiempo, así que tenemos que hacer algo.    <br />(Reportera) Pero es que no teneis novias en Noruega?     <br />&#8211; Sí por supuesto, pero ellas también programan asi que&#8230; </p></blockquote>
+<p>Via <a href="http://gizmodo.com/5062569/windows-mobile-running-on-an-iphone" target="_blank">Gizmodo</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/moviles/windows-mobile-en-iphone/">Windows Mobile en iPhone</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/moviles/windows-mobile-en-iphone/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

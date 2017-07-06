@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>virus &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/virus/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Prot&#233;gete de los virus de Messenger con WLM Safe</title>
+		<link>/microbiablog/herramientas/protgete-de-los-virus-de-messenger-con-wlm-safe/</link>
+		<pubDate>Tue, 16 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[virus]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/protgete-de-los-virus-de-messenger-con-wlm-safe/</guid>
+		<description><![CDATA[<p>Los virus de Messenger son bastante peligrosos, sobretodo porque te llegan en forma de mensaje, invitándote a que veas una foto o te descargues un archivo como si fuera uno de tus contactos, y a veces aceptas casi sin leer. Para ayudar a protegernos contra estos molestos virus está WLM Safe, un plugin de MSN [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/protgete-de-los-virus-de-messenger-con-wlm-safe/">Prot&eacute;gete de los virus de Messenger con WLM Safe</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Los virus de Messenger son bastante peligrosos, sobretodo porque te llegan en forma de mensaje, invitándote a que veas una foto o te descargues un archivo como si fuera uno de tus contactos, y a veces aceptas casi sin leer.</p>
+<p><img style="display: inline; margin-left: 0px; margin-right: 0px" align="right" src="http://farm4.static.flickr.com/3624/3629876269_c8af3911aa_o.jpg" /> Para ayudar a protegernos contra estos molestos virus está WLM Safe, un plugin de MSN Plus que detecta y bloquea los archivos infectados, urls maliciosas, bloquea mensajes de spam, te protege contra ataques de flood que pueden bloquear tu equipo, y te notifica en caso de que alguien este utilizando tu mismo nick o estes chateando con un bot o un usuario inseguro.</p>
+<p>Funciones principales: </p>
+<ul>
+<li>Detecta y bloquea links infectados enviados por los virus a traves de tus ventanas de conversación </li>
+<li>Antiphishing: Detecta y bloquea enlaces de phishing enviados por los virus msn a traves de ventanas de messenger. </li>
+<li>Antispam: Bloquea mensajes de Spam enviados por tus contactos. </li>
+<li>Antiflood: detecta ataques de flood y bloquea a los autores. </li>
+<li>Antifreeze: bloquea mensajes que hacen que versiones antiguas de msn se cuelguen. </li>
+<li>Anticopy: Te notifica si uno de tus contactos de Messenger te copia el nick. </li>
+<li>Antibot: Te notifica si estás chateando con un bot. </li>
+<li>Antihackers: Te notifica si estás chateando con un contacto inseguro. </li>
+</ul>
+<p>Además incluye: </p>
+<ul>
+<li>Registro de amenazas: Opcional, crea un registro de todos los ataques que recibas. </li>
+<li>Sonidos: Opcional. Reproduce sonidos para las notificaciones. </li>
+<li>Actualizaciones automáticas. Opcional. </li>
+</ul>
+<p>Descarga <a href="http://www.wlmsafe.com/?lang=es" target="_blank">WLM Safe</a> | Requiere tener instalado <a href="http://www.msgpluslive.es/" target="_blank">MSN Plus</a></p>
+<p>Visto en <a href="http://www.webadictos.com.mx/2009/06/05/virus-msn-evitalos-con-wlm-safe/" target="_blank">Webadictos</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/protgete-de-los-virus-de-messenger-con-wlm-safe/">Prot&eacute;gete de los virus de Messenger con WLM Safe</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Otro virus de Messenger</title>
+		<link>/microbiablog/internet/otro-virus-de-messenger/</link>
+		<comments>/microbiablog/internet/otro-virus-de-messenger/#comments</comments>
+		<pubDate>Wed, 05 Nov 2008 19:55:19 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[virus]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/11/05/otro-virus-de-messenger/</guid>
+		<description><![CDATA[<p>Ya hacía tiempo que no sacaban un virus para Messenger, y aunque éste se parece muchisimo a otros anteriores, ten cuidado, porque es un virus nuevo y seguramente tu antivirus no está preparado. Estos virus de messenger suelen entrar cuando te llega uno de los siguientes mensajes de uno de tus contactos: esta foto so [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/otro-virus-de-messenger/">Otro virus de Messenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ya hacía tiempo que no sacaban un virus para Messenger, y aunque éste se parece muchisimo a otros anteriores, ten cuidado, porque es un virus nuevo y seguramente tu antivirus no está preparado. Estos virus de messenger suelen entrar cuando te llega uno de los siguientes mensajes de uno de tus contactos:</p>
+<li><img alt="virus" src="http://static.flickr.com/3288/3005362357_f3d41883b9.jpg" align="right" border="0" />esta foto so touyo ? http://www.buxhome.org/buxhome.exe?=(email) </li>
+<li>Estas foto so touyo? http://hi5-foto.com/strugalove.exe?=(email) </li>
+<li>Esta foto so touyo ?? http://www.ledhatohu.info/housegirl.exe?=(email) </li>
+<li>esta foto so touyo ? http://www.ledhatohu.info/hmphoto.EXE?=(email) </li>
+<li>estas fotos son tuyas ?? http://www.muzikamp3shqip.com/housegirl.exe?=(email) </li>
+<li>esta foto so touyo ?? http://www.photos-home.org/homphoto.exe?=(email) </li>
+<li>estas fotos son tuyo http://www.yourphot0s.com/lacostegirl.exe?=(email) </li>
+<li>esta foto so touyo ?? http://missshqiperia2009.com/miamor.exe?=(email) </li>
+<li>estas fotos so touyo ?? http:// missshqiperia2009.com/miamor.exe?=(email)</li>
+<p>El mensaje puede cambiar, pero normalmente es una pregunta seguida de una url con una direccion de email. Esto hace que se te descargue un archivo (que normalmente aceptas sin mirar) y que contiene el virus.</p>
+<p>Una vez te entra el virus, lo primero que hace es enviar ese mismo mensaje a todos tus contactos. Es por eso que estos virus se expanden tan rápidamente. Así que ya sabeis, andad con cuidado <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Via <a href="http://www.emezeta.com/articulos/estas-fotos-son-tuyas" target="_blank">emezeta</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/otro-virus-de-messenger/">Otro virus de Messenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/internet/otro-virus-de-messenger/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Cuidado! Otros &#034;virus&#034; tipo checkmessenger</title>
+		<link>/microbiablog/internet/nuevo-virus-messenger/</link>
+		<pubDate>Fri, 09 May 2008 21:30:10 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[virus]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/09/nuevo-virus-messenger/</guid>
+		<description><![CDATA[<p>Hace tiempo hablé sobre Checkmessenger, un sitio donde dabas tu usuario y contraseña de messenger y prometía revelarte los contactos que te habían eliminado de su lista. Bueno en aquel momento ya explicamos que este servicio nada tenía que ver con Microsoft, y que era un sitio que se aprovechaba de la gente que da [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/nuevo-virus-messenger/">Cuidado! Otros &#34;virus&#34; tipo checkmessenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hace tiempo <a href="http://microbiablog.com/2006/09/19/checkmessengernet-no-pertenece-a-msn/" target="_blank">hablé sobre Checkmessenger</a>, un sitio donde dabas tu usuario y contraseña de messenger y prometía revelarte los contactos que te habían eliminado de su lista. Bueno en aquel momento ya explicamos que este servicio nada tenía que ver con Microsoft, y que era un sitio que se aprovechaba de la gente que da fácilmente sus contraseñas para después hacer con ellas dios-sabe-que. </p>
+<p>Pues esta mañana, uno de mis contactos me ha enviado un mensaje que era solamente una url: <em>nombreusuario</em>.new.1mages.info</p>
+<p>Al parecer es otro sitio donde metes tu contraseña (también te cogen la de ICQ) para apuntarte a una nueva Comunidad de Messenger. En los términos del servicio se puede leer (oye, al menos son sinceros!):</p>
+<blockquote>
+<p><a title="Nuevo virus de messenger" href="http://www.flickr.com/photos/71581203@N00/2479301372/"><img alt="Nuevo virus de messenger" src="http://static.flickr.com/3045/2479301372_21f50b85ef.jpg" align="right" border="0"></a>We may temporarily access your MSN account to do a combination of the following:<br />1. Send instant messages to your friends promoting this site.<br />2. Introduce new entertaining sites to your friends via Instant Messages.</p>
+</blockquote>
+<p>Vamos, que van a entrar con tu cuenta de usuario y van a mandar mensajes a todos tus contactos con lo que les de la gana. No es un virus en realidad, sino que estás dando tu usuario y contraseña en un sitio donde no tienen muy buenas intenciones. </p>
+<p>En fin, podría parecer increíble que lo sigan intentando, pero lo triste es que seguro que hay gente que pica (el contacto que me lo envió a mi es la prueba) <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> estáis avisados.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/nuevo-virus-messenger/">Cuidado! Otros &#34;virus&#34; tipo checkmessenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

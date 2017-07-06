@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>útil &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/util/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Todo sobre expresiones regulares</title>
+		<link>/microbiablog/herramientas/todo-sobre-expresiones-regulares/</link>
+		<pubDate>Wed, 03 Jun 2009 18:51:01 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[programacion]]></category>
+		<category><![CDATA[útil]]></category>
+
+		<guid isPermaLink="false">/microbiablog/2009/06/03/todo-sobre-expresiones-regulares/</guid>
+		<description><![CDATA[<p>Justo cuando ya he terminado de meterle mano al código de mi blog, los de Smashing Magazine publican un post con toda la información sobre expresiones regulares: manuales, herramientas y lo más útil: chuletas y un montón de ejemplos de las funciones más comunes. En Smashing Magazine</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/todo-sobre-expresiones-regulares/">Todo sobre expresiones regulares</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img style="display: inline; margin-left: 0px; margin-right: 0px" align="right" src="http://farm4.static.flickr.com/3371/3592389123_d2e38a1ea5.jpg?v=0" /> Justo cuando ya he terminado de meterle mano al código de mi blog, los de Smashing Magazine publican un post con toda la información sobre expresiones regulares: manuales, <strong>herramientas</strong> y lo más útil: <strong>chuletas</strong> y un montón de <strong>ejemplos</strong> de las funciones más comunes.</p>
+<p>En <a href="http://www.smashingmagazine.com/2009/06/01/essential-guide-to-regular-expressions-tools-tutorials-and-resources/" target="_blank">Smashing Magazine</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/todo-sobre-expresiones-regulares/">Todo sobre expresiones regulares</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>C&#243;mo contabilizar clicks con Analitics</title>
+		<link>/microbiablog/herramientas/cmo-contabilizar-clicks-con-analitics/</link>
+		<pubDate>Wed, 04 Feb 2009 19:28:27 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[estadísticas]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[útil]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/02/04/cmo-contabilizar-clicks-con-analitics/</guid>
+		<description><![CDATA[<p>La herramienta de Google Analytics está muy bien, ya que te permite unas estadísticas bastante detalladas gratis. Sin embargo, hay un reporte que no funciona del todo bien, el de superposición del contenido: Contents &#62; Site Overlay donde muestra tu página y los porcentajes de click de cada link. Yo sé que últimamente está aumentando [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/cmo-contabilizar-clicks-con-analitics/">C&#243;mo contabilizar clicks con Analitics</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img style="border-right: 0px; border-top: 0px; display: inline; margin-left: 0px; border-left: 0px; margin-right: 0px; border-bottom: 0px" src="http://farm4.static.flickr.com/3528/3253189849_880f874024.jpg?v=0" align="right" border="0" /> La herramienta de<strong> Google Analytics</strong> está muy bien, ya que te permite unas <strong>estadísticas</strong> bastante detalladas <strong>gratis</strong>. Sin embargo, hay un reporte que no funciona del todo bien, el de superposición del contenido: <em>Contents &gt; Site Overlay</em> donde muestra tu página y los porcentajes de click de cada link.</p>
+<p>Yo sé que últimamente está aumentando la gente que se suscribe al feed de mi blog gracias a feedburner, sin embargo, el porcentaje de clicks en el icono de RSS de la barra lateral, parecía no tener clicks en el reporte de Google. Le comenté el problema a mi amigo Pepe, y me dió la solución. En el <strong>código</strong> del enlace sólo tienes que <strong>añadir</strong> lo siguiente en el <code>a href</code>:</p>
+<pre><code>onClick=&quot;javascript:pageTracker._trackPageview('/nombre de la página/');&quot;</code></pre>
+<p>Este código hará que en el reporte de Contenido, te aparezca una nueva entrada con el nombre que le hayas puesto a la página y te mostrará las estadísticas. Fácil!</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/cmo-contabilizar-clicks-con-analitics/">C&#243;mo contabilizar clicks con Analitics</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Recibe alertas de Facebook en tu Messenger</title>
+		<link>/microbiablog/herramientas/recibe-alertas-de-facebook-en-tu-messenger/</link>
+		<pubDate>Wed, 03 Sep 2008 20:02:10 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[útil]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/09/03/recibe-alertas-de-facebook-en-tu-messenger/</guid>
+		<description><![CDATA[<p>Los status de Facebook se han convertido en casi un pequeño Twitter, en el que haces saber a la gente lo que estás haciendo o el humor que tienes hoy. A través de estos mensajes puedes saber donde se encuentran tus amigos, lo que están pensando, etc&#8230; Ahora puedes recibir una alerta en tu messenger [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/recibe-alertas-de-facebook-en-tu-messenger/">Recibe alertas de Facebook en tu Messenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Los <em>status</em> de Facebook se han convertido en casi un pequeño Twitter, en el que haces saber a la gente lo que estás haciendo o el humor que tienes hoy. A través de estos mensajes puedes saber donde se encuentran tus amigos, lo que están pensando, etc&#8230; Ahora puedes recibir una alerta en tu messenger cada vez que tus amigos cambian su estado.</p>
+<p>Para poder ver las alertas de Facebook tienes que entrar en tu cuenta y entonces ves todos los cambios de estado. Sin embargo, seguramente te pasas el día conectado a Messenger, y con este pequeño plugin puedes recibir al instante los mensajes que han enviado tus amigos. Lo unico que necesitas es:</p>
+<p><img alt="Alerta messenger" src="http://static.flickr.com/3289/2826022876_f40defd087.jpg" align="right" border="0"> </p>
+<ol>
+<li>Tener instalado <a href="http://www.msgpluslive.net/" target="_blank">Messenger Plus! Live</a>, una extensión de Messenger con un montón de funcionalidades.
+<li>Instalarte el plugin <a href="http://www.msgpluslive.net/scripts/view/419-Facebook-Status-Checker/" target="_blank">Facebook Status Checker</a></li>
+</ol>
+<p>Y listo, ahora cada vez que uno de tus amigos cambie su estado en Facebook te llegará una alerta.</p>
+<p>Enlaces <a href="http://www.msgpluslive.net/" target="_blank">Messenger Plus! Live</a> | <a href="http://www.msgpluslive.net/scripts/view/419-Facebook-Status-Checker/" target="_blank">Facebook Status Checker</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/recibe-alertas-de-facebook-en-tu-messenger/">Recibe alertas de Facebook en tu Messenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Tipografía por defecto de los sistemas operativos</title>
+		<link>/microbiablog/tecnologia/tipografa-por-defecto-de-los-sistemas-operativos/</link>
+		<pubDate>Wed, 03 Sep 2008 19:06:23 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Tecnología]]></category>
+		<category><![CDATA[minipost]]></category>
+		<category><![CDATA[recursos]]></category>
+		<category><![CDATA[útil]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/09/03/tipografa-por-defecto-de-los-sistemas-operativos/</guid>
+		<description><![CDATA[<p>A través de Cosas Sencillas encuentro las fuentes que vienen instaladas por defecto en los distintos sistemas operativos. Sobretodo si no queremos que nuestro bonito diseño acabe lleno de Times Roman o Comic Sans. Y también otros tipos de letra que deberíamos usar.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/tecnologia/tipografa-por-defecto-de-los-sistemas-operativos/">Tipografía por defecto de los sistemas operativos</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>A través de <a href="http://www.cosassencillas.com/2008/06/06/la-tipografa-instalada-por-defecto-en-diversos-sistemas-operativos/" target="_blank">Cosas Sencillas</a> encuentro las <a href="http://www.apaddedcell.com/web-fonts" target="_blank">fuentes que vienen instaladas por defecto</a> en los distintos sistemas operativos. Sobretodo si no queremos que nuestro bonito diseño acabe lleno de Times Roman o Comic Sans. Y también otros <a href="http://www.cosassencillas.com/2008/05/15/algunos-tipos-de-letras-que-posiblemente-no-emplees-con-css/" target="_blank">tipos de letra que deberíamos usar</a>.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/tecnologia/tipografa-por-defecto-de-los-sistemas-operativos/">Tipografía por defecto de los sistemas operativos</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

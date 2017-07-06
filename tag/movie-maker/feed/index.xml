@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>movie maker &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/movie-maker/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Windows Live Movie Maker</title>
+		<link>/microbiablog/herramientas/windows-live-movie-maker/</link>
+		<comments>/microbiablog/herramientas/windows-live-movie-maker/#comments</comments>
+		<pubDate>Mon, 24 Aug 2009 16:48:03 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[edición vídeo]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[movie maker]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/windows-live-movie-maker/</guid>
+		<description><![CDATA[<p>Ya está disponible la nueva versión del software de edición de video de Microsoft. Movie Maker os resultará familiar ya que se incluye en Windows, sin embargo en esta nueva versión se incluyen funcionalidades que se echaban en falta y que lo hacen mucho más completo. Lo que más llama la atención es el nuevo [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/windows-live-movie-maker/">Windows Live Movie Maker</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ya está disponible la nueva versión del software de edición de video de Microsoft. Movie Maker os resultará familiar ya que se incluye en Windows, sin embargo en esta nueva versión se incluyen funcionalidades que se echaban en falta y que lo hacen mucho más completo.<img style="display: block; float: none; margin-left: auto; margin-right: auto" src="http://farm3.static.flickr.com/2556/3853069036_33c070e537.jpg" /></p>
+<p> <span id="more-599"></span>  </p>
+<p>Lo que más llama la atención es el nuevo interfaz, movie maker adopta el <strong>menú de office</strong>, el <em>ribbon</em>, donde todo está ahora más a mano. En la izquierda tenemos el visor con la vista preliminar del vídeo y en la derecha podemos ver el <em>storyboard</em> con los fotogramas y la música que hayamos seleccionado. Gracias al zoom (el icono de la lupa abajo a la derecha) podremos elegir el nivel de detalle del story que queramos.</p>
+<p>Hacer una película rápidamente con nuestras fotos es muy sencillo la opción <strong>AutoMovie</strong>. Selecciona una canción, selecciona las fotos y Movie Maker ajustará automáticamente la duración con la de la música, aunque siempre podremos modificarlo manualmente si no estamos contentos.</p>
+<p>Otra mejora es en cuanto a la <strong>inserción de texto</strong>. En la antigua versión teníamos que recurrir al asistente de títulos, créditos y subtítulos, que no era nada práctico. Ahora tan sólo tenemos que insertar el texto y podremos controlar fácilmente los efectos, duración… etc.</p>
+<p>No hay muchos cambios en cuanto a <strong>efectos y transiciones</strong>, pero suficiente variedad para los videos caseros.</p>
+<p>En cuanto al formato, Movie Maker importa <strong>casi todos los formatos de fotos y vídeo</strong> más comunes, pero <strong>sólo graba en WMV</strong> aunque ahora puedes elegir la calidad: 1080p (Full HD), 720p (DVD &#8211; HD Ready), 640&#215;480, o 320×240 además de poder publicar y subir automáticamente tus vídeos a YouTube.</p>
+<p>En definitiva, un programa muy completo que nada tiene que envidiar a productos de pago similares y que cubre perfectamente las necesidades del usuario no profesional.</p>
+<p>La nueva versión requiere Windows Vista o Windows 7.</p>
+<p>Descarga <a href="http://download.live.com/moviemaker" target="_blank">WL Movie Maker</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/windows-live-movie-maker/">Windows Live Movie Maker</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/windows-live-movie-maker/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

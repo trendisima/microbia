@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>messenger &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/messenger/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Prot&#233;gete de los virus de Messenger con WLM Safe</title>
+		<link>/microbiablog/herramientas/protgete-de-los-virus-de-messenger-con-wlm-safe/</link>
+		<pubDate>Tue, 16 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[virus]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/protgete-de-los-virus-de-messenger-con-wlm-safe/</guid>
+		<description><![CDATA[<p>Los virus de Messenger son bastante peligrosos, sobretodo porque te llegan en forma de mensaje, invitándote a que veas una foto o te descargues un archivo como si fuera uno de tus contactos, y a veces aceptas casi sin leer. Para ayudar a protegernos contra estos molestos virus está WLM Safe, un plugin de MSN [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/protgete-de-los-virus-de-messenger-con-wlm-safe/">Prot&eacute;gete de los virus de Messenger con WLM Safe</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Los virus de Messenger son bastante peligrosos, sobretodo porque te llegan en forma de mensaje, invitándote a que veas una foto o te descargues un archivo como si fuera uno de tus contactos, y a veces aceptas casi sin leer.</p>
+<p><img style="display: inline; margin-left: 0px; margin-right: 0px" align="right" src="http://farm4.static.flickr.com/3624/3629876269_c8af3911aa_o.jpg" /> Para ayudar a protegernos contra estos molestos virus está WLM Safe, un plugin de MSN Plus que detecta y bloquea los archivos infectados, urls maliciosas, bloquea mensajes de spam, te protege contra ataques de flood que pueden bloquear tu equipo, y te notifica en caso de que alguien este utilizando tu mismo nick o estes chateando con un bot o un usuario inseguro.</p>
+<p>Funciones principales: </p>
+<ul>
+<li>Detecta y bloquea links infectados enviados por los virus a traves de tus ventanas de conversación </li>
+<li>Antiphishing: Detecta y bloquea enlaces de phishing enviados por los virus msn a traves de ventanas de messenger. </li>
+<li>Antispam: Bloquea mensajes de Spam enviados por tus contactos. </li>
+<li>Antiflood: detecta ataques de flood y bloquea a los autores. </li>
+<li>Antifreeze: bloquea mensajes que hacen que versiones antiguas de msn se cuelguen. </li>
+<li>Anticopy: Te notifica si uno de tus contactos de Messenger te copia el nick. </li>
+<li>Antibot: Te notifica si estás chateando con un bot. </li>
+<li>Antihackers: Te notifica si estás chateando con un contacto inseguro. </li>
+</ul>
+<p>Además incluye: </p>
+<ul>
+<li>Registro de amenazas: Opcional, crea un registro de todos los ataques que recibas. </li>
+<li>Sonidos: Opcional. Reproduce sonidos para las notificaciones. </li>
+<li>Actualizaciones automáticas. Opcional. </li>
+</ul>
+<p>Descarga <a href="http://www.wlmsafe.com/?lang=es" target="_blank">WLM Safe</a> | Requiere tener instalado <a href="http://www.msgpluslive.es/" target="_blank">MSN Plus</a></p>
+<p>Visto en <a href="http://www.webadictos.com.mx/2009/06/05/virus-msn-evitalos-con-wlm-safe/" target="_blank">Webadictos</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/protgete-de-los-virus-de-messenger-con-wlm-safe/">Prot&eacute;gete de los virus de Messenger con WLM Safe</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Traducir conversaciones de Messenger con TBot</title>
+		<link>/microbiablog/herramientas/traducir-conversaciones-de-messenger-con-tbot/</link>
+		<pubDate>Tue, 09 Jun 2009 16:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[bing]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[traduccion]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/traducir-conversaciones-de-messenger-con-tbot/</guid>
+		<description><![CDATA[<p>TBot es un robot de Messenger que te ayuda a comunicarte en otros idiomas. Simplemente añade Tbot a tus contactos: mtbot@hotmail.com, selecciona el idioma que necesitas y él traducirá al idioma que quieras. Cuando estés hablando con alguien, simplemente añadelo a la conversación y traducirá lo que diga tu amigo. Podeis ver las instrucciones paso [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/traducir-conversaciones-de-messenger-con-tbot/">Traducir conversaciones de Messenger con TBot</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img style="display: inline; margin-left: 0px; margin-right: 0px" align="right" src="http://farm3.static.flickr.com/2208/3610422121_98cf68c2bb_o.jpg" /> TBot es un robot de Messenger que te ayuda a comunicarte en otros idiomas. Simplemente añade Tbot a tus contactos: <a href="mailto:mtbot@hotmail.com"><strong><em>mtbot@hotmail.com</em></strong></a>, selecciona el idioma que necesitas y él traducirá al idioma que quieras. Cuando estés hablando con alguien, simplemente añadelo a la conversación y traducirá lo que diga tu amigo.</p>
+<p>Podeis ver las instrucciones paso a paso y un ejemplo de su funcionamiento en <a href="http://www.makeuseof.com/tag/how-to-auto-translate-foreign-languages-in-msn/" target="_blank">MakeUseOf</a>.</p>
+<p>ATENCIÓN: El Bot se encuentra en fase Alpha y las traducciones no son muy precisas, más bien traduce palabra por palabra, por lo que puede ayudarte a entender por donde va la conversación, pero dependiendo del idioma, puede que te deje un poco perdido. El <a href="http://www.microsofttranslator.com/Default.aspx" target="_blank">traductor de Bing</a> funciona muchísimo mejor.</p>
+<p>Via <a href="http://www.makeuseof.com/tag/how-to-auto-translate-foreign-languages-in-msn/" target="_blank">Make Use Of</a> | <a href="http://wltbot.spaces.live.com/default.aspx?sa=17048896" target="_blank">Blog de TBot</a> | <a href="http://www.microsofttranslator.com/Default.aspx" target="_blank">Traductor de Bing</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/traducir-conversaciones-de-messenger-con-tbot/">Traducir conversaciones de Messenger con TBot</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>A&#241;ade Windows Live Messenger a tu web</title>
+		<link>/microbiablog/herramientas/aade-windows-live-messenger-a-tu-web/</link>
+		<pubDate>Thu, 04 Jun 2009 16:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[útiles]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2009/04/01/aade-windows-live-messenger-a-tu-web/</guid>
+		<description><![CDATA[<p>Microsoft acaba de lanzar Windows Live Messenger Web Toolkit que te permite añadir cualquier control de Messenger directamente en tu página web. Puedes mostrar tu estado de Messenger, tu imagen o poner una ventana de conversación desde la que tus vistantes pueden enviarte mensajes. Todo super fácil, gracias a esta herramienta, donde seleccionas lo que [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/aade-windows-live-messenger-a-tu-web/">A&ntilde;ade Windows Live Messenger a tu web</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img style="display: inline; margin-left: 0px; margin-right: 0px" align="right" src="http://farm4.static.flickr.com/3648/3400900683_465b0087e3.jpg?v=0" /> Microsoft acaba de lanzar <a href="http://dev.live.com/messenger">Windows Live Messenger Web Toolkit</a> que te permite añadir cualquier control de Messenger directamente en tu página web. Puedes mostrar tu estado de Messenger, tu imagen o poner una ventana de conversación desde la que tus vistantes pueden enviarte mensajes.</p>
+<p>Todo super fácil, gracias a <a href="http://messenger.mslivelabs.com/" target="_blank">esta herramienta</a>, donde seleccionas lo que quieres y te muestra el código que tienes que añadir. Además no importa en qué lenguaje esté tu sitio, el código lo puedes encontrar para: C#, Visual Basic .NET, Java, Perl, PHP, Python o Ruby. También puedes echar un vistazo a los <a href="http://www.viddler.com/explore/anguslogan/videos/1" target="_blank">vídeos</a>.</p>
+<p>Via <a href="http://on10.net/blogs/sarahintampa/Add-Windows-Live-Messenger-to-Your-Website/" target="_blank">Channel 10</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/aade-windows-live-messenger-a-tu-web/">A&ntilde;ade Windows Live Messenger a tu web</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Otro virus de Messenger</title>
+		<link>/microbiablog/internet/otro-virus-de-messenger/</link>
+		<comments>/microbiablog/internet/otro-virus-de-messenger/#comments</comments>
+		<pubDate>Wed, 05 Nov 2008 19:55:19 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[virus]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/11/05/otro-virus-de-messenger/</guid>
+		<description><![CDATA[<p>Ya hacía tiempo que no sacaban un virus para Messenger, y aunque éste se parece muchisimo a otros anteriores, ten cuidado, porque es un virus nuevo y seguramente tu antivirus no está preparado. Estos virus de messenger suelen entrar cuando te llega uno de los siguientes mensajes de uno de tus contactos: esta foto so [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/otro-virus-de-messenger/">Otro virus de Messenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ya hacía tiempo que no sacaban un virus para Messenger, y aunque éste se parece muchisimo a otros anteriores, ten cuidado, porque es un virus nuevo y seguramente tu antivirus no está preparado. Estos virus de messenger suelen entrar cuando te llega uno de los siguientes mensajes de uno de tus contactos:</p>
+<li><img alt="virus" src="http://static.flickr.com/3288/3005362357_f3d41883b9.jpg" align="right" border="0" />esta foto so touyo ? http://www.buxhome.org/buxhome.exe?=(email) </li>
+<li>Estas foto so touyo? http://hi5-foto.com/strugalove.exe?=(email) </li>
+<li>Esta foto so touyo ?? http://www.ledhatohu.info/housegirl.exe?=(email) </li>
+<li>esta foto so touyo ? http://www.ledhatohu.info/hmphoto.EXE?=(email) </li>
+<li>estas fotos son tuyas ?? http://www.muzikamp3shqip.com/housegirl.exe?=(email) </li>
+<li>esta foto so touyo ?? http://www.photos-home.org/homphoto.exe?=(email) </li>
+<li>estas fotos son tuyo http://www.yourphot0s.com/lacostegirl.exe?=(email) </li>
+<li>esta foto so touyo ?? http://missshqiperia2009.com/miamor.exe?=(email) </li>
+<li>estas fotos so touyo ?? http:// missshqiperia2009.com/miamor.exe?=(email)</li>
+<p>El mensaje puede cambiar, pero normalmente es una pregunta seguida de una url con una direccion de email. Esto hace que se te descargue un archivo (que normalmente aceptas sin mirar) y que contiene el virus.</p>
+<p>Una vez te entra el virus, lo primero que hace es enviar ese mismo mensaje a todos tus contactos. Es por eso que estos virus se expanden tan rápidamente. Así que ya sabeis, andad con cuidado <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Via <a href="http://www.emezeta.com/articulos/estas-fotos-son-tuyas" target="_blank">emezeta</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/otro-virus-de-messenger/">Otro virus de Messenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/internet/otro-virus-de-messenger/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Msg Plus! para Windows Live Messenger 2009 Beta</title>
+		<link>/microbiablog/internet/msg-plus-para-messenger-2009-beta/</link>
+		<comments>/microbiablog/internet/msg-plus-para-messenger-2009-beta/#comments</comments>
+		<pubDate>Wed, 05 Nov 2008 19:08:11 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[Windows Live]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/11/05/msg-plus-para-messenger-2009-beta/</guid>
+		<description><![CDATA[<p>Si al instalarte la nueva beta de Messenger 2009 dejó de funcionarte el plugin Msg Plus, ahora ya puedes descargar la versión que funciona con la beta. Las funcionalidades son las mismas que en la versión anterior. Y los plugins y scripts deberían funcionar sin problema, aunque bueno, como es una beta, puede dar fallos [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/msg-plus-para-messenger-2009-beta/">Msg Plus! para Windows Live Messenger 2009 Beta</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img alt="msgplus" src="http://static.flickr.com/3205/3005318077_0310073e63.jpg" align="right" border="0" />Si al instalarte la nueva beta de Messenger 2009 dejó de funcionarte el plugin Msg Plus, ahora ya puedes descargar la versión que funciona con la beta. Las funcionalidades son las mismas que en la versión anterior. Y los plugins y scripts deberían funcionar sin problema, aunque bueno, como es una beta, puede dar fallos de vez en cuando.</p>
+<p>Para instalar Msg Plus tendrás que cerrar WL Messenger.</p>
+<p>Via Bitelia: <a title="Msg Plus! para Windows Live Messenger 9 Beta" href="http://bitelia.com/2008/11/04/msg-plus-para-windows-live-messenger-9-beta/">Msg Plus! para Windows Live Messenger 9 Beta</a> | Descargar <a href="http://www.msgpluslive.es/" target="_blank">Msg Plus Live</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/msg-plus-para-messenger-2009-beta/">Msg Plus! para Windows Live Messenger 2009 Beta</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/internet/msg-plus-para-messenger-2009-beta/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Accede a Facebook desde WL Messenger</title>
+		<link>/microbiablog/herramientas/accede-a-facebook-desde-wl-messenger/</link>
+		<comments>/microbiablog/herramientas/accede-a-facebook-desde-wl-messenger/#comments</comments>
+		<pubDate>Thu, 04 Sep 2008 19:34:41 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[útiles]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/09/04/accede-a-facebook-desde-wl-messenger/</guid>
+		<description><![CDATA[<p>¿Quieres acceder a tu cuenta de Facebook de una forma rápida y sin salir de messenger? La gente de Windows Live ha creado una tab de Facebook dentro de messenger que te permite cambiar tu estado, ver las últimas actualizaciones de tus amigos y sus fotos. Y todo eso sin moverte de messenger, lo malo [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/accede-a-facebook-desde-wl-messenger/">Accede a Facebook desde WL Messenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img alt="Facebook Messenger" src="http://static.flickr.com/3173/2828826110_dcbf426bfc.jpg" align="right" border="0">¿Quieres acceder a tu cuenta de Facebook de una forma rápida y sin salir de messenger? La gente de Windows Live ha creado una <a href="http://windowslive.uk.msn.com/rss/article.aspx?cp-documentid=8438992" target="_blank">tab de Facebook dentro de messenger</a> que te permite cambiar tu estado, ver las últimas actualizaciones de tus amigos y sus fotos. Y todo eso sin moverte de messenger, lo malo es que sólo esta disponible para los usuarios de Reino Unido, pero puede que pronto lo veamos también en España. <em>Aunque también puedes usar el truco de cambiar tu ubicación en tu cuenta de messenger. </em></p>
+<p>Mientras tanto, puedes <a href="http://microbiablog.com/2008/09/02/actualiza-twitter-y-facebook-desde-wl-messenger/">actualizar tu status de Facebook desde Messenger</a> y <a href="http://microbiablog.com/2008/09/03/recibe-alertas-de-facebook-en-tu-messenger/">recibir actualizaciones de tus contactos vía alertas</a>.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/accede-a-facebook-desde-wl-messenger/">Accede a Facebook desde WL Messenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/accede-a-facebook-desde-wl-messenger/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Recibe alertas de Facebook en tu Messenger</title>
+		<link>/microbiablog/herramientas/recibe-alertas-de-facebook-en-tu-messenger/</link>
+		<pubDate>Wed, 03 Sep 2008 20:02:10 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[útil]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/09/03/recibe-alertas-de-facebook-en-tu-messenger/</guid>
+		<description><![CDATA[<p>Los status de Facebook se han convertido en casi un pequeño Twitter, en el que haces saber a la gente lo que estás haciendo o el humor que tienes hoy. A través de estos mensajes puedes saber donde se encuentran tus amigos, lo que están pensando, etc&#8230; Ahora puedes recibir una alerta en tu messenger [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/recibe-alertas-de-facebook-en-tu-messenger/">Recibe alertas de Facebook en tu Messenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Los <em>status</em> de Facebook se han convertido en casi un pequeño Twitter, en el que haces saber a la gente lo que estás haciendo o el humor que tienes hoy. A través de estos mensajes puedes saber donde se encuentran tus amigos, lo que están pensando, etc&#8230; Ahora puedes recibir una alerta en tu messenger cada vez que tus amigos cambian su estado.</p>
+<p>Para poder ver las alertas de Facebook tienes que entrar en tu cuenta y entonces ves todos los cambios de estado. Sin embargo, seguramente te pasas el día conectado a Messenger, y con este pequeño plugin puedes recibir al instante los mensajes que han enviado tus amigos. Lo unico que necesitas es:</p>
+<p><img alt="Alerta messenger" src="http://static.flickr.com/3289/2826022876_f40defd087.jpg" align="right" border="0"> </p>
+<ol>
+<li>Tener instalado <a href="http://www.msgpluslive.net/" target="_blank">Messenger Plus! Live</a>, una extensión de Messenger con un montón de funcionalidades.
+<li>Instalarte el plugin <a href="http://www.msgpluslive.net/scripts/view/419-Facebook-Status-Checker/" target="_blank">Facebook Status Checker</a></li>
+</ol>
+<p>Y listo, ahora cada vez que uno de tus amigos cambie su estado en Facebook te llegará una alerta.</p>
+<p>Enlaces <a href="http://www.msgpluslive.net/" target="_blank">Messenger Plus! Live</a> | <a href="http://www.msgpluslive.net/scripts/view/419-Facebook-Status-Checker/" target="_blank">Facebook Status Checker</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/recibe-alertas-de-facebook-en-tu-messenger/">Recibe alertas de Facebook en tu Messenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Actualiza Twitter y Facebook desde WL Messenger</title>
+		<link>/microbiablog/herramientas/actualiza-twitter-y-facebook-desde-wl-messenger/</link>
+		<comments>/microbiablog/herramientas/actualiza-twitter-y-facebook-desde-wl-messenger/#comments</comments>
+		<pubDate>Tue, 02 Sep 2008 17:44:08 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[útiles]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/09/02/actualiza-twitter-y-facebook-desde-wl-messenger/</guid>
+		<description><![CDATA[<p>Ahora es mucho más fácil actualizar tu twitter o tu estado de facebook usando una sola aplicación: Windows Live Messenger. La mayor parte del tiempo la pasamos conectados a messenger, sin embargo para actualizar Twitter y Facebook tenemos que ir a dos sitios distintos, logarnos y después de varios clicks, conseguiremos lo que queríamos. ¿Cómo [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/actualiza-twitter-y-facebook-desde-wl-messenger/">Actualiza Twitter y Facebook desde WL Messenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ahora es mucho más fácil actualizar tu twitter o tu estado de facebook usando una sola aplicación: Windows Live Messenger. La mayor parte del tiempo la pasamos conectados a messenger, sin embargo para actualizar Twitter y Facebook tenemos que ir a dos sitios distintos, logarnos y después de varios clicks, conseguiremos lo que queríamos. ¿Cómo lo puedes hacer? Muy fácil.</p>
+<p><span align="center"><img alt="messenger facebook twitter" src="http://static.flickr.com/3278/2822331028_e24cc0e8aa.jpg" border="0"></span> <br /> <span id="more-374"></span>  </p>
+<ol>
+<li>Lo primero que necesitas es una cuenta de <a href="http://twitter.com/" target="_blank">Twitter</a> (aunque lo que quieras cambiar es Facebook), si no tienes una, <a href="https://twitter.com/signup" target="_blank">regístrate</a>.
+<li>Una vez que tengas la cuenta creada, tienes que ir a Facebook e instalar la aplicación que permite que Facebook y Twitter estén conectados. Esta aplicación se llama <a href="http://www.facebook.com/apps/application.php?id=6009973148" target="_blank">TwitterSync</a> y es muy fácil de utilizar, sigue los pasos de las instrucciones y estará funcionando en segundos.
+<li>Ahora ya tienes Facebook sincronizado con tu estado de Twitter.
+<li>Ya sólo tienes que actualizar Twitter desde Messenger. Para ello tenemos dos opciones:
+<ol>
+<li><a href="http://www.imified.com/" target="_blank">Imfied</a>, que es un <em>bot</em> de messenger (como un contacto más de tu lista) al que simplemente mandándole mensajes, actualizará tu twitter, además también funciona con otros servicios como Remember the Milk, Blogger, WordPress entre otros. Sólo tienes que añadir el bot a tu Messenger como un contacto más, con el email: <a href="mailto:imified@imified.com">imified@imified.com</a> y seguir las instrucciones.
+<li><a href="http://twitterim.com/" target="_blank">TwitterIM</a>, exactamente igual que el anterior, pero sólo funciona con Twitter, así que depende de los servicios que utilices.</li>
+</ol>
+</li>
+</ol>
+<p>Además Imified te permite crear atajos del teclado, de forma que ahorrarás un montón de tiempo y podrás actualizar más. Ah! Y además cuando tengas conectado Twitter a Facebook, podrás actualizar tu estado a través del móvil usando <a title="m.twitter.com" href="http://m.twitter.com/">m.twitter.com</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/actualiza-twitter-y-facebook-desde-wl-messenger/">Actualiza Twitter y Facebook desde WL Messenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/actualiza-twitter-y-facebook-desde-wl-messenger/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Cuidado! Otros &#034;virus&#034; tipo checkmessenger</title>
+		<link>/microbiablog/internet/nuevo-virus-messenger/</link>
+		<pubDate>Fri, 09 May 2008 21:30:10 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[messenger]]></category>
+		<category><![CDATA[virus]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/05/09/nuevo-virus-messenger/</guid>
+		<description><![CDATA[<p>Hace tiempo hablé sobre Checkmessenger, un sitio donde dabas tu usuario y contraseña de messenger y prometía revelarte los contactos que te habían eliminado de su lista. Bueno en aquel momento ya explicamos que este servicio nada tenía que ver con Microsoft, y que era un sitio que se aprovechaba de la gente que da [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/nuevo-virus-messenger/">Cuidado! Otros &#34;virus&#34; tipo checkmessenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hace tiempo <a href="http://microbiablog.com/2006/09/19/checkmessengernet-no-pertenece-a-msn/" target="_blank">hablé sobre Checkmessenger</a>, un sitio donde dabas tu usuario y contraseña de messenger y prometía revelarte los contactos que te habían eliminado de su lista. Bueno en aquel momento ya explicamos que este servicio nada tenía que ver con Microsoft, y que era un sitio que se aprovechaba de la gente que da fácilmente sus contraseñas para después hacer con ellas dios-sabe-que. </p>
+<p>Pues esta mañana, uno de mis contactos me ha enviado un mensaje que era solamente una url: <em>nombreusuario</em>.new.1mages.info</p>
+<p>Al parecer es otro sitio donde metes tu contraseña (también te cogen la de ICQ) para apuntarte a una nueva Comunidad de Messenger. En los términos del servicio se puede leer (oye, al menos son sinceros!):</p>
+<blockquote>
+<p><a title="Nuevo virus de messenger" href="http://www.flickr.com/photos/71581203@N00/2479301372/"><img alt="Nuevo virus de messenger" src="http://static.flickr.com/3045/2479301372_21f50b85ef.jpg" align="right" border="0"></a>We may temporarily access your MSN account to do a combination of the following:<br />1. Send instant messages to your friends promoting this site.<br />2. Introduce new entertaining sites to your friends via Instant Messages.</p>
+</blockquote>
+<p>Vamos, que van a entrar con tu cuenta de usuario y van a mandar mensajes a todos tus contactos con lo que les de la gana. No es un virus en realidad, sino que estás dando tu usuario y contraseña en un sitio donde no tienen muy buenas intenciones. </p>
+<p>En fin, podría parecer increíble que lo sigan intentando, pero lo triste es que seguro que hay gente que pica (el contacto que me lo envió a mi es la prueba) <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> estáis avisados.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/nuevo-virus-messenger/">Cuidado! Otros &#34;virus&#34; tipo checkmessenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>MSN Zombie, el troyano de moda en messenger</title>
+		<link>/microbiablog/internet/msn-zombie-el-troyano-de-moda-en-messenger/</link>
+		<pubDate>Wed, 21 Nov 2007 19:59:18 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[messenger]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/?p=183</guid>
+		<description><![CDATA[<p>Tened cuidado si alguien intenta enviaros el siguiente archivo: http://animaciones.xxx.xxxxxxpages.com/Bush-gracioso.exe Según informes de Aladdin Knowledge Systems el troyano se está expandiendo muy rápido, en sólo 3 días ha infectado más de 11.000 equipos. Estos equipos infectados se convierten en zombis y pueden ser controlador por el creador del virus para hacer lo que se le plazca. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/msn-zombie-el-troyano-de-moda-en-messenger/">MSN Zombie, el troyano de moda en messenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Tened cuidado si alguien intenta enviaros el siguiente archivo: http://animaciones.xxx.xxxxxxpages.com/Bush-gracioso.exe</p>
+<p>Según informes de Aladdin Knowledge Systems el troyano se está expandiendo muy rápido, en sólo 3 días ha infectado más de 11.000 equipos. Estos equipos infectados se convierten en zombis y pueden ser controlador por el creador del virus para hacer lo que se le plazca.</p>
+<p align="left">Como saber si estás infectado:</p>
+<p align="justify">
+<ul>
+<li>Al ejecutar el archivo, te da un error, e inmediatamente se deshabilita el antivirus</li>
+<li>No puedes usar ctrl-alt-delete para ver los procesos</li>
+<li>Si accedes a alguna pagina antivirus se cierra.</li>
+</ul>
+<p>Si eres uno de los infectados, no temas, en <a target="_blank" href="http://blogultura.com/seguridad-informatica/eliminar-el-troyano-msnzombiea/">blogcultura te cuentan como solucionarlo</a>.</p>
+<p>Via <a target="_blank" href="http://alt1040.com/archivo/2007/11/21/un-troyano-en-live-messenger-se-expande-como-espuma/">alt1040</a> | Solución en <a target="_blank" href="http://blogultura.com/seguridad-informatica/eliminar-el-troyano-msnzombiea/">blogcultura</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/internet/msn-zombie-el-troyano-de-moda-en-messenger/">MSN Zombie, el troyano de moda en messenger</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

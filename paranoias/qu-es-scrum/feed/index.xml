@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: ¿Qué es SCRUM?</title>
+	<atom:link href="/microbiablog/paranoias/qu-es-scrum/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/paranoias/qu-es-scrum/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Tue, 03 Apr 2012 11:12:15 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>By: multiplexado</title>
+		<link>/microbiablog/paranoias/qu-es-scrum/#comment-1817</link>
+		<dc:creator><![CDATA[multiplexado]]></dc:creator>
+		<pubDate>Tue, 07 Oct 2008 11:12:22 +0000</pubDate>
+		<guid isPermaLink="false">http://microbiablog.com/2008/10/06/qu-es-scrum/#comment-1817</guid>
+		<description><![CDATA[Perico, ahora dime que nunca le has dicho a tu jefe  &quot;estos son unos ..&quot; y el proyecto que yo controlo no va a salir bien en ... eso no es implicación porque lo vez desde fuera
+Los clientes sólo os involucráis para poneros medallas ... malditos ...]]></description>
+		<content:encoded><![CDATA[<p>Perico, ahora dime que nunca le has dicho a tu jefe  &#8220;estos son unos ..&#8221; y el proyecto que yo controlo no va a salir bien en &#8230; eso no es implicación porque lo vez desde fuera<br />
+Los clientes sólo os involucráis para poneros medallas &#8230; malditos &#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: microbia</title>
+		<link>/microbiablog/paranoias/qu-es-scrum/#comment-1819</link>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+		<pubDate>Tue, 07 Oct 2008 09:21:24 +0000</pubDate>
+		<guid isPermaLink="false">http://microbiablog.com/2008/10/06/qu-es-scrum/#comment-1819</guid>
+		<description><![CDATA[Bueno, dependiendo del ciclo de desarrollo (en mi caso es un mes) se realiza una reunión con los clientes para asegurarse de que lo que se está desarrollando es que lo que se necesita. Ademas antes de ponerse a currar, los de desarrollo revisan las especificaciones y reciben requerimientos de cliente, aún así, ya se sabe que no hay metodología perfecta y siempre hay sorpresas...]]></description>
+		<content:encoded><![CDATA[<p>Bueno, dependiendo del ciclo de desarrollo (en mi caso es un mes) se realiza una reunión con los clientes para asegurarse de que lo que se está desarrollando es que lo que se necesita. Ademas antes de ponerse a currar, los de desarrollo revisan las especificaciones y reciben requerimientos de cliente, aún así, ya se sabe que no hay metodología perfecta y siempre hay sorpresas&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: perico</title>
+		<link>/microbiablog/paranoias/qu-es-scrum/#comment-1818</link>
+		<dc:creator><![CDATA[perico]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2008 19:33:21 +0000</pubDate>
+		<guid isPermaLink="false">http://microbiablog.com/2008/10/06/qu-es-scrum/#comment-1818</guid>
+		<description><![CDATA[Pues yo como &quot;cliente&quot; creo que también estoy comprometido, porque como el proyecto no salga por la panda de negaos a los que he dejado sin controlar por culpa del método, me cortan los &quot;pelendengues&quot;.
+
+Esta muy bien eso de no controlar pero te puedes encontrar con cualquier cosa.
+
+Y sino ya te contaré, que tengo un director técnico con ganas de usar el método y veremos que pasa...]]></description>
+		<content:encoded><![CDATA[<p>Pues yo como &#8220;cliente&#8221; creo que también estoy comprometido, porque como el proyecto no salga por la panda de negaos a los que he dejado sin controlar por culpa del método, me cortan los &#8220;pelendengues&#8221;.</p>
+<p>Esta muy bien eso de no controlar pero te puedes encontrar con cualquier cosa.</p>
+<p>Y sino ya te contaré, que tengo un director técnico con ganas de usar el método y veremos que pasa&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

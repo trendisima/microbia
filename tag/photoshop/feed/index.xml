@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>photoshop &#8211; microbiablog</title>
+	<atom:link href="/microbiablog/tag/photoshop/feed/" rel="self" type="application/rss+xml" />
+	<link>/microbiablog/</link>
+	<description>Cuanta maldad...</description>
+	<lastBuildDate>Thu, 23 Mar 2017 20:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Recopilatorio de acciones Photoshop</title>
+		<link>/microbiablog/herramientas/recopilatorio-de-acciones-photoshop/</link>
+		<pubDate>Thu, 25 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[diseno]]></category>
+		<category><![CDATA[photoshop]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/recopilatorio-de-acciones-photoshop/</guid>
+		<description><![CDATA[<p>En TripWireMagazine publican un recopilatorio de las acciones más comunes para Photoshop: retoque, color, efectos, con estas acciones ahorrarás mucho tiempo ya que harán todo por tí.</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/recopilatorio-de-acciones-photoshop/">Recopilatorio de acciones Photoshop</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>En <a href="http://www.tripwiremagazine.com/tutorials/tutorials/huge-essential-collection-of-photoshop-actions-to-dpeed-up-your-work.html" target="_blank">TripWireMagazine</a> publican un recopilatorio de las acciones más comunes para Photoshop: retoque, color, efectos, con estas acciones ahorrarás mucho tiempo ya que harán todo por tí.</p>
+<p><img style="display: block; float: none; margin-left: auto; margin-right: auto" src="http://farm3.static.flickr.com/2450/3650986947_0e3c404960_o.jpg" /></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/recopilatorio-de-acciones-photoshop/">Recopilatorio de acciones Photoshop</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>8 herramientas para optimizar im&#225;genes</title>
+		<link>/microbiablog/herramientas/8-herramientas-para-optimizar-imgenes/</link>
+		<pubDate>Thu, 18 Jun 2009 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[útiles]]></category>
+
+		<guid isPermaLink="false">/microbiablog/herramientas/8-herramientas-para-optimizar-imgenes/</guid>
+		<description><![CDATA[<p>Si quieres optimizar el tamaño de las imágenes fácilmente sin tener que esperar a que se abra Photoshop, puedes usar cualquiera de las siguientes opciones. Os recomiendo RIOT, lo he estado utilizando desde que vi el post en SixRevisions, pero os pongo la lista completa (de la versión traducida de Cosas Sencillas): smush.it!. Es una [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/8-herramientas-para-optimizar-imgenes/">8 herramientas para optimizar im&aacute;genes</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Si quieres optimizar el tamaño de las imágenes fácilmente sin tener que esperar a que se abra Photoshop, puedes usar cualquiera de las siguientes opciones. Os recomiendo RIOT, lo he estado utilizando desde que vi el post en <a href="http://sixrevisions.com/tools/8-excellent-tools-for-optimizing-your-images/" target="_blank">SixRevisions</a>, pero os pongo la lista completa (de la versión traducida de <a href="http://www.cosassencillas.com/2009/06/09/8-excelentes-herramientas-para-optimizar-tus-imagenes/" target="_blank">Cosas Sencillas</a>):</p>
+<ul>
+<li><strong><a href="http://smush.it/">smush.it!</a></strong><em>. </em>Es una herramienta para optimizar imágenes que está disponible como una extensión de Firefox, que convierte nuestro navegador como una aplicación basada en web. Lee la mayoría de los tipos de formatos de imagen, y los convierte automáticamente a PNG o GIF, pero pesando mucho menos. </li>
+</ul>
+<ul>
+<li><strong><a href="http://luci.criosweb.ro/riot/">RIOT</a></strong>. Una herramienta de optimización de imagen, para los usuarios de Windows que está disponible como una aplicación independiente o como una extensión. Soporta entradas en formato JPG, PNG y GIF. También tiene algunas utilidades sencillas de edición de imágenes. </li>
+</ul>
+<ul>
+<li><strong><a href="http://www.advsys.net/ken/util/pngout.htm">PNGOUT</a></strong>. Es una herramienta para optimización de imágenes sin pérdidas. Se puede ejecutar en la línea de comandos de Windows o el cuadro de diálogo Ejecutar. Tiene un robusto conjunto de opciones para que puedas personalizar la forma en sus archivos están comprimidos. Soporta la mayoría de los formatos más populares de archivo de imagen (JPG, GIF y PNG). </li>
+</ul>
+<ul>
+<li><strong><a href="http://tools.dynamicdrive.com/imageoptimizer/">Online Image Optimizer</a></strong>. Un optimizador de imágenes en línea de Dynamic Drive, una herramienta basada en la web para comprimir imágenes con mayor detalle. Le proporcionamos el vínculo de la imagen que deseas optimizar, o la subes desde tu equipo local.&#160; Solo acepta imágenes de menos de 300 KB. </li>
+</ul>
+<ul>
+<li><strong><a href="http://www.boxtopsoft.com/supergif.html">SuperGIF</a></strong>. Utilidad para Windows y Mac OS, que optimiza imágenes GIF. Tiene una interfaz intuitiva y sencilla que permite arrastrar y soltar para la interacción, y puede comprimir los archivos GIF un 50% más que el original en algunos casos. </li>
+</ul>
+<ul>
+<li><strong><a href="http://brh.numbera.com/software/pnggauntlet/">PNGGauntlet</a></strong>. Se puede utilizar para convertir archivos JPG, GIF, TGA, PCX, BMP y PNG altamente optimizado. Es perfecto para las personas que no se sienten incómodos trabajando en el cuadro de diálogo Ejecutar en Windows, por el algoritmo de&#160; optimización que emplea. </li>
+</ul>
+<ul>
+<li><strong><a href="http://factorycity.net/projects/pngcrushrrr/">PNGCrushrrr</a></strong>. Es un servicio gratuito, bajo licencia GPL, para Mac OS, para reducir de tamaño tus archivos PNG. Cuenta con una interfaz de arrastrar y soltar, con la compresión de los archivos y la preservación del archivo original vemos lo que son capaces de hacer. </li>
+</ul>
+<ul>
+<li><strong><a href="http://www.fnordware.com/superpng/">SuperPNG</a></strong>. Es un <em>plugin </em>de Photoshop gratuito para guardar archivos PNG significativamente con menos peso en comparación con las funciones de Photoshop para los archivos PNG. Incluye algunas características avanzada para los PNG&#160; como color de 16 bits de apoyo, la compresión variable, corrección gamma, y el ahorro de los metadatos. </li>
+</ul>
+<p>Visto en <a href="http://www.cosassencillas.com/2009/06/09/8-excelentes-herramientas-para-optimizar-tus-imagenes/" target="_blank">Cosas Sencillas</a> | Post de <a href="http://sixrevisions.com/tools/8-excellent-tools-for-optimizing-your-images/" target="_blank">Six Revisions</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/8-herramientas-para-optimizar-imgenes/">8 herramientas para optimizar im&aacute;genes</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Pixlr, un Photoshop online gratis</title>
+		<link>/microbiablog/herramientas/pixlr-un-photoshop-online-gratis/</link>
+		<comments>/microbiablog/herramientas/pixlr-un-photoshop-online-gratis/#comments</comments>
+		<pubDate>Wed, 08 Oct 2008 19:40:19 +0000</pubDate>
+		<dc:creator><![CDATA[microbia]]></dc:creator>
+				<category><![CDATA[Herramientas]]></category>
+		<category><![CDATA[diseno]]></category>
+		<category><![CDATA[favoritos]]></category>
+		<category><![CDATA[photoshop]]></category>
+
+		<guid isPermaLink="false">http://microbiablog.com/2008/10/08/pixlr-un-photoshop-online-gratis/</guid>
+		<description><![CDATA[<p>Llevaba tiempo buscando un programa que sustituyese a Photoshop, y creo que al fin he encontrado una, al menos para las cosillas pequeñas como recortar fotos, etc. Pixlr está hecha en Flash, y a pesar de eso (ya sabeis que no soy nada fan) va rápido y funciona muy bien. La principal ventaja es que [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/pixlr-un-photoshop-online-gratis/">Pixlr, un Photoshop online gratis</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img style="display: inline; margin-left: 0px; margin-right: 0px" alt="Pixlr" src="http://static.flickr.com/3101/2924402571_4db06f20ed.jpg" align="right" border="0" />Llevaba tiempo buscando un programa que sustituyese a Photoshop, y creo que al fin he encontrado una, al menos para las cosillas pequeñas como recortar fotos, etc. <a href="http://www.pixlr.com/" target="_blank">Pixlr</a> está hecha en Flash, y a pesar de eso <em>(ya sabeis que no soy nada fan)</em> va rápido y funciona muy bien. La principal ventaja es que no tenemos que instalar nada, sino que funciona directamente en el navegador.</p>
+<p>La aplicación es un clon de Photoshop, los menús, la paleta de herramientas y las ventanas verás que son idénticas, lo que facilita muchísimo las cosas (<a href="http://microbiablog.com/2008/08/14/gimp-un-photoshop-gratis/">no como cuando probé con el Gimp</a>). Cuenta con capas, filtros, ajustes y las herramientas básicas. Yo la he empezado a usar como sustituto, y ya no tengo que esperar horas hasta que se arranca Photoshop para recortar y hacer las cuatro cosas que suelo hacer con las imágenes. Use <a href="http://www.pixlr.com/" target="_blank">Pixlr</a> para cambiar el tamaño de las imagenes de este post.</p>
+<p><img style="display: block; float: none; margin-left: auto; margin-right: auto" alt="Pixlr" src="http://static.flickr.com/3156/2925254816_4e3831068f.jpg" border="0" /></p>
+<p>Via <a href="http://www.emezeta.com/articulos/pixlr-el-adobe-photoshop-de-internet" target="_blank">emezeta</a> | Sitio <a href="http://www.pixlr.com/" target="_blank">Pixlr</a></p>
+<p>The post <a rel="nofollow" href="/microbiablog/herramientas/pixlr-un-photoshop-online-gratis/">Pixlr, un Photoshop online gratis</a> appeared first on <a rel="nofollow" href="/microbiablog/">microbiablog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/microbiablog/herramientas/pixlr-un-photoshop-online-gratis/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>
